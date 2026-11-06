@@ -1,0 +1,43 @@
+name: Обновление цен
+
+on:
+  schedule:
+    # Каждые 2 часа (время UTC). Чаще не нужно: так вы не нагружаете чужой сайт.
+    - cron: "17 */2 * * *"
+  workflow_dispatch:   # кнопка «Run workflow» для запуска вручную
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-prices
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Установка зависимостей
+        run: pip install -r scraper/requirements.txt
+
+      - name: Сбор цен
+        run: python scraper/scrape.py
+
+      - name: Сохранение, если цены изменились
+        run: |
+          git config user.name "applebay-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/products.json
+          if git diff --cached --quiet; then
+            echo "Цены не изменились"
+          else
+            git commit -m "Обновление цен $(date -u +'%Y-%m-%d %H:%M') UTC"
+            git push
+          fi
