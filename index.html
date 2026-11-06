@@ -74,9 +74,11 @@ nav.cats ul::-webkit-scrollbar{display:none}
 nav.cats > .wrap > ul > li{position:relative}
 nav.cats a.top{display:block;padding:12px 14px;text-decoration:none;font-weight:500;white-space:nowrap;border-bottom:2px solid transparent}
 nav.cats a.top:hover,nav.cats a.top.on{border-bottom-color:var(--ice)}
-.drop{display:none;position:absolute;left:0;top:100%;min-width:220px;background:var(--paper);border:1px solid var(--line);border-radius:12px;padding:8px;box-shadow:0 12px 30px rgba(27,33,40,.12)}
-.drop a{display:block;padding:8px 12px;border-radius:8px;text-decoration:none;white-space:nowrap}
+.drop{display:none;position:absolute;left:0;top:100%;min-width:220px;max-height:70vh;overflow:auto;column-width:200px;width:max-content;max-width:min(660px,90vw);background:var(--paper);border:1px solid var(--line);border-radius:12px;padding:8px;box-shadow:0 12px 30px rgba(27,33,40,.12)}
+.drop a{break-inside:avoid;display:block;padding:8px 12px;border-radius:8px;text-decoration:none;white-space:nowrap}
 .drop a:hover{background:var(--mist)}
+nav.cats > .wrap > ul > li:nth-last-child(-n+4) .drop{left:auto;right:0}
+.more{display:flex;justify-content:center;margin-top:20px}
 @media (hover:hover) and (min-width:861px){nav.cats li:hover .drop{display:block}nav.cats ul{overflow:visible}}
 
 /* hero */
@@ -238,10 +240,11 @@ async function load(){
       fetch("config.json", {cache:"no-store"}).then(r=>r.json()),
       fetch("data/products.json?v=" + Date.now(), {cache:"no-store"}).then(r=>r.json())
     ]);
-    S.cfg = c; S.products = d.products || []; S.updated = d.updated_at;
+    S.cfg = c; S.products = d.products || []; S.updated = d.updated_at; S.groupsFromData = d.groups;
   }
-  S.groups = S.cfg.groups;
-  S.cats = {}; S.groups.forEach(g => g.categories.forEach(c => S.cats[c.id] = {...c, group:g}));
+  S.groups = (window.APPLEBAY_DATA ? window.APPLEBAY_DATA.products.groups : null) || S.groupsFromData || [];
+  S.cats = {}; S.groups.forEach(g => g.categories.forEach(c => { if (!S.cats[c.id]) S.cats[c.id] = {...c, group:g}; }));
+  S.count = {}; S.products.forEach(p => [...p.cats, ...p.groups].forEach(id => S.count[id] = (S.count[id]||0) + 1));
   fillChrome(); render();
 }
 
@@ -269,7 +272,8 @@ function fillChrome(){
     ${g.categories.length > 1 ? `<div class="drop">${g.categories.filter(c=>countIn(c.id)).map(c => `<a href="#${c.id}">${esc(c.title)}</a>`).join("")}</div>` : ""}</li>`).join("");
 }
 
-function countIn(id){ return S.products.filter(p => p.group === id || p.category === id).length; }
+function countIn(id){ return S.count[id] || 0; }
+const inCat = id => p => p.cats.includes(id) || p.groups.includes(id);
 function minPrice(list){ return list.length ? Math.min(...list.map(p=>p.price)) : null; }
 
 function updatedText(){
@@ -301,9 +305,10 @@ function grid(list){
 function home(){
   const models = [];
   S.groups.forEach(g => g.categories.forEach(c => {
-    const list = S.products.filter(p => p.category === c.id);
-    if (list.length) models.push({c, min:minPrice(list)});
+    const list = S.products.filter(inCat(c.id));
+    if (list.length) models.push({c, min:minPrice(list), apple:/iphone|macbook|ipad|watch|airpods/i.test(c.id)});
   }));
+  models.sort((x,y) => y.apple - x.apple);
   const board = models.slice(0, 7).map(m => `<a class="row" href="#${m.c.id}"><span class="m">${esc(m.c.title)}</span><span class="dots"></span><span class="p"><small>от</small>${rub(m.min)}</span></a>`).join("");
   const perks = [
     ["Только оригинал","Новая техника в заводской упаковке"],
@@ -313,7 +318,7 @@ function home(){
   ].map(([b,s]) => `<div class="perk"><b>${b}</b><span>${s}</span></div>`).join("");
   const sections = (S.cfg.home_categories || []).map(id => {
     const c = S.cats[id]; if (!c) return "";
-    const list = S.products.filter(p => p.category === id).sort((a,b)=>a.price-b.price);
+    const list = S.products.filter(inCat(id)).sort((a,b)=>a.price-b.price);
     if (!list.length) return "";
     return `<section class="sec"><div class="sec-head"><h2>${esc(c.title)}</h2><a href="#${id}">Все ${list.length}</a></div>${grid(list.slice(0,8))}</section>`;
   }).join("");
@@ -322,7 +327,7 @@ function home(){
         <div class="stamp"><i></i>${updatedText()}</div>
         <h1>Техника Apple по честной цене — сразу на сайте</h1>
         <p>${esc(S.cfg.shop.slogan)}. Выберите модель и напишите нам — заказ оформим за пару минут.</p>
-        <a class="btn" href="#${S.groups[0].id}">Смотреть каталог</a>
+        <a class="btn" href="#${S.groups[0] ? S.groups[0].id : ""}">Смотреть каталог</a>
       </div>
       <div class="board"><div class="board-in"><h2>Цены сегодня</h2>${board || '<p style="padding:12px 16px;color:var(--steel)">Цены появятся после первого обновления.</p>'}</div></div>
     </section>
@@ -331,7 +336,7 @@ function home(){
 }
 
 const SORTS = {cheap:(a,b)=>a.price-b.price, exp:(a,b)=>b.price-a.price, name:(a,b)=>a.name.localeCompare(b.name,"ru")};
-let view = {sort:"cheap", mem:""};
+let view = {sort:"cheap", mem:"", limit:48};
 function memOf(name){ const m = name.match(/\b(\d+\s?(?:GB|TB|ГБ|ТБ))\b/i); return m ? m[1].replace(/\s/,"").toUpperCase() : ""; }
 function memVal(m){ const n = parseInt(m); return /TB|ТБ/.test(m) ? n*1024 : n; }
 
@@ -339,7 +344,7 @@ function catalog(id){
   const group = S.groups.find(g => g.id === id);
   const cat = group ? null : S.cats[id];
   const g = group || cat.group;
-  let list = S.products.filter(p => group ? p.group === id : p.category === id);
+  let list = S.products.filter(inCat(id));
   const mems = [...new Set(list.map(p => memOf(p.name)).filter(Boolean))].sort((a,b)=>memVal(a)-memVal(b));
   if (view.mem) list = list.filter(p => memOf(p.name) === view.mem);
   list.sort(SORTS[view.sort]);
@@ -357,14 +362,14 @@ function catalog(id){
         <option value="name" ${view.sort==="name"?"selected":""}>По названию</option>
       </select>
     </div>
-    <div class="sec">${grid(list)}</div>`;
+    <div class="sec">${grid(list.slice(0, view.limit))}${list.length > view.limit ? `<div class="more"><button class="btn ghost" data-more>Показать ещё ${Math.min(48, list.length - view.limit)}</button></div>` : ""}</div>`;
 }
 
 function search(q){
   const words = q.toLowerCase().split(/\s+/).filter(Boolean);
   const list = S.products.filter(p => words.every(w => p.name.toLowerCase().includes(w))).sort(SORTS.cheap);
   return `<div class="crumbs"><a href="#">Главная</a> / Поиск</div><h1 class="page">Поиск: ${esc(q)}</h1>
-    <div class="sec">${list.length ? grid(list) : `<div class="empty"><b>Ничего не нашли</b>Попробуйте написать короче, например «17 Pro» или «AirPods». Или спросите нас в Telegram — подберём.</div>`}</div>`;
+    <div class="sec">${list.length ? grid(list.slice(0, 96)) : `<div class="empty"><b>Ничего не нашли</b>Попробуйте написать короче, например «17 Pro» или «AirPods». Или спросите нас в Telegram — подберём.</div>`}</div>`;
 }
 
 function textPage(kind){
@@ -393,12 +398,13 @@ function render(){
   document.querySelectorAll("nav.cats a.top").forEach(a => a.classList.toggle("on", !!(!S.query && g && a.dataset.g === g.id)));
 }
 
-addEventListener("hashchange", () => { S.query = ""; $("#q").value = ""; view.mem = ""; render(); scrollTo(0,0); });
+addEventListener("hashchange", () => { S.query = ""; $("#q").value = ""; view.mem = ""; view.limit = 48; render(); scrollTo(0,0); });
 let qt; $("#q").addEventListener("input", e => { clearTimeout(qt); qt = setTimeout(() => { S.query = e.target.value.trim(); render(); }, 200); });
 
 document.addEventListener("change", e => { if (e.target.id === "sort"){ view.sort = e.target.value; render(); } });
 document.addEventListener("click", e => {
-  const m = e.target.closest("[data-mem]"); if (m){ view.mem = m.dataset.mem; render(); return; }
+  const m = e.target.closest("[data-mem]"); if (m){ view.mem = m.dataset.mem; view.limit = 48; render(); return; }
+  if (e.target.closest("[data-more]")){ view.limit += 48; const y = scrollY; render(); scrollTo(0,y); return; }
   const o = e.target.closest("[data-order]"); if (o) openOrder(o.dataset.order);
 });
 

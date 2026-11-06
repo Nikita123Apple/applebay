@@ -2,96 +2,79 @@
   "shop": {
     "name": "AppleBay",
     "slogan": "Оригинальная техника Apple и не только — с доставкой",
-    "phone": "+7 (916) 739-56-36",
-    "phone_link": "+79167395636",
-    "telegram": "@A123MR97",
-    "whatsapp": "+79167395636",
-    "email": "",
+    "phone": "+7 (999) 123-45-67",
+    "phone_link": "+79991234567",
+    "telegram": "applebay",
+    "whatsapp": "79991234567",
+    "email": "hello@applebay.ru",
     "hours": "Ежедневно с 10:00 до 21:00",
     "delivery_text": "Доставляем курьером по городу в день заказа и транспортными компаниями по всей России. Стоимость и сроки уточняйте у менеджера.",
     "warranty_text": "На всю технику действует гарантия 1 год. Перед покупкой вы можете проверить устройство при курьере.",
     "about_text": "AppleBay — онлайн-магазин оригинальной техники. Цены на сайте обновляются автоматически несколько раз в день."
   },
-
   "pricing": {
     "markup_percent": 0,
-    "markup_rub": -100,
+    "markup_rub": 0,
     "round_to": 10,
     "hide_out_of_stock": true
   },
-
   "groups": [
     {
-      "id": "iphone",
-      "title": "iPhone",
-      "categories": [
-        { "id": "iphone-18-pro-max", "title": "iPhone 18 Pro Max", "source": "iphone-18-pro-max" },
-        { "id": "iphone-18-pro", "title": "iPhone 18 Pro", "source": "iphone-18-pro" },
-        { "id": "iphone-duo", "title": "iPhone Duo", "source": "iphone-duo" },
-        { "id": "iphone-17-pro-max", "title": "iPhone 17 Pro Max", "source": "iphone-17-pro-max" },
-        { "id": "iphone-17-pro", "title": "iPhone 17 Pro", "source": "iphone-17-pro" },
-        { "id": "iphone-17", "title": "iPhone 17", "source": "iphone-17" },
-        { "id": "iphone-air", "title": "iPhone Air", "source": "iphone-air" },
-        { "id": "iphone-17e", "title": "iPhone 17e", "source": "iphone-17e" },
-        { "id": "iphone-16", "title": "iPhone 16", "source": "iphone-16" },
-        { "id": "iphone-16e", "title": "iPhone 16e", "source": "iphone-16e" },
-        { "id": "iphone-15", "title": "iPhone 15", "source": "iphone-15" }
-      ]
+      "id": "phones",
+      "title": "Телефоны",
+      "source": "phones"
     },
     {
-      "id": "mac",
-      "title": "Mac",
-      "categories": [
-        { "id": "macbook-air", "title": "MacBook Air", "source": "macbook-air" },
-        { "id": "macbook-pro", "title": "MacBook Pro", "source": "macbook-pro" },
-        { "id": "macbook-neo", "title": "MacBook Neo", "source": "macbook-neo" },
-        { "id": "imac", "title": "iMac", "source": "imac-kupit" },
-        { "id": "mac-mini", "title": "Mac mini", "source": "mac-mini-kupit" }
-      ]
+      "id": "laptops",
+      "title": "Ноутбуки",
+      "source": "noutbuki"
     },
     {
-      "id": "ipad",
-      "title": "iPad",
-      "categories": [
-        { "id": "ipad-pro-13-2025", "title": "iPad Pro 13", "source": "ipad-pro-13-2025" },
-        { "id": "ipad-pro-11-2025", "title": "iPad Pro 11", "source": "ipad-pro-11-2025" },
-        { "id": "ipad-air-13-2026", "title": "iPad Air 13", "source": "ipad-air-13-2026" },
-        { "id": "ipad-air-11-2026", "title": "iPad Air 11", "source": "ipad-air-11-2026" },
-        { "id": "ipad-2025", "title": "iPad", "source": "ipad-2025" },
-        { "id": "ipad-mini-2024", "title": "iPad mini", "source": "ipad-mini-2024" }
-      ]
-    },
-    {
-      "id": "watch",
-      "title": "Apple Watch",
-      "categories": [
-        { "id": "apple-watch", "title": "Apple Watch", "source": "apple-watch" }
-      ]
-    },
-    {
-      "id": "airpods",
-      "title": "AirPods",
-      "categories": [
-        { "id": "airpods", "title": "AirPods", "source": "apple-airpods" }
-      ]
+      "id": "tablets",
+      "title": "Планшеты",
+      "source": "kupit-planshet"
     },
     {
       "id": "dyson",
       "title": "Dyson",
-      "categories": [
-        { "id": "dyson-hair", "title": "Dyson для волос", "source": "uhod-za-volosami-dyson" },
-        { "id": "dyson-vacuum", "title": "Пылесосы Dyson", "source": "pylesosy-dyson" },
-        { "id": "dyson-climate", "title": "Климатическая техника Dyson", "source": "klimaticheskaya-tehnika-dyson" }
-      ]
+      "source": "dyson"
+    },
+    {
+      "id": "computers",
+      "title": "Компьютеры",
+      "source": "kupit-computer"
+    },
+    {
+      "id": "tv",
+      "title": "ТВ",
+      "source": "televizory"
+    },
+    {
+      "id": "home",
+      "title": "Дом",
+      "source": "tehnika-dlya-doma"
+    },
+    {
+      "id": "gadgets",
+      "title": "Гаджеты",
+      "source": "kupit-gadzhety"
+    },
+    {
+      "id": "audio",
+      "title": "Акустика",
+      "source": "akustika"
     },
     {
       "id": "accessories",
       "title": "Аксессуары",
-      "categories": [
-        { "id": "apple-accessories", "title": "Аксессуары Apple", "source": "apple-accessories" }
-      ]
+      "source": "accessories"
     }
   ],
-
-  "home_categories": ["iphone-17-pro", "iphone-17", "airpods", "apple-watch"]
+  "home_categories": [
+    "iphone-17-pro",
+    "iphone-17",
+    "apple-airpods",
+    "apple-watch"
+  ],
+  "exclude_categories": []
 }
