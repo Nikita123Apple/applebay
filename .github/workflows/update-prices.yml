@@ -2,9 +2,8 @@ name: Обновление цен
 
 on:
   schedule:
-    # Каждые 2 часа (время UTC). Чаще не нужно: так вы не нагружаете чужой сайт.
     - cron: "17 */2 * * *"
-  workflow_dispatch:   # кнопка «Run workflow» для запуска вручную
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -16,7 +15,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
 
@@ -34,10 +33,22 @@ jobs:
         run: |
           git config user.name "applebay-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add data/products.json
-          if git diff --cached --quiet; then
-            echo "Цены не изменились"
-          else
+          cp data/products.json /tmp/products.json
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+            cp /tmp/products.json data/products.json
+            git add data/products.json
+            if git diff --cached --quiet; then
+              echo "Цены не изменились"
+              exit 0
+            fi
             git commit -m "Обновление цен $(date -u +'%Y-%m-%d %H:%M') UTC"
-            git push
-          fi
+            if git push; then
+              echo "Цены сохранены"
+              exit 0
+            fi
+            echo "Репозиторий изменился во время работы, пробую ещё раз…"
+            sleep 10
+          done
+          exit 1
