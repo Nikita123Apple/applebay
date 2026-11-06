@@ -15,7 +15,7 @@
 
   "pricing": {
     "markup_percent": 0,
-    "markup_rub": 0,
+    "markup_rub": -100,
     "round_to": 10,
     "hide_out_of_stock": true
   },
