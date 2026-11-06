@@ -1,170 +1,4301 @@
 {
- "updated_at": "2026-11-06T11:01:37+00:00",
+ "updated_at": "2026-11-06T11:46:31+00:00",
  "products": [
   {
-   "id": "iphone-17-pro-256gb-orange-esim",
-   "name": "Apple iPhone 17 Pro 256GB Cosmic Orange (оранжевый) eSIM",
-   "price": 95990,
-   "image": "https://gbstore.ru/pictures/product/small/98435_small.jpg",
+   "id": "apple-iphone-18-pro-max-esim-256gb-silver",
+   "name": "Apple iPhone 18 Pro Max 256GB Silver eSIM",
+   "price": 124990,
+   "image": "https://gbstore.ru/pictures/product/small/187104_small.jpg",
    "stock": "in",
-   "category": "iphone-17-pro",
+   "category": "iphone-18-pro-max",
    "group": "iphone"
   },
   {
-   "id": "iphone-17-pro-256gb-blue-esim",
-   "name": "Apple iPhone 17 Pro 256GB Deep Blue (синий) eSIM",
-   "price": 97990,
-   "image": "https://gbstore.ru/pictures/product/small/98438_small.jpg",
+   "id": "apple-iphone-18-pro-max-esim-256gb-black",
+   "name": "Apple iPhone 18 Pro Max 256GB Black eSIM",
+   "price": 124990,
+   "image": "https://gbstore.ru/pictures/product/small/187108_small.jpg",
    "stock": "in",
-   "category": "iphone-17-pro",
+   "category": "iphone-18-pro-max",
    "group": "iphone"
   },
   {
-   "id": "iphone-17-pro-256gb-silver-esim",
-   "name": "Apple iPhone 17 Pro 256GB Silver (серебристый) eSIM",
-   "price": 97990,
-   "image": "https://gbstore.ru/pictures/product/small/98432_small.jpg",
+   "id": "apple-iphone-18-pro-max-esim-256gb-burgundy",
+   "name": "Apple iPhone 18 Pro Max 256GB Burgundy eSIM",
+   "price": 124990,
+   "image": "https://gbstore.ru/pictures/product/small/187096_small.jpg",
    "stock": "in",
-   "category": "iphone-17-pro",
+   "category": "iphone-18-pro-max",
    "group": "iphone"
   },
   {
-   "id": "iphone-17-pro-256gb-orange-a3523",
-   "name": "Apple iPhone 17 Pro 256GB Cosmic Orange (оранжевый) A3523",
-   "price": 103990,
-   "image": "https://gbstore.ru/pictures/product/small/98435_small.jpg",
-   "stock": "in",
-   "category": "iphone-17-pro",
-   "group": "iphone"
-  },
-  {
-   "id": "iphone-17-pro-256gb-blue-a3523",
-   "name": "Apple iPhone 17 Pro 256GB Deep Blue (синий) A3523",
-   "price": 105990,
-   "image": "https://gbstore.ru/pictures/product/small/98438_small.jpg",
-   "stock": "in",
-   "category": "iphone-17-pro",
-   "group": "iphone"
-  },
-  {
-   "id": "iphone-17-pro-256gb-silver-a3523",
-   "name": "Apple iPhone 17 Pro 256GB Silver (серебристый) A3523",
-   "price": 109990,
-   "image": "https://gbstore.ru/pictures/product/small/98432_small.jpg",
-   "stock": "in",
-   "category": "iphone-17-pro",
-   "group": "iphone"
-  },
-  {
-   "id": "iphone-17-pro-512gb-orange-esim",
-   "name": "Apple iPhone 17 Pro 512GB Cosmic Orange (оранжевый) eSIM",
-   "price": 110990,
-   "image": "https://gbstore.ru/pictures/product/small/98435_small.jpg",
-   "stock": "in",
-   "category": "iphone-17-pro",
-   "group": "iphone"
-  },
-  {
-   "id": "iphone-17-pro-512gb-blue-esim",
-   "name": "Apple iPhone 17 Pro 512GB Deep Blue (синий) eSIM",
-   "price": 114990,
-   "image": "https://gbstore.ru/pictures/product/small/98438_small.jpg",
-   "stock": "in",
-   "category": "iphone-17-pro",
-   "group": "iphone"
-  },
-  {
-   "id": "iphone-17-pro-512gb-silver-esim",
-   "name": "Apple iPhone 17 Pro 512GB Silver (серебристый) eSIM",
-   "price": 115990,
-   "image": "https://gbstore.ru/pictures/product/small/98432_small.jpg",
-   "stock": "in",
-   "category": "iphone-17-pro",
-   "group": "iphone"
-  },
-  {
-   "id": "iphone-17-pro-512gb-orange-a3523",
-   "name": "Apple iPhone 17 Pro 512GB Cosmic Orange (оранжевый) A3523",
-   "price": 119990,
-   "image": "https://gbstore.ru/pictures/product/small/98435_small.jpg",
-   "stock": "in",
-   "category": "iphone-17-pro",
-   "group": "iphone"
-  },
-  {
-   "id": "iphone-17-pro-1tb-orange-esim",
-   "name": "Apple iPhone 17 Pro 1TB Cosmic Orange (оранжевый) eSIM",
-   "price": 122990,
-   "image": "https://gbstore.ru/pictures/product/small/98435_small.jpg",
-   "stock": "in",
-   "category": "iphone-17-pro",
-   "group": "iphone"
-  },
-  {
-   "id": "iphone-17-pro-1tb-blue-esim",
-   "name": "Apple iPhone 17 Pro 1TB Deep Blue (синий) eSIM",
+   "id": "apple-iphone-18-pro-max-esim-256gb-glacier",
+   "name": "Apple iPhone 18 Pro Max 256GB Glacier eSIM",
    "price": 127990,
-   "image": "https://gbstore.ru/pictures/product/small/98438_small.jpg",
+   "image": "https://gbstore.ru/pictures/product/small/187100_small.jpg",
    "stock": "in",
-   "category": "iphone-17-pro",
+   "category": "iphone-18-pro-max",
    "group": "iphone"
   },
   {
-   "id": "iphone-17-pro-512gb-blue-a3523",
-   "name": "Apple iPhone 17 Pro 512GB Deep Blue (синий) A3523",
-   "price": 127990,
-   "image": "https://gbstore.ru/pictures/product/small/98438_small.jpg",
+   "id": "apple-iphone-18-pro-max-256gb-black",
+   "name": "Apple iPhone 18 Pro Max 256GB Black A3717",
+   "price": 133990,
+   "image": "https://gbstore.ru/pictures/product/small/187108_small.jpg",
    "stock": "in",
-   "category": "iphone-17-pro",
+   "category": "iphone-18-pro-max",
    "group": "iphone"
   },
   {
-   "id": "iphone-17-pro-512gb-silver-a3523",
-   "name": "Apple iPhone 17 Pro 512GB Silver (серебристый) A3523",
-   "price": 129990,
-   "image": "https://gbstore.ru/pictures/product/small/98432_small.jpg",
-   "stock": "in",
-   "category": "iphone-17-pro",
-   "group": "iphone"
-  },
-  {
-   "id": "iphone-17-pro-1tb-silver-esim",
-   "name": "Apple iPhone 17 Pro 1TB Silver (серебристый) eSIM",
+   "id": "apple-iphone-18-pro-max-256gb-silver",
+   "name": "Apple iPhone 18 Pro Max 256GB Silver A3717",
    "price": 134990,
-   "image": "https://gbstore.ru/pictures/product/small/98432_small.jpg",
+   "image": "https://gbstore.ru/pictures/product/small/187104_small.jpg",
    "stock": "in",
-   "category": "iphone-17-pro",
+   "category": "iphone-18-pro-max",
    "group": "iphone"
   },
   {
-   "id": "iphone-17-pro-1tb-orange-a3523",
-   "name": "Apple iPhone 17 Pro 1TB Cosmic Orange (оранжевый) A3523",
+   "id": "apple-iphone-18-pro-max-256gb-burgundy",
+   "name": "Apple iPhone 18 Pro Max 256GB Burgundy A3717",
    "price": 139990,
+   "image": "https://gbstore.ru/pictures/product/small/187096_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-max-256gb-glacier",
+   "name": "Apple iPhone 18 Pro Max 256GB Glacier A3717",
+   "price": 139990,
+   "image": "https://gbstore.ru/pictures/product/small/187100_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-max-esim-512gb-burgundy",
+   "name": "Apple iPhone 18 Pro Max 512GB Burgundy eSIM",
+   "price": 143990,
+   "image": "https://gbstore.ru/pictures/product/small/187096_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-max-esim-512gb-glacier",
+   "name": "Apple iPhone 18 Pro Max 512GB Glacier eSIM",
+   "price": 143990,
+   "image": "https://gbstore.ru/pictures/product/small/187100_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-max-esim-512gb-silver",
+   "name": "Apple iPhone 18 Pro Max 512GB Silver eSIM",
+   "price": 144990,
+   "image": "https://gbstore.ru/pictures/product/small/187104_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-max-esim-512gb-black",
+   "name": "Apple iPhone 18 Pro Max 512GB Black eSIM",
+   "price": 144990,
+   "image": "https://gbstore.ru/pictures/product/small/187108_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-max-512gb-glacier",
+   "name": "Apple iPhone 18 Pro Max 512GB Glacier A3717",
+   "price": 156990,
+   "image": "https://gbstore.ru/pictures/product/small/187100_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-max-512gb-silver",
+   "name": "Apple iPhone 18 Pro Max 512GB Silver A3717",
+   "price": 157990,
+   "image": "https://gbstore.ru/pictures/product/small/187104_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-max-512gb-black",
+   "name": "Apple iPhone 18 Pro Max 512GB Black A3717",
+   "price": 159990,
+   "image": "https://gbstore.ru/pictures/product/small/187108_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-max-512gb-burgundy",
+   "name": "Apple iPhone 18 Pro Max 512GB Burgundy A3717",
+   "price": 163990,
+   "image": "https://gbstore.ru/pictures/product/small/187096_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-max-esim-1tb-burgundy",
+   "name": "Apple iPhone 18 Pro Max 1TB Burgundy eSIM",
+   "price": 188990,
+   "image": "https://gbstore.ru/pictures/product/small/187096_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-max-esim-1tb-silver",
+   "name": "Apple iPhone 18 Pro Max 1TB Silver eSIM",
+   "price": 188990,
+   "image": "https://gbstore.ru/pictures/product/small/187104_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-max-esim-1tb-black",
+   "name": "Apple iPhone 18 Pro Max 1TB Black eSIM",
+   "price": 188990,
+   "image": "https://gbstore.ru/pictures/product/small/187108_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-max-esim-1tb-glacier",
+   "name": "Apple iPhone 18 Pro Max 1TB Glacier eSIM",
+   "price": 194990,
+   "image": "https://gbstore.ru/pictures/product/small/187100_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-max-1tb-black",
+   "name": "Apple iPhone 18 Pro Max 1TB Black A3717",
+   "price": 196990,
+   "image": "https://gbstore.ru/pictures/product/small/187108_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-max-1tb-glacier",
+   "name": "Apple iPhone 18 Pro Max 1TB Glacier A3717",
+   "price": 202990,
+   "image": "https://gbstore.ru/pictures/product/small/187100_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-max-1tb-silver",
+   "name": "Apple iPhone 18 Pro Max 1TB Silver A3717",
+   "price": 204990,
+   "image": "https://gbstore.ru/pictures/product/small/187104_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-max-1tb-burgundy",
+   "name": "Apple iPhone 18 Pro Max 1TB Burgundy A3717",
+   "price": 209990,
+   "image": "https://gbstore.ru/pictures/product/small/187096_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-max-esim-2tb-black",
+   "name": "Apple iPhone 18 Pro Max 2TB Black eSIM",
+   "price": 223990,
+   "image": "https://gbstore.ru/pictures/product/small/187108_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-max-esim-2tb-silver",
+   "name": "Apple iPhone 18 Pro Max 2TB Silver eSIM",
+   "price": 226990,
+   "image": "https://gbstore.ru/pictures/product/small/187104_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-max-esim-2tb-glacier",
+   "name": "Apple iPhone 18 Pro Max 2TB Glacier eSIM",
+   "price": 238990,
+   "image": "https://gbstore.ru/pictures/product/small/187100_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-max-2tb-glacier",
+   "name": "Apple iPhone 18 Pro Max 2TB Glacier A3717",
+   "price": 247990,
+   "image": "https://gbstore.ru/pictures/product/small/187100_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-max-2tb-silver",
+   "name": "Apple iPhone 18 Pro Max 2TB Silver A3717",
+   "price": 249990,
+   "image": "https://gbstore.ru/pictures/product/small/187104_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-max-esim-2tb-burgundy",
+   "name": "Apple iPhone 18 Pro Max 2TB Burgundy eSIM",
+   "price": 249990,
+   "image": "https://gbstore.ru/pictures/product/small/187096_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-max-2tb-black",
+   "name": "Apple iPhone 18 Pro Max 2TB Black A3717",
+   "price": 259990,
+   "image": "https://gbstore.ru/pictures/product/small/187108_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-max-2tb-burgundy",
+   "name": "Apple iPhone 18 Pro Max 2TB Burgundy A3717",
+   "price": 269990,
+   "image": "https://gbstore.ru/pictures/product/small/187096_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-esim-256gb-burgundy",
+   "name": "Apple iPhone 18 Pro 256GB Burgundy eSIM",
+   "price": 114990,
+   "image": "https://gbstore.ru/pictures/product/small/187112_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-esim-256gb-glacier",
+   "name": "Apple iPhone 18 Pro 256GB Glacier eSIM",
+   "price": 114990,
+   "image": "https://gbstore.ru/pictures/product/small/187116_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-esim-256gb-silver",
+   "name": "Apple iPhone 18 Pro 256GB Silver eSIM",
+   "price": 114990,
+   "image": "https://gbstore.ru/pictures/product/small/187120_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-esim-256gb-black",
+   "name": "Apple iPhone 18 Pro 256GB Black eSIM",
+   "price": 114990,
+   "image": "https://gbstore.ru/pictures/product/small/187124_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-256gb-glacier",
+   "name": "Apple iPhone 18 Pro 256GB Glacier A3714",
+   "price": 126990,
+   "image": "https://gbstore.ru/pictures/product/small/187116_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-256gb-silver",
+   "name": "Apple iPhone 18 Pro 256GB Silver A3714",
+   "price": 126990,
+   "image": "https://gbstore.ru/pictures/product/small/187120_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-256gb-black",
+   "name": "Apple iPhone 18 Pro 256GB Black A3714",
+   "price": 127990,
+   "image": "https://gbstore.ru/pictures/product/small/187124_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-256gb-burgundy",
+   "name": "Apple iPhone 18 Pro 256GB Burgundy A3714",
+   "price": 127990,
+   "image": "https://gbstore.ru/pictures/product/small/187112_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-esim-512gb-black",
+   "name": "Apple iPhone 18 Pro 512GB Black eSIM",
+   "price": 132990,
+   "image": "https://gbstore.ru/pictures/product/small/187124_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-esim-512gb-burgundy",
+   "name": "Apple iPhone 18 Pro 512GB Burgundy eSIM",
+   "price": 134990,
+   "image": "https://gbstore.ru/pictures/product/small/187112_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-esim-512gb-glacier",
+   "name": "Apple iPhone 18 Pro 512GB Glacier eSIM",
+   "price": 138990,
+   "image": "https://gbstore.ru/pictures/product/small/187116_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-esim-512gb-silver",
+   "name": "Apple iPhone 18 Pro 512GB Silver eSIM",
+   "price": 138990,
+   "image": "https://gbstore.ru/pictures/product/small/187120_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-512gb-burgundy",
+   "name": "Apple iPhone 18 Pro 512GB Burgundy A3714",
+   "price": 149990,
+   "image": "https://gbstore.ru/pictures/product/small/187112_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-512gb-glacier",
+   "name": "Apple iPhone 18 Pro 512GB Glacier A3714",
+   "price": 149990,
+   "image": "https://gbstore.ru/pictures/product/small/187116_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-512gb-black",
+   "name": "Apple iPhone 18 Pro 512GB Black A3714",
+   "price": 149990,
+   "image": "https://gbstore.ru/pictures/product/small/187124_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-512gb-silver",
+   "name": "Apple iPhone 18 Pro 512GB Silver A3714",
+   "price": 152990,
+   "image": "https://gbstore.ru/pictures/product/small/187120_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-esim-1tb-black",
+   "name": "Apple iPhone 18 Pro 1TB Black eSIM",
+   "price": 157990,
+   "image": "https://gbstore.ru/pictures/product/small/187124_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-esim-1tb-glacier",
+   "name": "Apple iPhone 18 Pro 1TB Glacier eSIM",
+   "price": 164990,
+   "image": "https://gbstore.ru/pictures/product/small/187116_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-esim-1tb-silver",
+   "name": "Apple iPhone 18 Pro 1TB Silver eSIM",
+   "price": 174990,
+   "image": "https://gbstore.ru/pictures/product/small/187120_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-esim-1tb-burgundy",
+   "name": "Apple iPhone 18 Pro 1TB Burgundy eSIM",
+   "price": 183990,
+   "image": "https://gbstore.ru/pictures/product/small/187112_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-1tb-burgundy",
+   "name": "Apple iPhone 18 Pro 1TB Burgundy A3714",
+   "price": 194990,
+   "image": "https://gbstore.ru/pictures/product/small/187112_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-1tb-black",
+   "name": "Apple iPhone 18 Pro 1TB Black A3714",
+   "price": 194990,
+   "image": "https://gbstore.ru/pictures/product/small/187124_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-1tb-glacier",
+   "name": "Apple iPhone 18 Pro 1TB Glacier A3714",
+   "price": 197990,
+   "image": "https://gbstore.ru/pictures/product/small/187116_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-1tb-silver",
+   "name": "Apple iPhone 18 Pro 1TB Silver A3714",
+   "price": 198990,
+   "image": "https://gbstore.ru/pictures/product/small/187120_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-esim-2tb-silver",
+   "name": "Apple iPhone 18 Pro 2TB Silver eSIM",
+   "price": 209990,
+   "image": "https://gbstore.ru/pictures/product/small/187120_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-esim-2tb-black",
+   "name": "Apple iPhone 18 Pro 2TB Black eSIM",
+   "price": 209990,
+   "image": "https://gbstore.ru/pictures/product/small/187124_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-esim-2tb-burgundy",
+   "name": "Apple iPhone 18 Pro 2TB Burgundy eSIM",
+   "price": 219990,
+   "image": "https://gbstore.ru/pictures/product/small/187112_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-2tb-burgundy",
+   "name": "Apple iPhone 18 Pro 2TB Burgundy A3714",
+   "price": 239990,
+   "image": "https://gbstore.ru/pictures/product/small/187112_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-2tb-glacier",
+   "name": "Apple iPhone 18 Pro 2TB Glacier A3714",
+   "price": 239990,
+   "image": "https://gbstore.ru/pictures/product/small/187116_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-2tb-black",
+   "name": "Apple iPhone 18 Pro 2TB Black A3714",
+   "price": 239990,
+   "image": "https://gbstore.ru/pictures/product/small/187124_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-esim-2tb-glacier",
+   "name": "Apple iPhone 18 Pro 2TB Glacier eSIM",
+   "price": 246990,
+   "image": "https://gbstore.ru/pictures/product/small/187116_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-18-pro-2tb-silver",
+   "name": "Apple iPhone 18 Pro 2TB Silver A3714",
+   "price": 276990,
+   "image": "https://gbstore.ru/pictures/product/small/187120_small.jpg",
+   "stock": "in",
+   "category": "iphone-18-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-duo-esim-256gb-star-white",
+   "name": "Apple iPhone Duo eSIM 256GB Star White",
+   "price": 216990,
+   "image": "https://gbstore.ru/pictures/product/small/187084_small.jpg",
+   "stock": "in",
+   "category": "iphone-duo",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-duo-esim-256gb-night-sky",
+   "name": "Apple iPhone Duo eSIM 256GB Night Sky",
+   "price": 216990,
+   "image": "https://gbstore.ru/pictures/product/small/187090_small.jpg",
+   "stock": "in",
+   "category": "iphone-duo",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-duo-esim-512gb-star-white",
+   "name": "Apple iPhone Duo eSIM 512GB Star White",
+   "price": 244990,
+   "image": "https://gbstore.ru/pictures/product/small/187084_small.jpg",
+   "stock": "in",
+   "category": "iphone-duo",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-duo-esim-512gb-night-sky",
+   "name": "Apple iPhone Duo eSIM 512GB Night Sky",
+   "price": 249990,
+   "image": "https://gbstore.ru/pictures/product/small/187090_small.jpg",
+   "stock": "in",
+   "category": "iphone-duo",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-duo-esim-1tb-star-white",
+   "name": "Apple iPhone Duo eSIM 1TB Star White",
+   "price": 324990,
+   "image": "https://gbstore.ru/pictures/product/small/187084_small.jpg",
+   "stock": "in",
+   "category": "iphone-duo",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-duo-esim-1tb-night-sky",
+   "name": "Apple iPhone Duo eSIM 1TB Night Sky",
+   "price": 329990,
+   "image": "https://gbstore.ru/pictures/product/small/187090_small.jpg",
+   "stock": "in",
+   "category": "iphone-duo",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-duo-esim-2tb-star-white",
+   "name": "Apple iPhone Duo eSIM 2TB Star White",
+   "price": 379990,
+   "image": "https://gbstore.ru/pictures/product/small/187084_small.jpg",
+   "stock": "in",
+   "category": "iphone-duo",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-duo-esim-2tb-night-sky",
+   "name": "Apple iPhone Duo eSIM 2TB Night Sky",
+   "price": 379990,
+   "image": "https://gbstore.ru/pictures/product/small/187090_small.jpg",
+   "stock": "in",
+   "category": "iphone-duo",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-pro-max-256gb-cosmic-orange-oranzhevyj-esim",
+   "name": "Apple iPhone 17 Pro Max 256GB Cosmic Orange (оранжевый) eSIM",
+   "price": 99990,
+   "image": "https://gbstore.ru/pictures/product/small/98444_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-pro-max-256gb-deep-blue-sinij-esim",
+   "name": "Apple iPhone 17 Pro Max 256GB Deep Blue (синий) eSIM",
+   "price": 100990,
+   "image": "https://gbstore.ru/pictures/product/small/98447_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-pro-max-256gb-silver-serebristyj-esim",
+   "name": "Apple iPhone 17 Pro Max 256GB Silver (серебристый) eSIM",
+   "price": 104990,
+   "image": "https://gbstore.ru/pictures/product/small/98441_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-pro-max-256gb-cosmic-orange-oranzhevyj-dual-sim",
+   "name": "Apple iPhone 17 Pro Max 256GB Cosmic Orange (оранжевый) A3526",
+   "price": 109990,
+   "image": "https://gbstore.ru/pictures/product/small/98444_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-pro-max-256gb-deep-blue-sinij-dual-sim",
+   "name": "Apple iPhone 17 Pro Max 256GB Deep Blue (синий) A3526",
+   "price": 111990,
+   "image": "https://gbstore.ru/pictures/product/small/98447_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-pro-max-512gb-cosmic-orange-oranzhevyj-esim",
+   "name": "Apple iPhone 17 Pro Max 512GB Cosmic Orange (оранжевый) eSIM",
+   "price": 115990,
+   "image": "https://gbstore.ru/pictures/product/small/98444_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-pro-max-512gb-deep-blue-sinij-esim",
+   "name": "Apple iPhone 17 Pro Max 512GB Deep Blue (синий) eSIM",
+   "price": 115990,
+   "image": "https://gbstore.ru/pictures/product/small/98447_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-pro-max-256gb-silver-serebristyj-dual-sim",
+   "name": "Apple iPhone 17 Pro Max 256GB Silver (серебристый) A3526",
+   "price": 121990,
+   "image": "https://gbstore.ru/pictures/product/small/98441_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-pro-max-512gb-silver-serebristyj-esim",
+   "name": "Apple iPhone 17 Pro Max 512GB Silver (серебристый) eSIM",
+   "price": 122990,
+   "image": "https://gbstore.ru/pictures/product/small/98441_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-pro-max-512gb-cosmic-orange-oranzhevyj-dual-sim",
+   "name": "Apple iPhone 17 Pro Max 512GB Cosmic Orange (оранжевый) A3526",
+   "price": 128990,
+   "image": "https://gbstore.ru/pictures/product/small/98444_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-pro-max-1tb-cosmic-orange-oranzhevyj-esim",
+   "name": "Apple iPhone 17 Pro Max 1TB Cosmic Orange (оранжевый) eSIM",
+   "price": 134990,
+   "image": "https://gbstore.ru/pictures/product/small/98444_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-pro-max-1tb-deep-blue-sinij-esim",
+   "name": "Apple iPhone 17 Pro Max 1TB Deep Blue (синий) eSIM",
+   "price": 135990,
+   "image": "https://gbstore.ru/pictures/product/small/98447_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-pro-max-512gb-deep-blue-sinij-dual-sim",
+   "name": "Apple iPhone 17 Pro Max 512GB Deep Blue (синий) A3526",
+   "price": 135990,
+   "image": "https://gbstore.ru/pictures/product/small/98447_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-pro-max-1tb-silver-serebristyj-esim",
+   "name": "Apple iPhone 17 Pro Max 1TB Silver (серебристый) eSIM",
+   "price": 139990,
+   "image": "https://gbstore.ru/pictures/product/small/98441_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-pro-max-2tb-cosmic-orange-oranzhevyj-esim",
+   "name": "Apple iPhone 17 Pro Max 2TB Cosmic Orange (оранжевый) eSIM",
+   "price": 141990,
+   "image": "https://gbstore.ru/pictures/product/small/98444_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-pro-max-512gb-silver-serebristyj-dual-sim",
+   "name": "Apple iPhone 17 Pro Max 512GB Silver (серебристый) A3526",
+   "price": 141990,
+   "image": "https://gbstore.ru/pictures/product/small/98441_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-pro-max-2tb-deep-blue-sinij-esim",
+   "name": "Apple iPhone 17 Pro Max 2TB Deep Blue (синий) eSIM",
+   "price": 142990,
+   "image": "https://gbstore.ru/pictures/product/small/98447_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-pro-max-2tb-silver-serebristyj-esim",
+   "name": "Apple iPhone 17 Pro Max 2TB Silver (серебристый) eSIM",
+   "price": 161990,
+   "image": "https://gbstore.ru/pictures/product/small/98441_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-pro-max-1tb-cosmic-orange-oranzhevyj-dual-sim",
+   "name": "Apple iPhone 17 Pro Max 1TB Cosmic Orange (оранжевый) A3526",
+   "price": 166990,
+   "image": "https://gbstore.ru/pictures/product/small/98444_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-pro-max-2tb-cosmic-orange-oranzhevyj-dual-sim",
+   "name": "Apple iPhone 17 Pro Max 2TB Cosmic Orange (оранжевый) A3526",
+   "price": 166990,
+   "image": "https://gbstore.ru/pictures/product/small/98444_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-pro-max-1tb-deep-blue-sinij-dual-sim",
+   "name": "Apple iPhone 17 Pro Max 1TB Deep Blue (синий) A3526",
+   "price": 170990,
+   "image": "https://gbstore.ru/pictures/product/small/98447_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-pro-max-2tb-deep-blue-sinij-dual-sim",
+   "name": "Apple iPhone 17 Pro Max 2TB Deep Blue (синий) A3526",
+   "price": 171990,
+   "image": "https://gbstore.ru/pictures/product/small/98447_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-pro-max-2tb-silver-serebristyj-dual-sim",
+   "name": "Apple iPhone 17 Pro Max 2TB Silver (серебристый) A3526",
+   "price": 175990,
+   "image": "https://gbstore.ru/pictures/product/small/98441_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-pro-max-1tb-silver-serebristyj-dual-sim",
+   "name": "Apple iPhone 17 Pro Max 1TB Silver (серебристый) A3526",
+   "price": 176990,
+   "image": "https://gbstore.ru/pictures/product/small/98441_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro-max",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-pro-256gb-cosmic-orange-oranzhevyj-esim",
+   "name": "Apple iPhone 17 Pro 256GB Cosmic Orange (оранжевый) eSIM",
+   "price": 96990,
    "image": "https://gbstore.ru/pictures/product/small/98435_small.jpg",
    "stock": "in",
    "category": "iphone-17-pro",
    "group": "iphone"
   },
   {
-   "id": "iphone-17-pro-1tb-blue-a3523",
-   "name": "Apple iPhone 17 Pro 1TB Deep Blue (синий) A3523",
-   "price": 147990,
+   "id": "apple-iphone-17-pro-256gb-cosmic-orange-oranzhevyj-dual-sim",
+   "name": "Apple iPhone 17 Pro 256GB Cosmic Orange (оранжевый) A3523",
+   "price": 100990,
+   "image": "https://gbstore.ru/pictures/product/small/98435_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-pro-256gb-deep-blue-sinij-esim",
+   "name": "Apple iPhone 17 Pro 256GB Deep Blue (синий) eSIM",
+   "price": 101990,
    "image": "https://gbstore.ru/pictures/product/small/98438_small.jpg",
    "stock": "in",
    "category": "iphone-17-pro",
    "group": "iphone"
   },
   {
-   "id": "iphone-17-pro-1tb-silver-a3523",
-   "name": "Apple iPhone 17 Pro 1TB Silver (серебристый) A3523",
-   "price": 151990,
+   "id": "apple-iphone-17-pro-256gb-silver-serebristyj-esim",
+   "name": "Apple iPhone 17 Pro 256GB Silver (серебристый) eSIM",
+   "price": 101990,
    "image": "https://gbstore.ru/pictures/product/small/98432_small.jpg",
    "stock": "in",
    "category": "iphone-17-pro",
    "group": "iphone"
   },
   {
-   "id": "dyson-0",
+   "id": "apple-iphone-17-pro-256gb-deep-blue-sinij-dual-sim",
+   "name": "Apple iPhone 17 Pro 256GB Deep Blue (синий) A3523",
+   "price": 104990,
+   "image": "https://gbstore.ru/pictures/product/small/98438_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-pro-256gb-silver-serebristyj-dual-sim",
+   "name": "Apple iPhone 17 Pro 256GB Silver (серебристый) A3523",
+   "price": 108990,
+   "image": "https://gbstore.ru/pictures/product/small/98432_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-pro-512gb-cosmic-orange-oranzhevyj-esim",
+   "name": "Apple iPhone 17 Pro 512GB Cosmic Orange (оранжевый) eSIM",
+   "price": 117990,
+   "image": "https://gbstore.ru/pictures/product/small/98435_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-pro-512gb-deep-blue-sinij-esim",
+   "name": "Apple iPhone 17 Pro 512GB Deep Blue (синий) eSIM",
+   "price": 117990,
+   "image": "https://gbstore.ru/pictures/product/small/98438_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-pro-512gb-silver-serebristyj-esim",
+   "name": "Apple iPhone 17 Pro 512GB Silver (серебристый) eSIM",
+   "price": 120990,
+   "image": "https://gbstore.ru/pictures/product/small/98432_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-pro-512gb-cosmic-orange-oranzhevyj-dual-sim",
+   "name": "Apple iPhone 17 Pro 512GB Cosmic Orange (оранжевый) A3523",
+   "price": 123990,
+   "image": "https://gbstore.ru/pictures/product/small/98435_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-pro-512gb-deep-blue-sinij-dual-sim",
+   "name": "Apple iPhone 17 Pro 512GB Deep Blue (синий) A3523",
+   "price": 129990,
+   "image": "https://gbstore.ru/pictures/product/small/98438_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-pro-1tb-deep-blue-sinij-esim",
+   "name": "Apple iPhone 17 Pro 1TB Deep Blue (синий) eSIM",
+   "price": 130990,
+   "image": "https://gbstore.ru/pictures/product/small/98438_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-pro-1tb-cosmic-orange-oranzhevyj-esim",
+   "name": "Apple iPhone 17 Pro 1TB Cosmic Orange (оранжевый) eSIM",
+   "price": 134990,
+   "image": "https://gbstore.ru/pictures/product/small/98435_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-pro-1tb-cosmic-orange-oranzhevyj-dual-sim",
+   "name": "Apple iPhone 17 Pro 1TB Cosmic Orange (оранжевый) A3523",
+   "price": 141990,
+   "image": "https://gbstore.ru/pictures/product/small/98435_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-pro-1tb-deep-blue-sinij-dual-sim",
+   "name": "Apple iPhone 17 Pro 1TB Deep Blue (синий) A3523",
+   "price": 161990,
+   "image": "https://gbstore.ru/pictures/product/small/98438_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-pro-1tb-silver-serebristyj-esim",
+   "name": "Apple iPhone 17 Pro 1TB Silver (серебристый) eSIM",
+   "price": 161990,
+   "image": "https://gbstore.ru/pictures/product/small/98432_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-pro-1tb-silver-serebristyj-dual-sim",
+   "name": "Apple iPhone 17 Pro 1TB Silver (серебристый) A3523",
+   "price": 166990,
+   "image": "https://gbstore.ru/pictures/product/small/98432_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-256gb-sage-zelenyj-esim",
+   "name": "Apple iPhone 17 256GB Sage (зеленый) eSIM",
+   "price": 77490,
+   "image": "https://gbstore.ru/pictures/product/small/98416_small.jpg",
+   "stock": "in",
+   "category": "iphone-17",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-256gb-mist-blue-goluboj-esim",
+   "name": "Apple iPhone 17 256GB Mist Blue (голубой) eSIM",
+   "price": 77790,
+   "image": "https://gbstore.ru/pictures/product/small/98420_small.jpg",
+   "stock": "in",
+   "category": "iphone-17",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-256gb-white-belyj-esim",
+   "name": "Apple iPhone 17 256GB White (белый) eSIM",
+   "price": 77990,
+   "image": "https://gbstore.ru/pictures/product/small/98424_small.jpg",
+   "stock": "in",
+   "category": "iphone-17",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-256gb-black-chernyj-esim",
+   "name": "Apple iPhone 17 256GB Black (черный) eSIM",
+   "price": 77990,
+   "image": "https://gbstore.ru/pictures/product/small/98428_small.jpg",
+   "stock": "in",
+   "category": "iphone-17",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-256gb-lavender-fioletovyj-esim",
+   "name": "Apple iPhone 17 256GB Lavender (фиолетовый) eSIM",
+   "price": 77990,
+   "image": "https://gbstore.ru/pictures/product/small/98412_small.jpg",
+   "stock": "in",
+   "category": "iphone-17",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-256gb-sage-zelenyj-dual-sim",
+   "name": "Apple iPhone 17 256GB Sage (зеленый) A3520",
+   "price": 79490,
+   "image": "https://gbstore.ru/pictures/product/small/98416_small.jpg",
+   "stock": "in",
+   "category": "iphone-17",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-256gb-mist-blue-goluboj-dual-sim",
+   "name": "Apple iPhone 17 256GB Mist Blue (голубой) A3520",
+   "price": 79490,
+   "image": "https://gbstore.ru/pictures/product/small/98420_small.jpg",
+   "stock": "in",
+   "category": "iphone-17",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-256gb-lavender-fioletovyj-dual-sim",
+   "name": "Apple iPhone 17 256GB Lavender (фиолетовый) A3520",
+   "price": 79990,
+   "image": "https://gbstore.ru/pictures/product/small/98412_small.jpg",
+   "stock": "in",
+   "category": "iphone-17",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-256gb-black-chernyj-dual-sim",
+   "name": "Apple iPhone 17 256GB Black (черный) A3520",
+   "price": 80490,
+   "image": "https://gbstore.ru/pictures/product/small/98428_small.jpg",
+   "stock": "in",
+   "category": "iphone-17",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-256gb-white-belyj-dual-sim",
+   "name": "Apple iPhone 17 256GB White (белый) A3520",
+   "price": 81990,
+   "image": "https://gbstore.ru/pictures/product/small/98424_small.jpg",
+   "stock": "in",
+   "category": "iphone-17",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-512gb-black-chernyj-esim",
+   "name": "Apple iPhone 17 512GB Black (черный) eSIM",
+   "price": 89990,
+   "image": "https://gbstore.ru/pictures/product/small/98428_small.jpg",
+   "stock": "in",
+   "category": "iphone-17",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-512gb-mist-blue-goluboj-esim",
+   "name": "Apple iPhone 17 512GB Mist Blue (голубой) eSIM",
+   "price": 94990,
+   "image": "https://gbstore.ru/pictures/product/small/98420_small.jpg",
+   "stock": "in",
+   "category": "iphone-17",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-512gb-black-chernyj-dual-sim",
+   "name": "Apple iPhone 17 512GB Black (черный) A3520",
+   "price": 94990,
+   "image": "https://gbstore.ru/pictures/product/small/98428_small.jpg",
+   "stock": "in",
+   "category": "iphone-17",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-512gb-sage-zelenyj-esim",
+   "name": "Apple iPhone 17 512GB Sage (зеленый) eSIM",
+   "price": 95990,
+   "image": "https://gbstore.ru/pictures/product/small/98416_small.jpg",
+   "stock": "in",
+   "category": "iphone-17",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-512gb-mist-blue-goluboj-dual-sim",
+   "name": "Apple iPhone 17 512GB Mist Blue (голубой) A3520",
+   "price": 95990,
+   "image": "https://gbstore.ru/pictures/product/small/98420_small.jpg",
+   "stock": "in",
+   "category": "iphone-17",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-512gb-white-belyj-esim",
+   "name": "Apple iPhone 17 512GB White (белый) eSIM",
+   "price": 96990,
+   "image": "https://gbstore.ru/pictures/product/small/98424_small.jpg",
+   "stock": "in",
+   "category": "iphone-17",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-512gb-lavender-fioletovyj-esim",
+   "name": "Apple iPhone 17 512GB Lavender (фиолетовый) eSIM",
+   "price": 97990,
+   "image": "https://gbstore.ru/pictures/product/small/98412_small.jpg",
+   "stock": "in",
+   "category": "iphone-17",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-512gb-white-belyj-dual-sim",
+   "name": "Apple iPhone 17 512GB White (белый) A3520",
+   "price": 97990,
+   "image": "https://gbstore.ru/pictures/product/small/98424_small.jpg",
+   "stock": "in",
+   "category": "iphone-17",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-512gb-sage-zelenyj-dual-sim",
+   "name": "Apple iPhone 17 512GB Sage (зеленый) A3520",
+   "price": 97990,
+   "image": "https://gbstore.ru/pictures/product/small/98416_small.jpg",
+   "stock": "in",
+   "category": "iphone-17",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17-512gb-lavender-fioletovyj-dual-sim",
+   "name": "Apple iPhone 17 512GB Lavender (фиолетовый) A3520",
+   "price": 98990,
+   "image": "https://gbstore.ru/pictures/product/small/98412_small.jpg",
+   "stock": "in",
+   "category": "iphone-17",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-air-256gb-sky-blue-goluboj",
+   "name": "Apple iPhone Air 256GB Sky Blue (голубой)",
+   "price": 76990,
+   "image": "https://gbstore.ru/pictures/product/small/98450_small.jpg",
+   "stock": "in",
+   "category": "iphone-air",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-air-256gb-light-gold-zolotistyj",
+   "name": "Apple iPhone Air 256GB Light Gold (золотистый)",
+   "price": 76990,
+   "image": "https://gbstore.ru/pictures/product/small/98454_small.jpg",
+   "stock": "in",
+   "category": "iphone-air",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-air-256gb-cloud-white-belyj",
+   "name": "Apple iPhone Air 256GB Cloud White (белый)",
+   "price": 77990,
+   "image": "https://gbstore.ru/pictures/product/small/98458_small.jpg",
+   "stock": "in",
+   "category": "iphone-air",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-air-512gb-sky-blue-goluboj",
+   "name": "Apple iPhone Air 512GB Sky Blue (голубой)",
+   "price": 81990,
+   "image": "https://gbstore.ru/pictures/product/small/98450_small.jpg",
+   "stock": "in",
+   "category": "iphone-air",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-air-512gb-light-gold-zolotistyj",
+   "name": "Apple iPhone Air 512GB Light Gold (золотистый)",
+   "price": 81990,
+   "image": "https://gbstore.ru/pictures/product/small/98454_small.jpg",
+   "stock": "in",
+   "category": "iphone-air",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-air-512gb-space-black-chernyj",
+   "name": "Apple iPhone Air 512GB Space Black (черный)",
+   "price": 85990,
+   "image": "https://gbstore.ru/pictures/product/small/98462_small.jpg",
+   "stock": "in",
+   "category": "iphone-air",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-air-1tb-sky-blue-goluboj",
+   "name": "Apple iPhone Air 1TB Sky Blue (голубой)",
+   "price": 91990,
+   "image": "https://gbstore.ru/pictures/product/small/98450_small.jpg",
+   "stock": "in",
+   "category": "iphone-air",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-air-512gb-cloud-white-belyj",
+   "name": "Apple iPhone Air 512GB Cloud White (белый)",
+   "price": 91990,
+   "image": "https://gbstore.ru/pictures/product/small/98458_small.jpg",
+   "stock": "in",
+   "category": "iphone-air",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-air-1tb-light-gold-zolotistyj",
+   "name": "Apple iPhone Air 1TB Light Gold (золотистый)",
+   "price": 96990,
+   "image": "https://gbstore.ru/pictures/product/small/98454_small.jpg",
+   "stock": "in",
+   "category": "iphone-air",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-air-1tb-space-black-chernyj",
+   "name": "Apple iPhone Air 1TB Space Black (черный)",
+   "price": 96990,
+   "image": "https://gbstore.ru/pictures/product/small/98462_small.jpg",
+   "stock": "in",
+   "category": "iphone-air",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17e-256gb-white-belyj-esim",
+   "name": "Apple iPhone 17e 256GB White (белый) eSIM",
+   "price": 63990,
+   "image": "https://gbstore.ru/pictures/product/small/136110_small.jpg",
+   "stock": "in",
+   "category": "iphone-17e",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17e-256gb-soft-pink-svetlo-rozovyj-esim",
+   "name": "Apple iPhone 17e 256GB Soft Pink (светло-розовый) eSIM",
+   "price": 64990,
+   "image": "https://gbstore.ru/pictures/product/small/136113_small.jpg",
+   "stock": "in",
+   "category": "iphone-17e",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17e-256gb-black-chernyj-esim",
+   "name": "Apple iPhone 17e 256GB Black (черный) eSIM",
+   "price": 64990,
+   "image": "https://gbstore.ru/pictures/product/small/136107_small.jpg",
+   "stock": "in",
+   "category": "iphone-17e",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17e-256gb-soft-pink-svetlo-rozovyj",
+   "name": "Apple iPhone 17e 256GB Soft Pink (светло-розовый) A3634",
+   "price": 66990,
+   "image": "https://gbstore.ru/pictures/product/small/136113_small.jpg",
+   "stock": "in",
+   "category": "iphone-17e",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17e-512gb-black-chernyj-esim",
+   "name": "Apple iPhone 17e 512GB Black (черный) eSIM",
+   "price": 68990,
+   "image": "https://gbstore.ru/pictures/product/small/136107_small.jpg",
+   "stock": "in",
+   "category": "iphone-17e",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17e-512gb-white-belyj-esim",
+   "name": "Apple iPhone 17e 512GB White (белый) eSIM",
+   "price": 68990,
+   "image": "https://gbstore.ru/pictures/product/small/136110_small.jpg",
+   "stock": "in",
+   "category": "iphone-17e",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17e-512gb-soft-pink-svetlo-rozovyj-esim",
+   "name": "Apple iPhone 17e 512GB Soft Pink (светло-розовый) eSIM",
+   "price": 69990,
+   "image": "https://gbstore.ru/pictures/product/small/136113_small.jpg",
+   "stock": "in",
+   "category": "iphone-17e",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-17e-512gb-soft-pink-svetlo-rozovyj",
+   "name": "Apple iPhone 17e 512GB Soft Pink (светло-розовый) A3634",
+   "price": 79990,
+   "image": "https://gbstore.ru/pictures/product/small/136113_small.jpg",
+   "stock": "in",
+   "category": "iphone-17e",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-16-128gb-black-chernyj-eu",
+   "name": "Apple iPhone 16 128GB Black (черный)",
+   "price": 74990,
+   "image": "https://gbstore.ru/pictures/product/small/79578_small.jpg",
+   "stock": "in",
+   "category": "iphone-16",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-16-128gb-white-belyj-eu",
+   "name": "Apple iPhone 16 128GB White (белый)",
+   "price": 75990,
+   "image": "https://gbstore.ru/pictures/product/small/79582_small.jpg",
+   "stock": "in",
+   "category": "iphone-16",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-16-128gb-black-chernyj-mydq3",
+   "name": "Apple iPhone 16 128GB Black (черный) A3286/87",
+   "price": 75990,
+   "image": "https://gbstore.ru/pictures/product/small/79578_small.jpg",
+   "stock": "in",
+   "category": "iphone-16",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-16-128gb-ultramarine-ultramarin-eu",
+   "name": "Apple iPhone 16 128GB Ultramarine (ультрамарин)",
+   "price": 75990,
+   "image": "https://gbstore.ru/pictures/product/small/79590_small.jpg",
+   "stock": "in",
+   "category": "iphone-16",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-16-128gb-white-belyj-mydr3",
+   "name": "Apple iPhone 16 128GB White (белый) A3286/87",
+   "price": 76990,
+   "image": "https://gbstore.ru/pictures/product/small/79582_small.jpg",
+   "stock": "in",
+   "category": "iphone-16",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-16-128gb-ultramarine-ultramarin-mydu3",
+   "name": "Apple iPhone 16 128GB Ultramarine (ультрамарин) A3286/87",
+   "price": 76990,
+   "image": "https://gbstore.ru/pictures/product/small/79590_small.jpg",
+   "stock": "in",
+   "category": "iphone-16",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-16-128gb-teal-biryuzovyj-mydv3",
+   "name": "Apple iPhone 16 128GB Teal (бирюзовый) A3286/87",
+   "price": 76990,
+   "image": "https://gbstore.ru/pictures/product/small/79594_small.jpg",
+   "stock": "in",
+   "category": "iphone-16",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-16-128gb-pink-rozovyj-eu",
+   "name": "Apple iPhone 16 128GB Pink (розовый)",
+   "price": 77990,
+   "image": "https://gbstore.ru/pictures/product/small/79586_small.jpg",
+   "stock": "in",
+   "category": "iphone-16",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-16-128gb-pink-rozovyj-mydt3",
+   "name": "Apple iPhone 16 128GB Pink (розовый) A3286/87",
+   "price": 78990,
+   "image": "https://gbstore.ru/pictures/product/small/79586_small.jpg",
+   "stock": "in",
+   "category": "iphone-16",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-16-256gb-black-chernyj-eu",
+   "name": "Apple iPhone 16 256GB Black (черный)",
+   "price": 80990,
+   "image": "https://gbstore.ru/pictures/product/small/79578_small.jpg",
+   "stock": "in",
+   "category": "iphone-16",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-16-256gb-pink-rozovyj-eu",
+   "name": "Apple iPhone 16 256GB Pink (розовый)",
+   "price": 80990,
+   "image": "https://gbstore.ru/pictures/product/small/79586_small.jpg",
+   "stock": "in",
+   "category": "iphone-16",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-16-256gb-teal-biryuzovyj-eu",
+   "name": "Apple iPhone 16 256GB Teal (бирюзовый)",
+   "price": 80990,
+   "image": "https://gbstore.ru/pictures/product/small/79594_small.jpg",
+   "stock": "in",
+   "category": "iphone-16",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-16-256gb-black-chernyj-mydw3",
+   "name": "Apple iPhone 16 256GB Black (черный) A3286/87",
+   "price": 81990,
+   "image": "https://gbstore.ru/pictures/product/small/79578_small.jpg",
+   "stock": "in",
+   "category": "iphone-16",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-16-256gb-pink-rozovyj-mydy3",
+   "name": "Apple iPhone 16 256GB Pink (розовый) A3286/87",
+   "price": 81990,
+   "image": "https://gbstore.ru/pictures/product/small/79586_small.jpg",
+   "stock": "in",
+   "category": "iphone-16",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-16-256gb-teal-biryuzovyj-mye13",
+   "name": "Apple iPhone 16 256GB Teal (бирюзовый) A3286/87",
+   "price": 81990,
+   "image": "https://gbstore.ru/pictures/product/small/79594_small.jpg",
+   "stock": "in",
+   "category": "iphone-16",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-16-512gb-teal-biryuzovyj-eu",
+   "name": "Apple iPhone 16 512GB Teal (бирюзовый)",
+   "price": 95990,
+   "image": "https://gbstore.ru/pictures/product/small/79594_small.jpg",
+   "stock": "in",
+   "category": "iphone-16",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-16-512gb-teal-biryuzovyj-mye63",
+   "name": "Apple iPhone 16 512GB Teal (бирюзовый) A3286/87",
+   "price": 96990,
+   "image": "https://gbstore.ru/pictures/product/small/79594_small.jpg",
+   "stock": "in",
+   "category": "iphone-16",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-16-512gb-ultramarine-ultramarin-eu",
+   "name": "Apple iPhone 16 512GB Ultramarine (ультрамарин)",
+   "price": 98990,
+   "image": "https://gbstore.ru/pictures/product/small/79590_small.jpg",
+   "stock": "in",
+   "category": "iphone-16",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-16-512gb-ultramarine-ultramarin-mye53",
+   "name": "Apple iPhone 16 512GB Ultramarine (ультрамарин) A3286/87",
+   "price": 99990,
+   "image": "https://gbstore.ru/pictures/product/small/79590_small.jpg",
+   "stock": "in",
+   "category": "iphone-16",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-16e-128gb-black-esim",
+   "name": "Apple iPhone 16e 128GB Black (черный) eSIM",
+   "price": 46990,
+   "image": "https://gbstore.ru/pictures/product/small/86515_small.jpg",
+   "stock": "in",
+   "category": "iphone-16e",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-16e-512gb-white",
+   "name": "Apple iPhone 16e 512GB White (белый)",
+   "price": 56990,
+   "image": "https://gbstore.ru/pictures/product/small/86512_small.jpg",
+   "stock": "in",
+   "category": "iphone-16e",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-16e-512gb-black",
+   "name": "Apple iPhone 16e 512GB Black (черный)",
+   "price": 56990,
+   "image": "https://gbstore.ru/pictures/product/small/86515_small.jpg",
+   "stock": "in",
+   "category": "iphone-16e",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-16e-512gb-white-eu",
+   "name": "Apple iPhone 16e 512GB White (белый) A3408/09",
+   "price": 57990,
+   "image": "https://gbstore.ru/pictures/product/small/86512_small.jpg",
+   "stock": "in",
+   "category": "iphone-16e",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-16e-512gb-black-eu",
+   "name": "Apple iPhone 16e 512GB Black (черный) A3408/09",
+   "price": 57990,
+   "image": "https://gbstore.ru/pictures/product/small/86515_small.jpg",
+   "stock": "in",
+   "category": "iphone-16e",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-15-128gb-nano-sim-plus-esim-blue-goluboj",
+   "name": "Apple iPhone 15 128GB Blue (голубой)",
+   "price": 56990,
+   "image": "https://gbstore.ru/pictures/product/small/56762_small.jpg",
+   "stock": "in",
+   "category": "iphone-15",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-15-128gb-nano-sim-plus-esim-black-chernyj",
+   "name": "Apple iPhone 15 128GB Black (черный)",
+   "price": 56990,
+   "image": "https://gbstore.ru/pictures/product/small/56774_small.jpg",
+   "stock": "in",
+   "category": "iphone-15",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-15-128gb-nano-sim-plus-esim-green-zelenyj",
+   "name": "Apple iPhone 15 128GB Green (зеленый)",
+   "price": 57990,
+   "image": "https://gbstore.ru/pictures/product/small/56771_small.jpg",
+   "stock": "in",
+   "category": "iphone-15",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-15-128gb-nano-sim-plus-esim-blue-goluboj-eu",
+   "name": "Apple iPhone 15 128GB Blue (голубой) A3090/89",
+   "price": 57990,
+   "image": "https://gbstore.ru/pictures/product/small/56762_small.jpg",
+   "stock": "in",
+   "category": "iphone-15",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-15-128gb-nano-sim-plus-esim-black-chernyj-eu",
+   "name": "Apple iPhone 15 128GB Black (черный) A3090/89",
+   "price": 57990,
+   "image": "https://gbstore.ru/pictures/product/small/56774_small.jpg",
+   "stock": "in",
+   "category": "iphone-15",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-15-128gb-nano-sim-plus-esim-green-zelenyj-eu",
+   "name": "Apple iPhone 15 128GB Green (зеленый) A3090/89",
+   "price": 58990,
+   "image": "https://gbstore.ru/pictures/product/small/56771_small.jpg",
+   "stock": "in",
+   "category": "iphone-15",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-15-256gb-nano-sim-plus-esim-blue-goluboj",
+   "name": "Apple iPhone 15 256GB Blue (голубой)",
+   "price": 65990,
+   "image": "https://gbstore.ru/pictures/product/small/56762_small.jpg",
+   "stock": "in",
+   "category": "iphone-15",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-15-256gb-nano-sim-plus-esim-black-chernyj",
+   "name": "Apple iPhone 15 256GB Black (черный)",
+   "price": 65990,
+   "image": "https://gbstore.ru/pictures/product/small/56774_small.jpg",
+   "stock": "in",
+   "category": "iphone-15",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-15-256gb-nano-sim-plus-esim-blue-goluboj-eu",
+   "name": "Apple iPhone 15 256GB Blue (голубой) A3090/89",
+   "price": 66990,
+   "image": "https://gbstore.ru/pictures/product/small/56762_small.jpg",
+   "stock": "in",
+   "category": "iphone-15",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-iphone-15-256gb-nano-sim-plus-esim-black-chernyj-eu",
+   "name": "Apple iPhone 15 256GB Black (черный) A3090/89",
+   "price": 66990,
+   "image": "https://gbstore.ru/pictures/product/small/56774_small.jpg",
+   "stock": "in",
+   "category": "iphone-15",
+   "group": "iphone"
+  },
+  {
+   "id": "apple-macbook-air-13-2026-m5-gpu-8-core-16gb-512gb-starlight-siyayuschaya-zvezda-mdha4",
+   "name": "Apple MacBook Air 13 2026 (M5, GPU 8-Core, 16GB, 512GB) Starlight (Сияющая звезда) MDHA4",
+   "price": 110990,
+   "image": "https://gbstore.ru/pictures/product/small/88187_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-13-2026-m5-gpu-8-core-16gb-512gb-midnight-temnaya-noch-mdhe4",
+   "name": "Apple MacBook Air 13 2026 (M5, GPU 8-Core, 16GB, 512GB) Midnight (Тёмная ночь) MDHE4",
+   "price": 111990,
+   "image": "https://gbstore.ru/pictures/product/small/88181_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-13-2026-m5-gpu-8-core-16gb-512gb-sky-blue-goluboe-nebo-mdhh4",
+   "name": "Apple MacBook Air 13 2026 (M5, GPU 8-Core, 16GB, 512GB) Sky Blue (Голубое небо) MDHH4",
+   "price": 112990,
+   "image": "https://gbstore.ru/pictures/product/small/88169_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-13-2026-m5-gpu-8-core-16gb-512gb-silver-serebristyj-mdh74",
+   "name": "Apple MacBook Air 13 2026 (M5, GPU 8-Core, 16GB, 512GB) Silver (Серебристый) MDH74",
+   "price": 112990,
+   "image": "https://gbstore.ru/pictures/product/small/88175_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-13-2026-m5-gpu-10-core-16gb-1tb-sky-blue-goluboe-nebo-mdhj4",
+   "name": "Apple MacBook Air 13 2026 (M5, GPU 10-Core, 16GB, 1TB) Sky Blue (Голубое небо) MDHJ4",
+   "price": 129990,
+   "image": "https://gbstore.ru/pictures/product/small/88169_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-15-2026-m5-gpu-10-core-16gb-512gb-sky-blue-goluboe-nebo-mdvq4",
+   "name": "Apple MacBook Air 15 2026 (M5, GPU 10-Core, 16GB, 512GB) Sky Blue (Голубое небо) MDVQ4",
+   "price": 129990,
+   "image": "https://gbstore.ru/pictures/product/small/88193_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-15-2026-m5-gpu-10-core-16gb-512gb-silver-serebristyj-mdv94",
+   "name": "Apple MacBook Air 15 2026 (M5, GPU 10-Core, 16GB, 512GB) Silver (Серебристый) MDV94",
+   "price": 129990,
+   "image": "https://gbstore.ru/pictures/product/small/88199_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-15-2026-m5-gpu-10-core-16gb-512gb-midnight-temnaya-noch-mdvh4",
+   "name": "Apple MacBook Air 15 2026 (M5, GPU 10-Core, 16GB, 512GB) Midnight (Тёмная ночь) MDVH4",
+   "price": 129990,
+   "image": "https://gbstore.ru/pictures/product/small/88205_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-15-2026-m5-gpu-10-core-16gb-512gb-starlight-siyayuschaya-zvezda-mdvd4",
+   "name": "Apple MacBook Air 15 2026 (M5, GPU 10-Core, 16GB, 512GB) Starlight (Сияющая звезда) MDVD4",
+   "price": 129990,
+   "image": "https://gbstore.ru/pictures/product/small/88211_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-13-2026-m5-gpu-10-core-16gb-1tb-midnight-temnaya-noch-mdhf4",
+   "name": "Apple MacBook Air 13 2026 (M5, GPU 10-Core, 16GB, 1TB) Midnight (Тёмная ночь) MDHF4",
+   "price": 131990,
+   "image": "https://gbstore.ru/pictures/product/small/88181_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-13-2026-m5-gpu-10-core-16gb-1tb-starlight-siyayuschaya-zvezda-mdhc4",
+   "name": "Apple MacBook Air 13 2026 (M5, GPU 10-Core, 16GB, 1TB) Starlight (Сияющая звезда) MDHC4",
+   "price": 131990,
+   "image": "https://gbstore.ru/pictures/product/small/88187_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-13-2026-m5-gpu-10-core-16gb-1tb-silver-serebristyj-mdh84",
+   "name": "Apple MacBook Air 13 2026 (M5, GPU 10-Core, 16GB, 1TB) Silver (Серебристый) MDH84",
+   "price": 134990,
+   "image": "https://gbstore.ru/pictures/product/small/88175_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-15-2025-m4-10-core-gpu-16gb-512gb-ssd-sky-blue-goluboj-mc7c4",
+   "name": "Apple Macbook Air 15 2025 M4, 10-Core GPU, 16GB, 512GB SSD Sky Blue (голубой) MC7C4",
+   "price": 134990,
+   "image": "https://gbstore.ru/pictures/product/small/88193_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-13-2026-m5-gpu-10-core-24gb-512gb-midnight-temnaya-noch-z1l60001d8",
+   "name": "Apple MacBook Air 13 2026 (M5, GPU 10-Core, 24GB, 512GB) Midnight (Тёмная ночь) Z1L60001D8",
+   "price": 141990,
+   "image": "https://gbstore.ru/pictures/product/small/88181_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-13-2026-m5-gpu-10-core-24gb-512gb-starlight-siyayuschaya-zvezda-z1l300144",
+   "name": "Apple MacBook Air 13 2026 (M5, GPU 10-Core, 24GB, 512GB) Starlight (Сияющая звезда) Z1L300144",
+   "price": 141990,
+   "image": "https://gbstore.ru/pictures/product/small/88187_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-13-2025-m4-10-core-gpu-24gb-512gb-ssd-sky-blue-goluboj-mc6v4",
+   "name": "Apple Macbook Air 13 2025 M4, 10-Core GPU, 24GB, 512GB SSD Sky Blue (голубой) MC6V4",
+   "price": 144990,
+   "image": "https://gbstore.ru/pictures/product/small/88169_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-13-2025-m4-10-core-gpu-24gb-512gb-ssd-starlight-siyayuschaya-zvezda-mc6a4",
+   "name": "Apple Macbook Air 13 2025 M4, 10-Core GPU, 24GB, 512GB SSD Starlight (сияющая звезда) MC6A4",
+   "price": 144990,
+   "image": "https://gbstore.ru/pictures/product/small/88187_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-13-2025-m4-10-core-gpu-16gb-1tb-ssd-silver-serebristyj-z1ct00238",
+   "name": "Apple Macbook Air 13 2025 M4, 10-Core GPU, 16GB, 1TB SSD Silver (серебристый) Z1CT00238",
+   "price": 146990,
+   "image": "https://gbstore.ru/pictures/product/small/88175_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-13-2026-m5-gpu-10-core-24gb-1tb-silver-serebristyj-mdh94",
+   "name": "Apple MacBook Air 13 2026 (M5, GPU 10-Core, 24GB, 1TB) Silver (Серебристый) MDH94",
+   "price": 149990,
+   "image": "https://gbstore.ru/pictures/product/small/88175_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-13-2026-m5-gpu-10-core-24gb-1tb-sky-blue-goluboe-nebo-mdhk4",
+   "name": "Apple MacBook Air 13 2026 (M5, GPU 10-Core, 24GB, 1TB) Sky Blue (Голубое небо) MDHK4",
+   "price": 150990,
+   "image": "https://gbstore.ru/pictures/product/small/88169_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-13-2026-m5-gpu-10-core-24gb-1tb-starlight-siyayuschaya-zvezda-mdhd4",
+   "name": "Apple MacBook Air 13 2026 (M5, GPU 10-Core, 24GB, 1TB) Starlight (Сияющая звезда) MDHD4",
+   "price": 152990,
+   "image": "https://gbstore.ru/pictures/product/small/88187_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-15-2025-m4-10-core-gpu-16gb-1tb-ssd-midnight-temnaya-noch-z1dh000q5",
+   "name": "Apple Macbook Air 15 2025 M4, 10-Core GPU, 16GB, 1TB SSD Midnight (темная ночь) Z1DH000Q5",
+   "price": 152990,
+   "image": "https://gbstore.ru/pictures/product/small/88205_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-15-2026-m5-gpu-10-core-16gb-1tb-starlight-siyayuschaya-zvezda-mdve4",
+   "name": "Apple MacBook Air 15 2026 (M5, GPU 10-Core, 16GB, 1TB) Starlight (Сияющая звезда) MDVE4",
+   "price": 153990,
+   "image": "https://gbstore.ru/pictures/product/small/88211_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-15-2026-m5-gpu-10-core-16gb-1tb-sky-blue-goluboe-nebo-mdvt4",
+   "name": "Apple MacBook Air 15 2026 (M5, GPU 10-Core, 16GB, 1TB) Sky Blue (Голубое небо) MDVT4",
+   "price": 153990,
+   "image": "https://gbstore.ru/pictures/product/small/88193_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-15-2026-m5-gpu-10-core-16gb-1tb-midnight-temnaya-noch-mdvk4",
+   "name": "Apple MacBook Air 15 2026 (M5, GPU 10-Core, 16GB, 1TB) Midnight (Тёмная ночь) MDVK4",
+   "price": 154990,
+   "image": "https://gbstore.ru/pictures/product/small/88205_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-15-2025-m4-10-core-gpu-16gb-1tb-ssd-sky-blue-goluboj-z1he0004z",
+   "name": "Apple Macbook Air 15 2025 M4, 10-Core GPU, 16GB, 1TB SSD Sky Blue (голубой) Z1HE0004Z",
+   "price": 154990,
+   "image": "https://gbstore.ru/pictures/product/small/88193_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-15-2025-m4-10-core-gpu-16gb-1tb-ssd-starlight-siyayuschaya-zvezda-z1df0004z",
+   "name": "Apple Macbook Air 15 2025 M4, 10-Core GPU, 16GB, 1TB SSD Starlight (сияющая звезда) Z1DF0004Z",
+   "price": 154990,
+   "image": "https://gbstore.ru/pictures/product/small/88211_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-13-2026-m5-gpu-10-core-32gb-512gb-sky-blue-goluboe-nebo-z1l9000zt",
+   "name": "Apple MacBook Air 13 2026 (M5, GPU 10-Core, 32GB, 512GB) Sky Blue (Голубое небо) Z1L9000ZT",
+   "price": 159990,
+   "image": "https://gbstore.ru/pictures/product/small/88169_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-13-2026-m5-gpu-10-core-32gb-512gb-midnight-temnaya-noch-z1l60010u",
+   "name": "Apple MacBook Air 13 2026 (M5, GPU 10-Core, 32GB, 512GB) Midnight (Тёмная ночь) Z1L60010U",
+   "price": 159990,
+   "image": "https://gbstore.ru/pictures/product/small/88181_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-15-2026-m5-gpu-10-core-16gb-1tb-silver-serebristyj-mdva4",
+   "name": "Apple MacBook Air 15 2026 (M5, GPU 10-Core, 16GB, 1TB) Silver (Серебристый) MDVA4",
+   "price": 159990,
+   "image": "https://gbstore.ru/pictures/product/small/88199_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-13-2026-m5-gpu-10-core-24gb-1tb-midnight-temnaya-noch-mdhg4",
+   "name": "Apple MacBook Air 13 2026 (M5, GPU 10-Core, 24GB, 1TB) Midnight (Тёмная ночь) MDHG4",
+   "price": 159990,
+   "image": "https://gbstore.ru/pictures/product/small/88181_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-13-2026-m5-gpu-10-core-32gb-512gb-starlight-siyayuschaya-zvezda-z1l30013a",
+   "name": "Apple MacBook Air 13 2026 (M5, GPU 10-Core, 32GB, 512GB) Starlight (Сияющая звезда) Z1L30013A",
+   "price": 160990,
+   "image": "https://gbstore.ru/pictures/product/small/88187_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-15-2026-m5-gpu-10-core-24gb-1tb-starlight-siyayuschaya-zvezda-mdvf4",
+   "name": "Apple MacBook Air 15 2026 (M5, GPU 10-Core, 24GB, 1TB) Starlight (Сияющая звезда) MDVF4",
+   "price": 171990,
+   "image": "https://gbstore.ru/pictures/product/small/88211_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-15-2026-m5-gpu-10-core-24gb-1tb-midnight-temnaya-noch-mdvn4",
+   "name": "Apple MacBook Air 15 2026 (M5, GPU 10-Core, 24GB, 1TB) Midnight (Тёмная ночь) MDVN4",
+   "price": 172990,
+   "image": "https://gbstore.ru/pictures/product/small/88205_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-15-2026-m5-gpu-10-core-24gb-1tb-sky-blue-goluboe-nebo-mdvu4",
+   "name": "Apple MacBook Air 15 2026 (M5, GPU 10-Core, 24GB, 1TB) Sky Blue (Голубое небо) MDVU4",
+   "price": 174990,
+   "image": "https://gbstore.ru/pictures/product/small/88193_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-15-2026-m5-gpu-10-core-24gb-1tb-silver-serebristyj-mdvc4",
+   "name": "Apple MacBook Air 15 2026 (M5, GPU 10-Core, 24GB, 1TB) Silver (Серебристый) MDVC4",
+   "price": 175990,
+   "image": "https://gbstore.ru/pictures/product/small/88199_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-15-2026-m5-gpu-10-core-32gb-512gb-silver-serebristyj-z1lq0019x",
+   "name": "Apple MacBook Air 15 2026 (M5, GPU 10-Core, 32GB, 512GB) Silver (Серебристый) Z1LQ0019X",
+   "price": 182990,
+   "image": "https://gbstore.ru/pictures/product/small/88199_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-15-2026-m5-gpu-10-core-32gb-512gb-midnight-temnaya-noch-z1lw0019y",
+   "name": "Apple MacBook Air 15 2026 (M5, GPU 10-Core, 32GB, 512GB) Midnight (Тёмная ночь) Z1LW0019Y",
+   "price": 182990,
+   "image": "https://gbstore.ru/pictures/product/small/88205_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-15-2026-m5-gpu-10-core-32gb-512gb-starlight-siyayuschaya-zvezda-z1lt00152",
+   "name": "Apple MacBook Air 15 2026 (M5, GPU 10-Core, 32GB, 512GB) Starlight (Сияющая звезда) Z1LT00152",
+   "price": 184990,
+   "image": "https://gbstore.ru/pictures/product/small/88211_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-15-2026-m5-gpu-10-core-32gb-512gb-sky-blue-goluboe-nebo-z1lz000vlh",
+   "name": "Apple MacBook Air 15 2026 (M5, GPU 10-Core, 32GB, 512GB) Sky Blue (Голубое небо) Z1LZ000VLH",
+   "price": 184990,
+   "image": "https://gbstore.ru/pictures/product/small/88193_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-13-2026-m5-gpu-10-core-32gb-1tb-sky-blue-goluboe-nebo-z1l9001vx",
+   "name": "Apple MacBook Air 13 2026 (M5, GPU 10-Core, 32GB, 1TB) Sky Blue (Голубое небо) Z1L9001VX",
+   "price": 191990,
+   "image": "https://gbstore.ru/pictures/product/small/88169_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-15-2026-m5-gpu-10-core-32gb-1tb-silver-serebristyj-z1lr000k2",
+   "name": "Apple MacBook Air 15 2026 (M5, GPU 10-Core, 32GB, 1TB) Silver (Серебристый) Z1LR000K2",
+   "price": 209990,
+   "image": "https://gbstore.ru/pictures/product/small/88199_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-15-2026-m5-gpu-10-core-32gb-1tb-midnight-temnaya-noch-z1lx000k2",
+   "name": "Apple MacBook Air 15 2026 (M5, GPU 10-Core, 32GB, 1TB) Midnight (Тёмная ночь) Z1LX000K2",
+   "price": 209990,
+   "image": "https://gbstore.ru/pictures/product/small/88205_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-15-2026-m5-gpu-10-core-32gb-1tb-starlight-siyayuschaya-zvezda-z1lt000mr",
+   "name": "Apple MacBook Air 15 2026 (M5, GPU 10-Core, 32GB, 1TB) Starlight (Сияющая звезда) Z1LT000MR",
+   "price": 209990,
+   "image": "https://gbstore.ru/pictures/product/small/88211_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-15-2026-m5-gpu-10-core-32gb-2tb-sky-blue-goluboe-nebo-z1m1000k5",
+   "name": "Apple MacBook Air 15 2026 (M5, GPU 10-Core, 32GB, 2TB) Sky Blue (Голубое небо) Z1M1000K5",
+   "price": 249990,
+   "image": "https://gbstore.ru/pictures/product/small/88193_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-15-2026-m5-gpu-10-core-32gb-2tb-silver-serebristyj-z1lr000k5",
+   "name": "Apple MacBook Air 15 2026 (M5, GPU 10-Core, 32GB, 2TB) Silver (Серебристый) Z1LR000K5",
+   "price": 249990,
+   "image": "https://gbstore.ru/pictures/product/small/88199_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-15-2026-m5-gpu-10-core-32gb-2tb-midnight-temnaya-noch-z1lx000k7",
+   "name": "Apple MacBook Air 15 2026 (M5, GPU 10-Core, 32GB, 2TB) Midnight (Тёмная ночь) Z1LX000K7",
+   "price": 249990,
+   "image": "https://gbstore.ru/pictures/product/small/88205_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-15-2026-m5-gpu-10-core-32gb-2tb-starlight-siyayuschaya-zvezda-z1lu000k7",
+   "name": "Apple MacBook Air 15 2026 (M5, GPU 10-Core, 32GB, 2TB) Starlight (Сияющая звезда) Z1LU000K7",
+   "price": 249990,
+   "image": "https://gbstore.ru/pictures/product/small/88211_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-15-2026-m5-gpu-10-core-32gb-4tb-sky-blue-goluboe-nebo-z1m1000k8",
+   "name": "Apple MacBook Air 15 2026 (M5, GPU 10-Core, 32GB, 4TB) Sky Blue (Голубое небо) Z1M1000K8",
+   "price": 344990,
+   "image": "https://gbstore.ru/pictures/product/small/88193_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-15-2026-m5-gpu-10-core-32gb-4tb-silver-serebristyj-z1lr000k8",
+   "name": "Apple MacBook Air 15 2026 (M5, GPU 10-Core, 32GB, 4TB) Silver (Серебристый) Z1LR000K8",
+   "price": 344990,
+   "image": "https://gbstore.ru/pictures/product/small/88199_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-air-15-2026-m5-gpu-10-core-32gb-4tb-midnight-temnaya-noch-z1lx000k8",
+   "name": "Apple MacBook Air 15 2026 (M5, GPU 10-Core, 32GB, 4TB) Midnight (Тёмная ночь) Z1LX000K8",
+   "price": 344990,
+   "image": "https://gbstore.ru/pictures/product/small/88205_small.jpg",
+   "stock": "in",
+   "category": "macbook-air",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-pro-14-2025-m5-10-core-cpu-10-core-gpu-16gb-1tb-ssd-space-black-chernyj-kosmos-mde14",
+   "name": "Apple MacBook Pro 14 2025 M5, 10-core CPU, 10-core GPU, 16GB, 1TB SSD Space Black (черный космос) MDE14",
+   "price": 169990,
+   "image": "https://gbstore.ru/pictures/product/small/81856_small.jpg",
+   "stock": "in",
+   "category": "macbook-pro",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-pro-14-2025-m5-10-core-cpu-10-core-gpu-16gb-1tb-ssd-silver-serebristyj-mde54",
+   "name": "Apple MacBook Pro 14 2025 M5, 10-core CPU, 10-core GPU, 16GB, 1TB SSD Silver (серебристый) MDE54",
+   "price": 179990,
+   "image": "https://gbstore.ru/pictures/product/small/81862_small.jpg",
+   "stock": "in",
+   "category": "macbook-pro",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-pro-14-2025-m5-10-core-cpu-10-core-gpu-24gb-1tb-ssd-space-black-chernyj-kosmos-mde34",
+   "name": "Apple MacBook Pro 14 2025 M5, 10-core CPU, 10-core GPU, 24GB, 1TB SSD Space Black (черный космос) MDE34",
+   "price": 194990,
+   "image": "https://gbstore.ru/pictures/product/small/81856_small.jpg",
+   "stock": "in",
+   "category": "macbook-pro",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-pro-14-2025-m5-10-core-cpu-10-core-gpu-24gb-1tb-ssd-silver-serebristyj-mde64",
+   "name": "Apple MacBook Pro 14 2025 M5, 10-core CPU, 10-core GPU, 24GB, 1TB SSD Silver (серебристый) MDE64",
+   "price": 202990,
+   "image": "https://gbstore.ru/pictures/product/small/81862_small.jpg",
+   "stock": "in",
+   "category": "macbook-pro",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-pro-14-m5-pro-15-core-gpu-16-core-24gb-1tb-silver-serebristyj-mgdn4",
+   "name": "Apple MacBook Pro 14 2026 (M5 Pro 15-Core, GPU 16-Core, 24GB, 1TB) Silver (серебристый) MGDN4",
+   "price": 224990,
+   "image": "https://gbstore.ru/pictures/product/small/81862_small.jpg",
+   "stock": "in",
+   "category": "macbook-pro",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-pro-14-m5-pro-15-core-gpu-16-core-24gb-1tb-space-black-chernyj-kosmos-mgdr4",
+   "name": "Apple MacBook Pro 14 2026 (M5 Pro 15-Core, GPU 16-Core, 24GB, 1TB) Space Black (черный космос) MGDR4",
+   "price": 224990,
+   "image": "https://gbstore.ru/pictures/product/small/81856_small.jpg",
+   "stock": "in",
+   "category": "macbook-pro",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-pro-16-2026-m5-pro-18-core-gpu-20-core-24gb-1tb-space-black-chernyj-kosmos-mgea4",
+   "name": "Apple MacBook Pro 16 2026 (M5 Pro 18-Core, GPU 20-Core, 24GB, 1TB) Space Black (черный космос) MGEA4",
+   "price": 249990,
+   "image": "https://gbstore.ru/pictures/product/small/81868_small.jpg",
+   "stock": "in",
+   "category": "macbook-pro",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-pro-16-2026-m5-pro-18-core-gpu-20-core-24gb-1tb-silver-serebristyj-mge44",
+   "name": "Apple MacBook Pro 16 2026 (M5 Pro 18-Core, GPU 20-Core, 24GB, 1TB) Silver (серебристый) MGE44",
+   "price": 269990,
+   "image": "https://gbstore.ru/pictures/product/small/81874_small.jpg",
+   "stock": "in",
+   "category": "macbook-pro",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-pro-16-2024-m4-max-14-core-cpu-32-core-gpu-36gb-1tb-ssd-silver-serebristyj-mx2v3",
+   "name": "Apple MacBook Pro 16 2024 M4 Max, 14-core CPU, 32-core GPU, 36Gb, 1Tb SSD Silver (серебристый) MX2V3",
+   "price": 299990,
+   "image": "https://gbstore.ru/pictures/product/small/81874_small.jpg",
+   "stock": "in",
+   "category": "macbook-pro",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-pro-16-2026-m5-pro-18-core-gpu-20-core-48gb-1tb-space-black-chernyj-kosmos-mgec4",
+   "name": "Apple MacBook Pro 16 2026 (M5 Pro 18-Core, GPU 20-Core, 48GB, 1TB) Space Black (черный космос) MGEC4",
+   "price": 314990,
+   "image": "https://gbstore.ru/pictures/product/small/81868_small.jpg",
+   "stock": "in",
+   "category": "macbook-pro",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-pro-16-2026-m5-max-18-core-gpu-32-core-36gb-2tb-silver-serebristyj-mge74",
+   "name": "Apple MacBook Pro 16 2026 (M5 Max 18-Core, GPU 32-Core, 36GB, 2TB) Silver (серебристый) MGE74",
+   "price": 319990,
+   "image": "https://gbstore.ru/pictures/product/small/81874_small.jpg",
+   "stock": "in",
+   "category": "macbook-pro",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-pro-16-2026-m5-max-18-core-gpu-32-core-36gb-2tb-space-black-chernyj-kosmos-mged4",
+   "name": "Apple MacBook Pro 16 2026 (M5 Max 18-Core, GPU 32-Core, 36GB, 2TB) Space Black (черный космос) MGED4",
+   "price": 319990,
+   "image": "https://gbstore.ru/pictures/product/small/81868_small.jpg",
+   "stock": "in",
+   "category": "macbook-pro",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-pro-16-2026-m5-pro-18-core-gpu-20-core-48gb-1tb-silver-serebristyj-mge64",
+   "name": "Apple MacBook Pro 16 2026 (M5 Pro 18-Core, GPU 20-Core, 48GB, 1TB) Silver (серебристый) MGE64",
+   "price": 319990,
+   "image": "https://gbstore.ru/pictures/product/small/81874_small.jpg",
+   "stock": "in",
+   "category": "macbook-pro",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-pro-16-2024-m4-max-16-core-cpu-40-core-gpu-48gb-1tb-ssd-space-black-chernyj-kosmos-mx313",
+   "name": "Apple MacBook Pro 16 2024 M4 Max, 16-core CPU, 40-core GPU, 48Gb, 1Tb SSD Space Black (черный космос) MX313",
+   "price": 339990,
+   "image": "https://gbstore.ru/pictures/product/small/81868_small.jpg",
+   "stock": "in",
+   "category": "macbook-pro",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-pro-16-2026-m5-max-18-core-gpu-40-core-48gb-2tb-silver-serebristyj-mge94",
+   "name": "Apple MacBook Pro 16 2026 (M5 Max 18-Core, GPU 40-Core, 48GB, 2TB) Silver (серебристый) MGE94",
+   "price": 399990,
+   "image": "https://gbstore.ru/pictures/product/small/81874_small.jpg",
+   "stock": "in",
+   "category": "macbook-pro",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-pro-16-2026-m5-max-18-core-gpu-40-core-48gb-2tb-space-black-chernyj-kosmos-mgee4",
+   "name": "Apple MacBook Pro 16 2026 (M5 Max 18-Core, GPU 40-Core, 48GB, 2TB) Space Black (черный космос) MGEE4",
+   "price": 399990,
+   "image": "https://gbstore.ru/pictures/product/small/81868_small.jpg",
+   "stock": "in",
+   "category": "macbook-pro",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-pro-16-2026-m5-pro-18-core-gpu-20-core-64gb-1tb-space-black-chernyj-kosmos-z1n0001ln",
+   "name": "Apple MacBook Pro 16 2026 (M5 Pro 18-Core, GPU 20-Core, 64GB, 1TB) Space Black (черный космос) Z1N0001LN",
+   "price": 419990,
+   "image": "https://gbstore.ru/pictures/product/small/81868_small.jpg",
+   "stock": "in",
+   "category": "macbook-pro",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-pro-16-2026-m5-max-18-core-gpu-40-core-64gb-2tb-space-black-chernyj-kosmos-z1mz001am-nano-glass",
+   "name": "Apple MacBook Pro 16 2026 (M5 Max 18-Core, GPU 40-Core, 64GB, 2TB) Space Black (черный космос) Z1MZ001AM Nano Glass",
+   "price": 479990,
+   "image": "https://gbstore.ru/pictures/product/small/81868_small.jpg",
+   "stock": "in",
+   "category": "macbook-pro",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-pro-16-2026-m5-max-18-core-gpu-40-core-128gb-4tb-silver-serebristyj-z1my000u2-nano-glass",
+   "name": "Apple MacBook Pro 16 2026 (M5 Max 18-Core, GPU 40-Core, 128GB, 4TB) Silver (серебристый) Z1MY000U2 Nano Glass",
+   "price": 719990,
+   "image": "https://gbstore.ru/pictures/product/small/81874_small.jpg",
+   "stock": "in",
+   "category": "macbook-pro",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-pro-16-2026-m5-max-18-core-gpu-40-core-128gb-4tb-space-black-chernyj-kosmos-z1n20012l-nano-glass",
+   "name": "Apple MacBook Pro 16 2026 (M5 Max 18-Core, GPU 40-Core, 128GB, 4TB) Space Black (черный космос) Z1N20012L Nano Glass",
+   "price": 809990,
+   "image": "https://gbstore.ru/pictures/product/small/81868_small.jpg",
+   "stock": "in",
+   "category": "macbook-pro",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-pro-16-2026-m5-max-18-core-gpu-40-core-128gb-8tb-silver-serebristyj-z1my000a4",
+   "name": "Apple MacBook Pro 16 2026 (M5 Max 18-Core, GPU 40-Core, 128GB, 8TB) Silver (серебристый) Z1MY000A4",
+   "price": 964990,
+   "image": "https://gbstore.ru/pictures/product/small/81874_small.jpg",
+   "stock": "in",
+   "category": "macbook-pro",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-pro-16-2026-m5-max-18-core-gpu-40-core-128gb-8tb-space-black-chernyj-kosmos-z1n2001rw-nano-glass",
+   "name": "Apple MacBook Pro 16 2026 (M5 Max 18-Core, GPU 40-Core, 128GB, 8TB) Space Black (черный космос) Z1N2001RW Nano Glass",
+   "price": 979990,
+   "image": "https://gbstore.ru/pictures/product/small/81868_small.jpg",
+   "stock": "in",
+   "category": "macbook-pro",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-neo-13-a18-pro-6-core-gpu-5-core-8gb-256gb-mhfd4-citrus",
+   "name": "Apple MacBook Neo 13 (A18 Pro 6-Core, GPU 5-Core, 8GB, 256GB) MHFD4 Citrus",
+   "price": 64990,
+   "image": "https://gbstore.ru/pictures/product/small/136099_small.jpg",
+   "stock": "in",
+   "category": "macbook-neo",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-neo-13-a18-pro-6-core-gpu-5-core-8gb-256gb-mhff4-indigo",
+   "name": "Apple MacBook Neo 13 (A18 Pro 6-Core, GPU 5-Core, 8GB, 256GB) MHFF4 Indigo",
+   "price": 64990,
+   "image": "https://gbstore.ru/pictures/product/small/136091_small.jpg",
+   "stock": "in",
+   "category": "macbook-neo",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-neo-13-a18-pro-6-core-gpu-5-core-8gb-256gb-mhfh4-blush",
+   "name": "Apple MacBook Neo 13 (A18 Pro 6-Core, GPU 5-Core, 8GB, 256GB) MHFH4 Blush",
+   "price": 65990,
+   "image": "https://gbstore.ru/pictures/product/small/136095_small.jpg",
+   "stock": "in",
+   "category": "macbook-neo",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-neo-13-a18-pro-6-core-gpu-5-core-8gb-256gb-mhfa4-silver",
+   "name": "Apple MacBook Neo 13 (A18 Pro 6-Core, GPU 5-Core, 8GB, 256GB) MHFA4 Silver",
+   "price": 65990,
+   "image": "https://gbstore.ru/pictures/product/small/136087_small.jpg",
+   "stock": "in",
+   "category": "macbook-neo",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-neo-13-a18-pro-6-core-gpu-5-core-8gb-512gb-mhfc4-silver",
+   "name": "Apple MacBook Neo 13 (A18 Pro 6-Core, GPU 5-Core, 8GB, 512GB) MHFC4 Silver",
+   "price": 72990,
+   "image": "https://gbstore.ru/pictures/product/small/136087_small.jpg",
+   "stock": "in",
+   "category": "macbook-neo",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-neo-13-a18-pro-6-core-gpu-5-core-8gb-512gb-mhfg4-indigo",
+   "name": "Apple MacBook Neo 13 (A18 Pro 6-Core, GPU 5-Core, 8GB, 512GB) MHFG4 Indigo",
+   "price": 73990,
+   "image": "https://gbstore.ru/pictures/product/small/136091_small.jpg",
+   "stock": "in",
+   "category": "macbook-neo",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-neo-13-a18-pro-6-core-gpu-5-core-8gb-512gb-mhfe4-citrus",
+   "name": "Apple MacBook Neo 13 (A18 Pro 6-Core, GPU 5-Core, 8GB, 512GB) MHFE4 Citrus",
+   "price": 73990,
+   "image": "https://gbstore.ru/pictures/product/small/136099_small.jpg",
+   "stock": "in",
+   "category": "macbook-neo",
+   "group": "mac"
+  },
+  {
+   "id": "apple-macbook-neo-13-a18-pro-6-core-gpu-5-core-8gb-512gb-mhfj4-blush",
+   "name": "Apple MacBook Neo 13 (A18 Pro 6-Core, GPU 5-Core, 8GB, 512GB) MHFJ4 Blush",
+   "price": 74990,
+   "image": "https://gbstore.ru/pictures/product/small/136095_small.jpg",
+   "stock": "in",
+   "category": "macbook-neo",
+   "group": "mac"
+  },
+  {
+   "id": "apple-imac-24-2024-m4-8c-cpu-8c-gpu-16gb-512gb-ssd-pink-z1e6000fv",
+   "name": "Apple iMac 24\" 2024 (M4, 8C CPU, 8C GPU, 16GB, 512GB SSD) Pink Z1E6000FV",
+   "price": 183990,
+   "image": "https://gbstore.ru/pictures/product/small/83426_small.jpg",
+   "stock": "in",
+   "category": "imac",
+   "group": "mac"
+  },
+  {
+   "id": "apple-imac-24-2024-m4-8c-cpu-8c-gpu-16gb-512gb-ssd-purple-z1e7000eq",
+   "name": "Apple iMac 24\" 2024 (M4, 8C CPU, 8C GPU, 16GB, 512GB SSD) Purple Z1E7000EQ",
+   "price": 184990,
+   "image": "https://gbstore.ru/pictures/product/small/83423_small.jpg",
+   "stock": "in",
+   "category": "imac",
+   "group": "mac"
+  },
+  {
+   "id": "apple-imac-24-retina-45k-2024-mwuu3-apple-m4-10-core-cpu-10-core-gpu-16-gb-256-gb-ssd-serebristyj",
+   "name": "Apple iMac 24\" Retina 4,5K 2024 MWUU3 (Apple M4, 10-Core CPU, 10-Core GPU, 16GB, 256GB SSD, серебристый)",
+   "price": 184990,
+   "image": "https://gbstore.ru/pictures/product/small/83438_small.jpg",
+   "stock": "in",
+   "category": "imac",
+   "group": "mac"
+  },
+  {
+   "id": "apple-imac-24-retina-45k-2024-mwv13-apple-m4-10-core-cpu-10-core-gpu-16-gb-256-gb-ssd-sinij",
+   "name": "Apple iMac 24\" Retina 4,5K 2024 MWV13 (Apple M4, 10-Core CPU, 10-Core GPU, 16GB, 256GB SSD, синий)",
+   "price": 184990,
+   "image": "https://gbstore.ru/pictures/product/small/83420_small.jpg",
+   "stock": "in",
+   "category": "imac",
+   "group": "mac"
+  },
+  {
+   "id": "apple-imac-24-2024-m4-8c-cpu-8c-gpu-16gb-512gb-ssd-silver-z1e2000kj",
+   "name": "Apple iMac 24\" 2024 (M4, 8C CPU, 8C GPU, 16GB, 512GB SSD) Silver Z1E2000KJ",
+   "price": 184990,
+   "image": "https://gbstore.ru/pictures/product/small/83438_small.jpg",
+   "stock": "in",
+   "category": "imac",
+   "group": "mac"
+  },
+  {
+   "id": "apple-imac-24-retina-45k-2024-mwv43-apple-m4-10-core-cpu-10-core-gpu-16-gb-256-gb-ssd-rozovyj",
+   "name": "Apple iMac 24\" Retina 4,5K 2024 MWV43 (Apple M4, 10-Core CPU, 10-Core GPU, 16GB, 256GB SSD, розовый)",
+   "price": 185990,
+   "image": "https://gbstore.ru/pictures/product/small/83426_small.jpg",
+   "stock": "in",
+   "category": "imac",
+   "group": "mac"
+  },
+  {
+   "id": "apple-imac-24-retina-45k-2024-mwuy3-apple-m4-10-core-cpu-10-core-gpu-16-gb-256-gb-ssd-zelenyj",
+   "name": "Apple iMac 24\" Retina 4,5K 2024 MWUY3 (Apple M4, 10-Core CPU, 10-Core GPU, 16GB, 256GB SSD, зеленый)",
+   "price": 185990,
+   "image": "https://gbstore.ru/pictures/product/small/83435_small.jpg",
+   "stock": "in",
+   "category": "imac",
+   "group": "mac"
+  },
+  {
+   "id": "apple-imac-24-retina-45k-2024-mwv33-apple-m4-10-core-cpu-10-core-gpu-16-gb-512-gb-ssd-sinij",
+   "name": "Apple iMac 24\" Retina 4,5K 2024 MWV33 (Apple M4, 10-Core CPU, 10-Core GPU, 16GB, 512GB SSD, синий)",
+   "price": 199990,
+   "image": "https://gbstore.ru/pictures/product/small/83420_small.jpg",
+   "stock": "in",
+   "category": "imac",
+   "group": "mac"
+  },
+  {
+   "id": "apple-imac-24-retina-45k-2024-mwuv3-apple-m4-10-core-cpu-10-core-gpu-16-gb-512-gb-ssd-serebristyj",
+   "name": "Apple iMac 24\" Retina 4,5K 2024 MWUV3 (Apple M4, 10-Core CPU, 10-Core GPU, 16GB, 512GB SSD, серебристый)",
+   "price": 199990,
+   "image": "https://gbstore.ru/pictures/product/small/83438_small.jpg",
+   "stock": "in",
+   "category": "imac",
+   "group": "mac"
+  },
+  {
+   "id": "apple-imac-24-2024-m4-10c-cpu-10c-gpu-16gb-512gb-ssd-blue-z1ep000wp",
+   "name": "Apple iMac 24\" 2024 (M4, 10C CPU, 10C GPU, 16GB, 512GB SSD) Blue Z1EP000WP",
+   "price": 202990,
+   "image": "https://gbstore.ru/pictures/product/small/83420_small.jpg",
+   "stock": "in",
+   "category": "imac",
+   "group": "mac"
+  },
+  {
+   "id": "apple-imac-24-2024-m4-10c-cpu-10c-gpu-16gb-512gb-ssd-yellow-z1ek000l3",
+   "name": "Apple iMac 24\" 2024 (M4, 10C CPU, 10C GPU, 16GB, 512GB SSD) Yellow Z1EK000L3",
+   "price": 202990,
+   "image": "https://gbstore.ru/pictures/product/small/83432_small.jpg",
+   "stock": "in",
+   "category": "imac",
+   "group": "mac"
+  },
+  {
+   "id": "apple-imac-24-2024-m4-10c-cpu-10c-gpu-16gb-512gb-ssd-purple-z1et000mg",
+   "name": "Apple iMac 24\" 2024 (M4, 10C CPU, 10C GPU, 16GB, 512GB SSD) Purple Z1ET000MG",
+   "price": 202990,
+   "image": "https://gbstore.ru/pictures/product/small/83423_small.jpg",
+   "stock": "in",
+   "category": "imac",
+   "group": "mac"
+  },
+  {
+   "id": "apple-imac-24-2024-m4-10c-cpu-10c-gpu-24gb-512gb-ssd-yellow-z1ek000rc",
+   "name": "Apple iMac 24\" 2024 (M4, 10C CPU, 10C GPU, 24GB, 512GB SSD) Yellow Z1EK000RC",
+   "price": 226990,
+   "image": "https://gbstore.ru/pictures/product/small/83432_small.jpg",
+   "stock": "in",
+   "category": "imac",
+   "group": "mac"
+  },
+  {
+   "id": "apple-imac-24-retina-45k-2024-md2t4-apple-m4-10-core-cpu-10-core-gpu-24-gb-512-gb-ssd-sinij",
+   "name": "Apple iMac 24\" Retina 4,5K 2024 MD2T4 (Apple M4, 10-Core CPU, 10-Core GPU, 24GB, 512GB SSD, синий)",
+   "price": 227990,
+   "image": "https://gbstore.ru/pictures/product/small/83420_small.jpg",
+   "stock": "in",
+   "category": "imac",
+   "group": "mac"
+  },
+  {
+   "id": "apple-imac-24-retina-45k-2024-md2q4-apple-m4-10-core-cpu-10-core-gpu-24-gb-512-gb-ssd-zelenyj",
+   "name": "Apple iMac 24\" Retina 4,5K 2024 MD2Q4 (Apple M4, 10-Core CPU, 10-Core GPU, 24GB, 512GB SSD, зеленый)",
+   "price": 227990,
+   "image": "https://gbstore.ru/pictures/product/small/83435_small.jpg",
+   "stock": "in",
+   "category": "imac",
+   "group": "mac"
+  },
+  {
+   "id": "apple-imac-24-2024-m4-10c-cpu-10c-gpu-24gb-512gb-ssd-green-z1em0012l",
+   "name": "Apple iMac 24\" 2024 (M4, 10C CPU, 10C GPU, 24GB, 512GB SSD) Green Z1EM0012L",
+   "price": 227990,
+   "image": "https://gbstore.ru/pictures/product/small/83435_small.jpg",
+   "stock": "in",
+   "category": "imac",
+   "group": "mac"
+  },
+  {
+   "id": "apple-imac-24-2024-m4-10c-cpu-10c-gpu-16gb-1tb-ssd-silver-z1eh000v5",
+   "name": "Apple iMac 24\" 2024 (M4, 10C CPU, 10C GPU, 16GB, 1TB SSD) Silver Z1EH000V5",
+   "price": 232990,
+   "image": "https://gbstore.ru/pictures/product/small/83438_small.jpg",
+   "stock": "in",
+   "category": "imac",
+   "group": "mac"
+  },
+  {
+   "id": "apple-imac-24-2024-m4-10c-cpu-10c-gpu-16gb-1tb-ssd-blue-z1ep000t5",
+   "name": "Apple iMac 24\" 2024 (M4, 10C CPU, 10C GPU, 16GB, 1TB SSD) Blue Z1EP000T5",
+   "price": 233990,
+   "image": "https://gbstore.ru/pictures/product/small/83420_small.jpg",
+   "stock": "in",
+   "category": "imac",
+   "group": "mac"
+  },
+  {
+   "id": "apple-imac-24-2024-m4-10c-cpu-10c-gpu-32gb-512gb-ssd-silver-z1ej000md",
+   "name": "Apple iMac 24\" 2024 (M4, 10C CPU, 10C GPU, 32GB, 512GB SSD) Silver Z1EJ000MD",
+   "price": 249990,
+   "image": "https://gbstore.ru/pictures/product/small/83438_small.jpg",
+   "stock": "in",
+   "category": "imac",
+   "group": "mac"
+  },
+  {
+   "id": "apple-imac-24-2024-m4-10c-cpu-10c-gpu-32gb-512gb-ssd-orange-z1ew000dw",
+   "name": "Apple iMac 24\" 2024 (M4, 10C CPU, 10C GPU, 32GB, 512GB SSD) Orange Z1EW000DW",
+   "price": 252990,
+   "image": "https://gbstore.ru/pictures/product/small/83429_small.jpg",
+   "stock": "in",
+   "category": "imac",
+   "group": "mac"
+  },
+  {
+   "id": "apple-imac-24-2024-m4-10c-cpu-10c-gpu-24gb-1tb-ssd-silver-z1eh001q1",
+   "name": "Apple iMac 24\" 2024 (M4, 10C CPU, 10C GPU, 24GB, 1TB SSD) Silver Z1EH001Q1",
+   "price": 257990,
+   "image": "https://gbstore.ru/pictures/product/small/83438_small.jpg",
+   "stock": "in",
+   "category": "imac",
+   "group": "mac"
+  },
+  {
+   "id": "apple-imac-24-2024-m4-10c-cpu-10c-gpu-24gb-1tb-ssd-blue-z1eq001sn",
+   "name": "Apple iMac 24\" 2024 (M4, 10C CPU, 10C GPU, 24GB, 1TB SSD) Blue Z1EQ001SN",
+   "price": 257990,
+   "image": "https://gbstore.ru/pictures/product/small/83420_small.jpg",
+   "stock": "in",
+   "category": "imac",
+   "group": "mac"
+  },
+  {
+   "id": "apple-imac-24-2024-m4-10c-cpu-10c-gpu-32gb-1tb-ssd-yellow-z1k2000vk",
+   "name": "Apple iMac 24\" 2024 (M4, 10C CPU, 10C GPU, 32GB, 1TB SSD) Yellow Z1K2000VK",
+   "price": 274990,
+   "image": "https://gbstore.ru/pictures/product/small/83432_small.jpg",
+   "stock": "in",
+   "category": "imac",
+   "group": "mac"
+  },
+  {
+   "id": "apple-imac-24-2024-m4-10c-cpu-10c-gpu-32gb-2tb-ssd-silver-z1ej000mf",
+   "name": "Apple iMac 24\" 2024 (M4, 10C CPU, 10C GPU, 32GB, 2TB SSD) Silver Z1EJ000MF",
+   "price": 325990,
+   "image": "https://gbstore.ru/pictures/product/small/83438_small.jpg",
+   "stock": "in",
+   "category": "imac",
+   "group": "mac"
+  },
+  {
+   "id": "apple-mac-mini-2024-m4-10-core-gpu-10-core-16gb-256gb-ssd-mu9d3",
+   "name": "Apple Mac mini 2024 (M4 10-core, GPU 10-core, 16GB, 256GB SSD) MU9D3",
+   "price": 79990,
+   "image": "https://gbstore.ru/pictures/product/small/89549_small.jpg",
+   "stock": "in",
+   "category": "mac-mini",
+   "group": "mac"
+  },
+  {
+   "id": "apple-mac-mini-2026-m6-16gb-256gb-ssd",
+   "name": "Apple Mac mini 2026 (M6, 16GB, 256GB SSD) MHQK4",
+   "price": 84990,
+   "image": "https://gbstore.ru/pictures/product/small/182580_small.jpg",
+   "stock": "in",
+   "category": "mac-mini",
+   "group": "mac"
+  },
+  {
+   "id": "apple-mac-mini-2024-m4-10-core-gpu-10-core-16gb-512gb-ssd-mu9e3",
+   "name": "Apple Mac mini 2024 (M4 10-core, GPU 10-core, 16GB, 512GB SSD) MU9E3",
+   "price": 89990,
+   "image": "https://gbstore.ru/pictures/product/small/89549_small.jpg",
+   "stock": "in",
+   "category": "mac-mini",
+   "group": "mac"
+  },
+  {
+   "id": "apple-mac-mini-2026-m6-16gb-512gb-ssd",
+   "name": "Apple Mac mini 2026 (M6, 16GB, 512GB SSD) MHQL4",
+   "price": 106990,
+   "image": "https://gbstore.ru/pictures/product/small/182580_small.jpg",
+   "stock": "in",
+   "category": "mac-mini",
+   "group": "mac"
+  },
+  {
+   "id": "apple-mac-mini-2026-m6-24gb-512gb-ssd",
+   "name": "Apple Mac mini 2026 (M6, 24GB, 512GB SSD) MHQM4",
+   "price": 139990,
+   "image": "https://gbstore.ru/pictures/product/small/182580_small.jpg",
+   "stock": "in",
+   "category": "mac-mini",
+   "group": "mac"
+  },
+  {
+   "id": "apple-mac-mini-2024-m4-10-core-gpu-10-core-24gb-512gb-ssd-mcyt4",
+   "name": "Apple Mac mini 2024 (M4 10-core, GPU 10-core, 24GB, 512GB SSD) MCYT4",
+   "price": 139990,
+   "image": "https://gbstore.ru/pictures/product/small/89549_small.jpg",
+   "stock": "in",
+   "category": "mac-mini",
+   "group": "mac"
+  },
+  {
+   "id": "apple-mac-mini-2024-m4-pro-12-core-gpu-16-core-24gb-512gb-ssd-mcx44",
+   "name": "Apple Mac mini 2024 (M4 Pro 12-core, GPU 16-core, 24GB, 512GB SSD) MCX44",
+   "price": 169990,
+   "image": "https://gbstore.ru/pictures/product/small/89549_small.jpg",
+   "stock": "in",
+   "category": "mac-mini",
+   "group": "mac"
+  },
+  {
+   "id": "apple-mac-mini-2026-m5-pro-24gb-512gb-ssd",
+   "name": "Apple Mac mini 2026 (M5 Pro, 24GB, 512GB SSD) MHQN4",
+   "price": 172990,
+   "image": "https://gbstore.ru/pictures/product/small/182580_small.jpg",
+   "stock": "in",
+   "category": "mac-mini",
+   "group": "mac"
+  },
+  {
+   "id": "apple-ipad-pro-m5-2025-13-wi-fi-256gb-space-black",
+   "name": "Apple iPad Pro (M5, 2025) 13\" Wi-Fi 256Gb Space Black",
+   "price": 114990,
+   "image": "https://gbstore.ru/pictures/product/small/70816_small.jpg",
+   "stock": "in",
+   "category": "ipad-pro-13-2025",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-pro-m5-2025-13-wi-fi-plus-cellular-256gb-space-black",
+   "name": "Apple iPad Pro (M5, 2025) 13\" Wi-Fi + Cellular 256Gb Space Black",
+   "price": 116990,
+   "image": "https://gbstore.ru/pictures/product/small/70822_small.jpg",
+   "stock": "in",
+   "category": "ipad-pro-13-2025",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-pro-m5-2025-13-wi-fi-256gb-silver",
+   "name": "Apple iPad Pro (M5, 2025) 13\" Wi-Fi 256Gb Silver",
+   "price": 122990,
+   "image": "https://gbstore.ru/pictures/product/small/70813_small.jpg",
+   "stock": "in",
+   "category": "ipad-pro-13-2025",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-pro-m5-2025-11-wi-fi-256gb-space-black",
+   "name": "Apple iPad Pro (M5, 2025) 11\" Wi-Fi 256Gb Space Black",
+   "price": 99990,
+   "image": "https://gbstore.ru/pictures/logo_20180904155654.png",
+   "stock": "in",
+   "category": "ipad-pro-11-2025",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-13-wi-fi-plus-cellular-128gb-space-gray",
+   "name": "Apple iPad Air (M4, 2026) 13\" Wi-Fi + Cellular 128Gb Space Gray",
+   "price": 79990,
+   "image": "https://gbstore.ru/pictures/product/small/70794_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-13-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-13-wi-fi-256gb-blue",
+   "name": "Apple iPad Air (M4, 2026) 13\" Wi-Fi 256Gb Blue",
+   "price": 97990,
+   "image": "https://gbstore.ru/pictures/product/small/70770_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-13-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-13-wi-fi-256gb-starlight",
+   "name": "Apple iPad Air (M4, 2026) 13\" Wi-Fi 256Gb Starlight",
+   "price": 97990,
+   "image": "https://gbstore.ru/pictures/product/small/70779_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-13-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-13-wi-fi-256gb-space-gray",
+   "name": "Apple iPad Air (M4, 2026) 13\" Wi-Fi 256Gb Space Gray",
+   "price": 97990,
+   "image": "https://gbstore.ru/pictures/product/small/70782_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-13-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-13-wi-fi-plus-cellular-256gb-blue",
+   "name": "Apple iPad Air (M4, 2026) 13\" Wi-Fi + Cellular 256Gb Blue",
+   "price": 116990,
+   "image": "https://gbstore.ru/pictures/product/small/70785_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-13-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-13-wi-fi-plus-cellular-256gb-purple",
+   "name": "Apple iPad Air (M4, 2026) 13\" Wi-Fi + Cellular 256Gb Purple",
+   "price": 116990,
+   "image": "https://gbstore.ru/pictures/product/small/70788_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-13-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-13-wi-fi-plus-cellular-256gb-starlight",
+   "name": "Apple iPad Air (M4, 2026) 13\" Wi-Fi + Cellular 256Gb Starlight",
+   "price": 116990,
+   "image": "https://gbstore.ru/pictures/product/small/70791_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-13-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-13-wi-fi-plus-cellular-256gb-space-gray",
+   "name": "Apple iPad Air (M4, 2026) 13\" Wi-Fi + Cellular 256Gb Space Gray",
+   "price": 116990,
+   "image": "https://gbstore.ru/pictures/product/small/70794_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-13-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-13-wi-fi-512gb-purple",
+   "name": "Apple iPad Air (M4, 2026) 13\" Wi-Fi 512Gb Purple",
+   "price": 125990,
+   "image": "https://gbstore.ru/pictures/product/small/70775_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-13-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-13-wi-fi-512gb-starlight",
+   "name": "Apple iPad Air (M4, 2026) 13\" Wi-Fi 512Gb Starlight",
+   "price": 125990,
+   "image": "https://gbstore.ru/pictures/product/small/70779_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-13-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-13-wi-fi-512gb-space-gray",
+   "name": "Apple iPad Air (M4, 2026) 13\" Wi-Fi 512Gb Space Gray",
+   "price": 125990,
+   "image": "https://gbstore.ru/pictures/product/small/70782_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-13-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-13-wi-fi-plus-cellular-512gb-blue",
+   "name": "Apple iPad Air (M4, 2026) 13\" Wi-Fi + Cellular 512Gb Blue",
+   "price": 139990,
+   "image": "https://gbstore.ru/pictures/product/small/70785_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-13-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-13-wi-fi-plus-cellular-512gb-purple",
+   "name": "Apple iPad Air (M4, 2026) 13\" Wi-Fi + Cellular 512Gb Purple",
+   "price": 139990,
+   "image": "https://gbstore.ru/pictures/product/small/70788_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-13-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-13-wi-fi-plus-cellular-512gb-starlight",
+   "name": "Apple iPad Air (M4, 2026) 13\" Wi-Fi + Cellular 512Gb Starlight",
+   "price": 139990,
+   "image": "https://gbstore.ru/pictures/product/small/70791_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-13-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-13-wi-fi-plus-cellular-512gb-space-gray",
+   "name": "Apple iPad Air (M4, 2026) 13\" Wi-Fi + Cellular 512Gb Space Gray",
+   "price": 139990,
+   "image": "https://gbstore.ru/pictures/product/small/70794_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-13-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-13-wi-fi-1tb-purple",
+   "name": "Apple iPad Air (M4, 2026) 13\" Wi-Fi 1Tb Purple",
+   "price": 143990,
+   "image": "https://gbstore.ru/pictures/product/small/70775_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-13-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-13-wi-fi-1tb-starlight",
+   "name": "Apple iPad Air (M4, 2026) 13\" Wi-Fi 1Tb Starlight",
+   "price": 143990,
+   "image": "https://gbstore.ru/pictures/product/small/70779_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-13-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-13-wi-fi-plus-cellular-1tb-blue",
+   "name": "Apple iPad Air (M4, 2026) 13\" Wi-Fi + Cellular 1Tb Blue",
+   "price": 165990,
+   "image": "https://gbstore.ru/pictures/product/small/70785_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-13-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-13-wi-fi-plus-cellular-1tb-purple",
+   "name": "Apple iPad Air (M4, 2026) 13\" Wi-Fi + Cellular 1Tb Purple",
+   "price": 165990,
+   "image": "https://gbstore.ru/pictures/product/small/70788_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-13-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-13-wi-fi-plus-cellular-1tb-starlight",
+   "name": "Apple iPad Air (M4, 2026) 13\" Wi-Fi + Cellular 1Tb Starlight",
+   "price": 165990,
+   "image": "https://gbstore.ru/pictures/product/small/70791_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-13-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-11-wi-fi-128gb-space-gray",
+   "name": "Apple iPad Air (M4, 2026) 11\" Wi-Fi 128Gb Space Gray",
+   "price": 65990,
+   "image": "https://gbstore.ru/pictures/product/small/70782_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-11-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-11-wi-fi-128gb-starlight",
+   "name": "Apple iPad Air (M4, 2026) 11\" Wi-Fi 128Gb Starlight",
+   "price": 66990,
+   "image": "https://gbstore.ru/pictures/product/small/70779_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-11-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-11-wi-fi-128gb-blue",
+   "name": "Apple iPad Air (M4, 2026) 11\" Wi-Fi 128Gb Blue",
+   "price": 67990,
+   "image": "https://gbstore.ru/pictures/product/small/70770_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-11-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-11-wi-fi-plus-cellular-128gb-blue",
+   "name": "Apple iPad Air (M4, 2026) 11\" Wi-Fi + Cellular 128Gb Blue",
+   "price": 78990,
+   "image": "https://gbstore.ru/pictures/product/small/70785_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-11-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-11-wi-fi-plus-cellular-128gb-space-gray",
+   "name": "Apple iPad Air (M4, 2026) 11\" Wi-Fi + Cellular 128Gb Space Gray",
+   "price": 79990,
+   "image": "https://gbstore.ru/pictures/product/small/70794_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-11-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-11-wi-fi-256gb-starlight",
+   "name": "Apple iPad Air (M4, 2026) 11\" Wi-Fi 256Gb Starlight",
+   "price": 91990,
+   "image": "https://gbstore.ru/pictures/product/small/70779_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-11-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-11-wi-fi-256gb-space-gray",
+   "name": "Apple iPad Air (M4, 2026) 11\" Wi-Fi 256Gb Space Gray",
+   "price": 91990,
+   "image": "https://gbstore.ru/pictures/product/small/70782_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-11-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-11-wi-fi-plus-cellular-256gb-blue",
+   "name": "Apple iPad Air (M4, 2026) 11\" Wi-Fi + Cellular 256Gb Blue",
+   "price": 94990,
+   "image": "https://gbstore.ru/pictures/product/small/70785_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-11-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-11-wi-fi-plus-cellular-256gb-space-gray",
+   "name": "Apple iPad Air (M4, 2026) 11\" Wi-Fi + Cellular 256Gb Space Gray",
+   "price": 99990,
+   "image": "https://gbstore.ru/pictures/product/small/70794_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-11-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-11-wi-fi-512gb-blue",
+   "name": "Apple iPad Air (M4, 2026) 11\" Wi-Fi 512Gb Blue",
+   "price": 102990,
+   "image": "https://gbstore.ru/pictures/product/small/70770_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-11-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-11-wi-fi-512gb-purple",
+   "name": "Apple iPad Air (M4, 2026) 11\" Wi-Fi 512Gb Purple",
+   "price": 103990,
+   "image": "https://gbstore.ru/pictures/product/small/70775_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-11-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-11-wi-fi-512gb-starlight",
+   "name": "Apple iPad Air (M4, 2026) 11\" Wi-Fi 512Gb Starlight",
+   "price": 103990,
+   "image": "https://gbstore.ru/pictures/product/small/70779_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-11-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-11-wi-fi-512gb-space-gray",
+   "name": "Apple iPad Air (M4, 2026) 11\" Wi-Fi 512Gb Space Gray",
+   "price": 103990,
+   "image": "https://gbstore.ru/pictures/product/small/70782_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-11-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-11-wi-fi-1tb-blue",
+   "name": "Apple iPad Air (M4, 2026) 11\" Wi-Fi 1Tb Blue",
+   "price": 120990,
+   "image": "https://gbstore.ru/pictures/product/small/70770_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-11-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-11-wi-fi-1tb-starlight",
+   "name": "Apple iPad Air (M4, 2026) 11\" Wi-Fi 1Tb Starlight",
+   "price": 120990,
+   "image": "https://gbstore.ru/pictures/product/small/70779_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-11-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-11-wi-fi-1tb-space-gray",
+   "name": "Apple iPad Air (M4, 2026) 11\" Wi-Fi 1Tb Space Gray",
+   "price": 120990,
+   "image": "https://gbstore.ru/pictures/product/small/70782_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-11-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-11-wi-fi-plus-cellular-512gb-blue",
+   "name": "Apple iPad Air (M4, 2026) 11\" Wi-Fi + Cellular 512Gb Blue",
+   "price": 124990,
+   "image": "https://gbstore.ru/pictures/product/small/70785_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-11-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-11-wi-fi-plus-cellular-512gb-purple",
+   "name": "Apple iPad Air (M4, 2026) 11\" Wi-Fi + Cellular 512Gb Purple",
+   "price": 124990,
+   "image": "https://gbstore.ru/pictures/product/small/70788_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-11-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-11-wi-fi-plus-cellular-512gb-starlight",
+   "name": "Apple iPad Air (M4, 2026) 11\" Wi-Fi + Cellular 512Gb Starlight",
+   "price": 124990,
+   "image": "https://gbstore.ru/pictures/product/small/70791_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-11-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-11-wi-fi-plus-cellular-512gb-space-gray",
+   "name": "Apple iPad Air (M4, 2026) 11\" Wi-Fi + Cellular 512Gb Space Gray",
+   "price": 124990,
+   "image": "https://gbstore.ru/pictures/product/small/70794_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-11-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-11-wi-fi-plus-cellular-1tb-blue",
+   "name": "Apple iPad Air (M4, 2026) 11\" Wi-Fi + Cellular 1Tb Blue",
+   "price": 140990,
+   "image": "https://gbstore.ru/pictures/product/small/70785_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-11-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-11-wi-fi-plus-cellular-1tb-purple",
+   "name": "Apple iPad Air (M4, 2026) 11\" Wi-Fi + Cellular 1Tb Purple",
+   "price": 140990,
+   "image": "https://gbstore.ru/pictures/product/small/70788_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-11-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-11-wi-fi-plus-cellular-1tb-starlight",
+   "name": "Apple iPad Air (M4, 2026) 11\" Wi-Fi + Cellular 1Tb Starlight",
+   "price": 140990,
+   "image": "https://gbstore.ru/pictures/product/small/70791_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-11-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-air-m4-2026-11-wi-fi-plus-cellular-1tb-space-gray",
+   "name": "Apple iPad Air (M4, 2026) 11\" Wi-Fi + Cellular 1Tb Space Gray",
+   "price": 144990,
+   "image": "https://gbstore.ru/pictures/product/small/70794_small.jpg",
+   "stock": "in",
+   "category": "ipad-air-11-2026",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-11%e2%80%9d-2025-128gb-wi-fi-yellow",
+   "name": "Apple iPad 11” (2025) 128GB Wi-Fi Yellow",
+   "price": 42990,
+   "image": "https://gbstore.ru/pictures/product/small/88836_small.jpg",
+   "stock": "in",
+   "category": "ipad-2025",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-11%e2%80%9d-2025-128gb-wi-fi-blue",
+   "name": "Apple iPad 11” (2025) 128GB Wi-Fi Blue",
+   "price": 42990,
+   "image": "https://gbstore.ru/pictures/product/small/88845_small.jpg",
+   "stock": "in",
+   "category": "ipad-2025",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-11%e2%80%9d-2025-128gb-wi-fi-pink",
+   "name": "Apple iPad 11” (2025) 128GB Wi-Fi Pink",
+   "price": 43990,
+   "image": "https://gbstore.ru/pictures/product/small/88839_small.jpg",
+   "stock": "in",
+   "category": "ipad-2025",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-11%e2%80%9d-2025-128gb-wi-fi-silver",
+   "name": "Apple iPad 11” (2025) 128GB Wi-Fi Silver",
+   "price": 43990,
+   "image": "https://gbstore.ru/pictures/product/small/88842_small.jpg",
+   "stock": "in",
+   "category": "ipad-2025",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-11%e2%80%9d-2025-256gb-wi-fi-blue",
+   "name": "Apple iPad 11” (2025) 256GB Wi-Fi Blue",
+   "price": 51990,
+   "image": "https://gbstore.ru/pictures/product/small/88845_small.jpg",
+   "stock": "in",
+   "category": "ipad-2025",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-11%e2%80%9d-2025-128gb-wi-fi-plus-cellular-blue",
+   "name": "Apple iPad 11” (2025) 128GB Wi-Fi + Cellular Blue",
+   "price": 52990,
+   "image": "https://gbstore.ru/pictures/product/small/88857_small.jpg",
+   "stock": "in",
+   "category": "ipad-2025",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-11%e2%80%9d-2025-256gb-wi-fi-pink",
+   "name": "Apple iPad 11” (2025) 256GB Wi-Fi Pink",
+   "price": 53490,
+   "image": "https://gbstore.ru/pictures/product/small/88839_small.jpg",
+   "stock": "in",
+   "category": "ipad-2025",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-11%e2%80%9d-2025-256gb-wi-fi-silver",
+   "name": "Apple iPad 11” (2025) 256GB Wi-Fi Silver",
+   "price": 53990,
+   "image": "https://gbstore.ru/pictures/product/small/88842_small.jpg",
+   "stock": "in",
+   "category": "ipad-2025",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-11%e2%80%9d-2025-256gb-wi-fi-plus-cellular-pink",
+   "name": "Apple iPad 11” (2025) 256GB Wi-Fi + Cellular Pink",
+   "price": 72990,
+   "image": "https://gbstore.ru/pictures/product/small/88851_small.jpg",
+   "stock": "in",
+   "category": "ipad-2025",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-11%e2%80%9d-2025-256gb-wi-fi-plus-cellular-blue",
+   "name": "Apple iPad 11” (2025) 256GB Wi-Fi + Cellular Blue",
+   "price": 72990,
+   "image": "https://gbstore.ru/pictures/product/small/88857_small.jpg",
+   "stock": "in",
+   "category": "ipad-2025",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-11%e2%80%9d-2025-256gb-wi-fi-plus-cellular-silver",
+   "name": "Apple iPad 11” (2025) 256GB Wi-Fi + Cellular Silver",
+   "price": 74490,
+   "image": "https://gbstore.ru/pictures/product/small/88854_small.jpg",
+   "stock": "in",
+   "category": "ipad-2025",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-mini-2024-128gb-wi-fi-space-gray",
+   "name": "Apple iPad mini (2024) 128Gb Wi-Fi Space Gray",
+   "price": 52990,
+   "image": "https://gbstore.ru/pictures/product/small/81547_small.jpg",
+   "stock": "in",
+   "category": "ipad-mini-2024",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-mini-2024-256gb-wi-fi-space-gray",
+   "name": "Apple iPad mini (2024) 256Gb Wi-Fi Space Gray",
+   "price": 57990,
+   "image": "https://gbstore.ru/pictures/product/small/81547_small.jpg",
+   "stock": "in",
+   "category": "ipad-mini-2024",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-mini-2024-256gb-wi-fi-blue",
+   "name": "Apple iPad mini (2024) 256Gb Wi-Fi Blue",
+   "price": 57990,
+   "image": "https://gbstore.ru/pictures/product/small/81550_small.jpg",
+   "stock": "in",
+   "category": "ipad-mini-2024",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-mini-2024-256gb-wi-fi-purple",
+   "name": "Apple iPad mini (2024) 256Gb Wi-Fi Purple",
+   "price": 57990,
+   "image": "https://gbstore.ru/pictures/product/small/81553_small.jpg",
+   "stock": "in",
+   "category": "ipad-mini-2024",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-mini-2024-256gb-wi-fi-starlight",
+   "name": "Apple iPad mini (2024) 256Gb Wi-Fi Starlight",
+   "price": 57990,
+   "image": "https://gbstore.ru/pictures/product/small/81556_small.jpg",
+   "stock": "in",
+   "category": "ipad-mini-2024",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-mini-2024-128gb-wi-fi-plus-cellular-blue",
+   "name": "Apple iPad mini (2024) 128Gb Wi-Fi + Cellular Blue",
+   "price": 65990,
+   "image": "https://gbstore.ru/pictures/product/small/81562_small.jpg",
+   "stock": "in",
+   "category": "ipad-mini-2024",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-mini-2024-128gb-wi-fi-plus-cellular-purple",
+   "name": "Apple iPad mini (2024) 128Gb Wi-Fi + Cellular Purple",
+   "price": 66990,
+   "image": "https://gbstore.ru/pictures/product/small/81565_small.jpg",
+   "stock": "in",
+   "category": "ipad-mini-2024",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-mini-2024-128gb-wi-fi-plus-cellular-starlight",
+   "name": "Apple iPad mini (2024) 128Gb Wi-Fi + Cellular Starlight",
+   "price": 68990,
+   "image": "https://gbstore.ru/pictures/product/small/81568_small.jpg",
+   "stock": "in",
+   "category": "ipad-mini-2024",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-mini-2024-128gb-wi-fi-plus-cellular-space-gray",
+   "name": "Apple iPad mini (2024) 128Gb Wi-Fi + Cellular Space Gray",
+   "price": 68990,
+   "image": "https://gbstore.ru/pictures/product/small/81559_small.jpg",
+   "stock": "in",
+   "category": "ipad-mini-2024",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-mini-2024-256gb-wi-fi-plus-cellular-blue",
+   "name": "Apple iPad mini (2024) 256Gb Wi-Fi + Cellular Blue",
+   "price": 82990,
+   "image": "https://gbstore.ru/pictures/product/small/81562_small.jpg",
+   "stock": "in",
+   "category": "ipad-mini-2024",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-mini-2024-256gb-wi-fi-plus-cellular-purple",
+   "name": "Apple iPad mini (2024) 256Gb Wi-Fi + Cellular Purple",
+   "price": 82990,
+   "image": "https://gbstore.ru/pictures/product/small/81565_small.jpg",
+   "stock": "in",
+   "category": "ipad-mini-2024",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-mini-2024-256gb-wi-fi-plus-cellular-space-gray",
+   "name": "Apple iPad mini (2024) 256Gb Wi-Fi + Cellular Space Gray",
+   "price": 84990,
+   "image": "https://gbstore.ru/pictures/product/small/81559_small.jpg",
+   "stock": "in",
+   "category": "ipad-mini-2024",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-ipad-mini-2024-512gb-wi-fi-plus-cellular-space-gray",
+   "name": "Apple iPad mini (2024) 512Gb Wi-Fi + Cellular Space Gray",
+   "price": 100990,
+   "image": "https://gbstore.ru/pictures/product/small/81559_small.jpg",
+   "stock": "in",
+   "category": "ipad-mini-2024",
+   "group": "ipad"
+  },
+  {
+   "id": "apple-watch-se-2024-gps-40mm-midnight-aluminium-s-m-l-midnight-sport-band",
+   "name": "Apple Watch SE 2024 GPS 40mm Midnight Aluminium S/M/L Midnight Sport Band",
+   "price": 21490,
+   "image": "https://gbstore.ru/pictures/product/small/81518_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-se-2024-gps-40mm-midnight-aluminium-ink-sport-loop",
+   "name": "Apple Watch SE 2024 GPS 40mm Midnight Aluminium Ink Sport Loop",
+   "price": 21490,
+   "image": "https://gbstore.ru/pictures/product/small/81525_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-se-2024-gps-44mm-midnight-aluminium-s-m-l-midnight-sport-band",
+   "name": "Apple Watch SE 2024 GPS 44mm Midnight Aluminium S/M/L Midnight Sport Band",
+   "price": 21990,
+   "image": "https://gbstore.ru/pictures/product/small/81531_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-se-2024-gps-44mm-silver-aluminium-s-m-l-denim-sport-band",
+   "name": "Apple Watch SE 2024 GPS 44mm Silver Aluminium S/M/L Denim Sport Band",
+   "price": 22990,
+   "image": "https://gbstore.ru/pictures/product/small/81536_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-se-2024-gps-44mm-midnight-aluminium-ink-sport-loop",
+   "name": "Apple Watch SE 2024 GPS 44mm Midnight Aluminium Ink Sport Loop",
+   "price": 22990,
+   "image": "https://gbstore.ru/pictures/product/small/81538_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-se-3-40-mm-midnight-aluminium-midnight-sport-band",
+   "name": "Apple Watch SE 3, 40 mm, Midnight Aluminium Midnight Sport Band SM/ML",
+   "price": 22990,
+   "image": "https://gbstore.ru/pictures/product/small/98712_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-se-3-40-mm-starlight-aluminium-starlight-sport-band",
+   "name": "Apple Watch SE 3, 40 mm, Starlight Aluminium Starlight Sport Band SM/ML",
+   "price": 23990,
+   "image": "https://gbstore.ru/pictures/product/small/98734_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-se-3-44-mm-midnight-aluminium-midnight-sport-band",
+   "name": "Apple Watch SE 3, 44 mm, Midnight Aluminium Midnight Sport Band SM/ML",
+   "price": 24990,
+   "image": "https://gbstore.ru/pictures/product/small/98760_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-se-3-44-mm-starlight-aluminium-light-blush-sport-band",
+   "name": "Apple Watch SE 3, 44 mm, Starlight Aluminium Light Blush Sport Band SM/ML",
+   "price": 25990,
+   "image": "https://gbstore.ru/pictures/product/small/98788_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-series-11-42-mm-jet-black-aluminium-black-sport-band",
+   "name": "Apple Watch Series 11, 42 mm, Jet Black Aluminium Black Sport Band SM/ML",
+   "price": 31990,
+   "image": "https://gbstore.ru/pictures/product/small/98558_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-series-11-42-mm-space-gray-aluminium-black-sport-band",
+   "name": "Apple Watch Series 11, 42 mm, Space Gray Aluminium Black Sport Band SM/ML",
+   "price": 31990,
+   "image": "https://gbstore.ru/pictures/product/small/98481_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-series-11-42-mm-silver-aluminium-purple-fog-sport-band",
+   "name": "Apple Watch Series 11, 42 mm, Silver Aluminium Purple Fog Sport Band SM/ML",
+   "price": 31990,
+   "image": "https://gbstore.ru/pictures/product/small/98506_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-series-11-42-mm-rose-gold-aluminium-light-blush-sport-band",
+   "name": "Apple Watch Series 11, 42 mm, Rose Gold Aluminium Light Blush Sport Band SM/ML",
+   "price": 33990,
+   "image": "https://gbstore.ru/pictures/product/small/98538_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-series-11-46-mm-space-gray-aluminium-black-sport-band",
+   "name": "Apple Watch Series 11, 46 mm, Space Gray Aluminium Black Sport Band SM/ML",
+   "price": 33990,
+   "image": "https://gbstore.ru/pictures/product/small/98585_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-series-11-46-mm-rose-gold-aluminium-light-blush-sport-band",
+   "name": "Apple Watch Series 11, 46 mm, Rose Gold Aluminium Light Blush Sport Band SM/ML",
+   "price": 33990,
+   "image": "https://gbstore.ru/pictures/product/small/98642_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-series-11-46-mm-silver-aluminium-purple-fog-sport-band",
+   "name": "Apple Watch Series 11, 46 mm, Silver Aluminium Purple Fog Sport Band SM/ML",
+   "price": 34990,
+   "image": "https://gbstore.ru/pictures/product/small/98610_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-series-12-42mm-gps-light-gold-aluminum-case-with-sand-sport-band-sm-ml",
+   "name": "Apple Watch Series 12 42mm GPS Light Gold Aluminum Case with Sand Sport Band SM/ML",
+   "price": 36990,
+   "image": "https://gbstore.ru/pictures/product/small/187164_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-series-12-42mm-gps-space-gray-aluminum-case-with-navy-blue-sport-band-sm-ml",
+   "name": "Apple Watch Series 12 42mm GPS Space Gray Aluminum Case with Navy Blue Sport Band SM/ML",
+   "price": 36990,
+   "image": "https://gbstore.ru/pictures/product/small/187188_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-series-12-42mm-gps-black-aluminum-case-with-black-sport-band-sm-ml",
+   "name": "Apple Watch Series 12 42mm GPS Black Aluminum Case with Black Sport Band SM/ML",
+   "price": 37490,
+   "image": "https://gbstore.ru/pictures/product/small/187178_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-series-12-42mm-gps-dark-bronze-aluminum-case-with-olive-sport-band-sm-ml",
+   "name": "Apple Watch Series 12 42mm GPS Dark Bronze Aluminum Case with Olive Sport Band SM/ML",
+   "price": 38990,
+   "image": "https://gbstore.ru/pictures/product/small/187131_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-series-12-46mm-gps-dark-bronze-aluminum-case-with-olive-sport-band-sm-ml",
+   "name": "Apple Watch Series 12 46mm GPS Dark Bronze Aluminum Case with Olive Sport Band SM/ML",
+   "price": 40990,
+   "image": "https://gbstore.ru/pictures/product/small/187230_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-series-12-46mm-gps-black-aluminum-case-with-black-sport-band-sm-ml",
+   "name": "Apple Watch Series 12 46mm GPS Black Aluminum Case with Black Sport Band SM/ML",
+   "price": 42990,
+   "image": "https://gbstore.ru/pictures/product/small/187277_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-series-12-46mm-gps-space-gray-aluminum-case-with-navy-blue-sport-band-sm-ml",
+   "name": "Apple Watch Series 12 46mm GPS Space Gray Aluminum Case with Navy Blue Sport Band SM/ML",
+   "price": 45990,
+   "image": "https://gbstore.ru/pictures/product/small/187287_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-ultra-3-49-mm-natural-ocean-band-anchor-blue",
+   "name": "Apple Watch Ultra 3, 49 mm, Natural Ocean Band Anchor Blue",
+   "price": 64990,
+   "image": "https://gbstore.ru/pictures/product/small/98821_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-ultra-3-49-mm-black-s-m-l-alpine-loop-black",
+   "name": "Apple Watch Ultra 3, 49 mm, Black S/M/L Alpine Loop Black",
+   "price": 64990,
+   "image": "https://gbstore.ru/pictures/product/small/98835_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-ultra-3-49-mm-black-s-m-m-l-trail-loop-black-charcoal",
+   "name": "Apple Watch Ultra 3, 49 mm, Black S-M/М-L Trail Loop Black/Charcoal",
+   "price": 64990,
+   "image": "https://gbstore.ru/pictures/product/small/98844_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-ultra-3-49-mm-black-ocean-band-black",
+   "name": "Apple Watch Ultra 3, 49 mm, Black Ocean Band Black",
+   "price": 64990,
+   "image": "https://gbstore.ru/pictures/product/small/98853_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-ultra-3-49-mm-natural-s-m-l-alpine-loop-light-blue",
+   "name": "Apple Watch Ultra 3, 49 mm, Natural S/M/L Alpine Loop Light Blue",
+   "price": 65990,
+   "image": "https://gbstore.ru/pictures/product/small/98800_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-series-11-46-mm-s-m-m-l-slate-titanium-milanese-loop",
+   "name": "Apple Watch Series 11, 46 mm, S-M/M-L Slate Titanium Milanese Loop",
+   "price": 66990,
+   "image": "https://gbstore.ru/pictures/product/small/98696_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-ultra-3-49-mm-natural-s-m-m-l-trail-loop-blue-bright-blue",
+   "name": "Apple Watch Ultra 3, 49 mm, Natural S-M/М-L Trail Loop Blue/Bright Blue",
+   "price": 67990,
+   "image": "https://gbstore.ru/pictures/product/small/98809_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-series-11-46-mm-s-m-m-l-natural-titanium-milanese-loop",
+   "name": "Apple Watch Series 11, 46 mm, S-M/M-L Natural Titanium Milanese Loop",
+   "price": 74990,
+   "image": "https://gbstore.ru/pictures/product/small/98691_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-ultra-4-49mm-gps-plus-cellular-black-titanium-case-with-burgundy-alpine-loop-s-m-l",
+   "name": "Apple Watch Ultra 4 49mm GPS + Cellular Black Titanium Case with Burgundy Alpine Loop S/M/L",
+   "price": 74990,
+   "image": "https://gbstore.ru/pictures/product/small/187329_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-ultra-4-49mm-gps-plus-cellular-natural-titanium-case-with-desert-alpine-loop-s-m-l",
+   "name": "Apple Watch Ultra 4 49mm GPS + Cellular Natural Titanium Case with Desert Alpine Loop S/M/L",
+   "price": 74990,
+   "image": "https://gbstore.ru/pictures/product/small/187362_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-ultra-4-49mm-gps-plus-cellular-natural-titanium-case-with-translucent-gray-ocean-band",
+   "name": "Apple Watch Ultra 4 49mm GPS + Cellular Natural Titanium Case with Translucent Gray Ocean Band",
+   "price": 76990,
+   "image": "https://gbstore.ru/pictures/product/small/187380_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-ultra-4-49mm-gps-plus-cellular-black-titanium-case-with-burgundy-trail-loop-sm-ml",
+   "name": "Apple Watch Ultra 4 49mm GPS + Cellular Black Titanium Case with Burgundy Trail Loop SM/ML",
+   "price": 76990,
+   "image": "https://gbstore.ru/pictures/product/small/187338_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-ultra-4-49mm-gps-plus-cellular-black-titanium-case-with-translucent-black-ocean-band",
+   "name": "Apple Watch Ultra 4 49mm GPS + Cellular Black Titanium Case with Translucent Black Ocean Band",
+   "price": 76990,
+   "image": "https://gbstore.ru/pictures/product/small/187344_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-ultra-3-49-mm-s-m-l-black-titanium-milanese-loop",
+   "name": "Apple Watch Ultra 3, 49 mm, S/M/L Black Titanium Milanese Loop",
+   "price": 76990,
+   "image": "https://gbstore.ru/pictures/product/small/98855_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-ultra-3-49-mm-s-m-l-natural-titanium-milanese-loop",
+   "name": "Apple Watch Ultra 3, 49 mm, S/M/L Natural Titanium Milanese Loop",
+   "price": 77990,
+   "image": "https://gbstore.ru/pictures/product/small/98826_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-series-12-42mm-gps-plus-cellular-natural-titanium-case-with-natural-milanese-loop-sm-ml",
+   "name": "Apple Watch Series 12 42mm GPS + Cellular Natural Titanium Case with Natural Milanese Loop",
+   "price": 83990,
+   "image": "https://gbstore.ru/pictures/product/small/187219_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-series-12-42mm-gps-plus-cellular-radiant-gold-titanium-case-with-burgundy-sport-band-sm-ml",
+   "name": "Apple Watch Series 12 42mm GPS + Cellular Radiant Gold Titanium Case with Burgundy Sport Band SM/ML",
+   "price": 84990,
+   "image": "https://gbstore.ru/pictures/product/small/189749_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-series-12-42mm-gps-plus-cellular-radiant-gold-titanium-case-with-natural-milanese-loop-sm-ml",
+   "name": "Apple Watch Series 12 42mm GPS + Cellular Radiant Gold Titanium Case with Natural Milanese Loop",
+   "price": 84990,
+   "image": "https://gbstore.ru/pictures/product/small/187211_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-series-12-46mm-gps-plus-cellular-radiant-gold-titanium-case-with-burgundy-sport-band-sm-ml",
+   "name": "Apple Watch Series 12 46mm GPS + Cellular Radiant Gold Titanium Case with Burgundy Sport Band SM/ML",
+   "price": 88990,
+   "image": "https://gbstore.ru/pictures/product/small/189751_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-ultra-4-49mm-gps-plus-cellular-black-titanium-case-with-black-titanium-milanese-loop-s-m-l",
+   "name": "Apple Watch Ultra 4 49mm GPS + Cellular Black Titanium Case with Black Titanium Milanese Loop S/M/L",
+   "price": 89990,
+   "image": "https://gbstore.ru/pictures/product/small/187353_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-series-12-42mm-gps-plus-cellular-radiant-gold-titanium-case-with-dark-bronze-milanese-loop-sm-ml",
+   "name": "Apple Watch Series 12 42mm GPS + Cellular Radiant Gold Titanium Case with Dark Bronze Milanese Loop",
+   "price": 91990,
+   "image": "https://gbstore.ru/pictures/product/small/187209_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-ultra-4-49mm-gps-plus-cellular-natural-titanium-case-with-natural-titanium-milanese-loop-s-m-l",
+   "name": "Apple Watch Ultra 4 49mm GPS + Cellular Natural Titanium Case with Natural Titanium Milanese Loop S/M/L",
+   "price": 92990,
+   "image": "https://gbstore.ru/pictures/product/small/187383_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-series-12-46mm-gps-plus-cellular-radiant-gold-titanium-case-with-natural-milanese-loop-sm-ml",
+   "name": "Apple Watch Series 12 46mm GPS + Cellular Radiant Gold Titanium Case with Natural Milanese Loop",
+   "price": 99990,
+   "image": "https://gbstore.ru/pictures/product/small/187310_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-series-12-46mm-gps-plus-cellular-natural-titanium-case-with-natural-milanese-loop-sm-ml",
+   "name": "Apple Watch Series 12 46mm GPS + Cellular Natural Titanium Case with Natural Milanese Loop",
+   "price": 99990,
+   "image": "https://gbstore.ru/pictures/product/small/187318_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-series-12-46mm-gps-plus-cellular-night-blue-ceramic-case-with-navy-blue-sport-band-sm-ml",
+   "name": "Apple Watch Series 12 46mm GPS + Cellular Night Blue Ceramic Case with Navy Blue Sport Band SM/ML",
+   "price": 112990,
+   "image": "https://gbstore.ru/pictures/product/small/187323_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-series-12-42mm-gps-plus-cellular-pearl-white-ceramic-case-with-sand-sport-band-sm-ml",
+   "name": "Apple Watch Series 12 42mm GPS + Cellular Pearl White Ceramic Case with Sand Sport Band SM/ML",
+   "price": 113990,
+   "image": "https://gbstore.ru/pictures/product/small/187221_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-watch-series-12-42mm-gps-plus-cellular-night-blue-ceramic-case-with-navy-blue-sport-band-sm-ml",
+   "name": "Apple Watch Series 12 42mm GPS + Cellular Night Blue Ceramic Case with Navy Blue Sport Band SM/ML",
+   "price": 114990,
+   "image": "https://gbstore.ru/pictures/product/small/187224_small.jpg",
+   "stock": "in",
+   "category": "apple-watch",
+   "group": "watch"
+  },
+  {
+   "id": "apple-earpods-lightning",
+   "name": "Apple EarPods Lightning",
+   "price": 2990,
+   "image": "https://gbstore.ru/pictures/product/small/138528_small.jpg",
+   "stock": "in",
+   "category": "airpods",
+   "group": "airpods"
+  },
+  {
+   "id": "apple-earpods-usb-c",
+   "name": "Apple EarPods USB-C",
+   "price": 3290,
+   "image": "https://gbstore.ru/pictures/product/small/138532_small.jpg",
+   "stock": "in",
+   "category": "airpods",
+   "group": "airpods"
+  },
+  {
+   "id": "besprovodnye-naushniki-apple-airpods-4",
+   "name": "Apple AirPods 4",
+   "price": 10490,
+   "image": "https://gbstore.ru/pictures/product/small/80324_small.jpg",
+   "stock": "in",
+   "category": "airpods",
+   "group": "airpods"
+  },
+  {
+   "id": "besprovodnye-naushniki-apple-airpods-4-anc-s-shumopodavleniem",
+   "name": "Apple AirPods 4 ANC (с шумоподавлением)",
+   "price": 11990,
+   "image": "https://gbstore.ru/pictures/product/small/80324_small.jpg",
+   "stock": "in",
+   "category": "airpods",
+   "group": "airpods"
+  },
+  {
+   "id": "apple-airpods-5-anc",
+   "name": "Apple AirPods 5 ANC",
+   "price": 12890,
+   "image": "https://gbstore.ru/pictures/product/small/187386_small.jpg",
+   "stock": "in",
+   "category": "airpods",
+   "group": "airpods"
+  },
+  {
+   "id": "apple-airpods-5-anc-with-wireless-charging-case",
+   "name": "Apple AirPods 5 ANC with Wireless Charging Case",
+   "price": 15290,
+   "image": "https://gbstore.ru/pictures/product/small/187393_small.jpg",
+   "stock": "in",
+   "category": "airpods",
+   "group": "airpods"
+  },
+  {
+   "id": "apple-airpods-pro-3-magsafe-usb-c-charging-case",
+   "name": "Apple AirPods Pro 3 MagSafe USB-C Charging Case",
+   "price": 18690,
+   "image": "https://gbstore.ru/pictures/product/small/98466_small.jpg",
+   "stock": "in",
+   "category": "airpods",
+   "group": "airpods"
+  },
+  {
+   "id": "besprovodnye-naushniki-apple-airpods-max-usb-c-purple-fioletovyj",
+   "name": "Apple AirPods Max USB-C 2024 Purple (фиолетовый)",
+   "price": 39990,
+   "image": "https://gbstore.ru/pictures/product/small/80274_small.jpg",
+   "stock": "in",
+   "category": "airpods",
+   "group": "airpods"
+  },
+  {
+   "id": "besprovodnye-naushniki-apple-airpods-max-usb-c-orange-oranzhevyj",
+   "name": "Apple AirPods Max USB-C 2024 Orange (оранжевый)",
+   "price": 40490,
+   "image": "https://gbstore.ru/pictures/product/small/80277_small.jpg",
+   "stock": "in",
+   "category": "airpods",
+   "group": "airpods"
+  },
+  {
+   "id": "besprovodnye-naushniki-apple-airpods-max-usb-c-midnight-polunochnyj-chernyj",
+   "name": "Apple AirPods Max USB-C 2024 Midnight (полуночный черный)",
+   "price": 40990,
+   "image": "https://gbstore.ru/pictures/product/small/80280_small.jpg",
+   "stock": "in",
+   "category": "airpods",
+   "group": "airpods"
+  },
+  {
+   "id": "besprovodnye-naushniki-apple-airpods-max-usb-c-blue-sinij",
+   "name": "Apple AirPods Max USB-C 2024 Blue (синий)",
+   "price": 40990,
+   "image": "https://gbstore.ru/pictures/product/small/80271_small.jpg",
+   "stock": "in",
+   "category": "airpods",
+   "group": "airpods"
+  },
+  {
+   "id": "besprovodnye-naushniki-apple-airpods-max-usb-c-starlight-siyayuschaya-zvezda",
+   "name": "Apple AirPods Max USB-C 2024 Starlight (сияющая звезда)",
+   "price": 41990,
+   "image": "https://gbstore.ru/pictures/product/small/80283_small.jpg",
+   "stock": "in",
+   "category": "airpods",
+   "group": "airpods"
+  },
+  {
+   "id": "apple-airpods-max-2-2026-blue",
+   "name": "Apple AirPods Max 2 (2026) Blue",
+   "price": 42990,
+   "image": "https://gbstore.ru/pictures/product/small/145492_small.jpg",
+   "stock": "in",
+   "category": "airpods",
+   "group": "airpods"
+  },
+  {
+   "id": "apple-airpods-max-2-2026-purple",
+   "name": "Apple AirPods Max 2 (2026) Purple",
+   "price": 42990,
+   "image": "https://gbstore.ru/pictures/product/small/145498_small.jpg",
+   "stock": "in",
+   "category": "airpods",
+   "group": "airpods"
+  },
+  {
+   "id": "apple-airpods-max-2-2026-orange",
+   "name": "Apple AirPods Max 2 (2026) Orange",
+   "price": 42990,
+   "image": "https://gbstore.ru/pictures/product/small/145504_small.jpg",
+   "stock": "in",
+   "category": "airpods",
+   "group": "airpods"
+  },
+  {
+   "id": "apple-airpods-max-2-2026-starlight",
+   "name": "Apple AirPods Max 2 (2026) Starlight",
+   "price": 42990,
+   "image": "https://gbstore.ru/pictures/product/small/145516_small.jpg",
+   "stock": "in",
+   "category": "airpods",
+   "group": "airpods"
+  },
+  {
+   "id": "apple-airpods-max-2-2026-midnight",
+   "name": "Apple AirPods Max 2 (2026) Midnight",
+   "price": 44990,
+   "image": "https://gbstore.ru/pictures/product/small/145510_small.jpg",
+   "stock": "in",
+   "category": "airpods",
+   "group": "airpods"
+  },
+  {
+   "id": "dyson-travel-bag-black-cooper",
+   "name": "Сумка для хранения Dyson Travel Bag Black/Cooper",
+   "price": 5990,
+   "image": "https://gbstore.ru/pictures/product/small/99255_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "dyson-travel-bag-black-fuchsia",
+   "name": "Сумка для хранения Dyson Travel Bag Black/Fuchsia",
+   "price": 6990,
+   "image": "https://gbstore.ru/pictures/product/small/99257_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "sumka-dlya-hraneniya-dyson-travel-bag-black-purple",
+   "name": "Сумка для хранения Dyson Travel Bag Black/Purple",
+   "price": 6990,
+   "image": "https://gbstore.ru/pictures/product/small/99262_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "massazhnaya-rascheska-dyson-paddle-brush-rose",
+   "name": "Массажная расчёска Dyson Paddle Brush Pale Rose",
+   "price": 7990,
+   "image": "https://gbstore.ru/pictures/product/small/99265_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "massazhnaya-rascheska-dyson-paddle-brush-fuchsia-iron",
+   "name": "Массажная расчёска Dyson Paddle Brush Fuchsia/Iron",
+   "price": 9990,
+   "image": "https://gbstore.ru/pictures/product/small/99264_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "fen-dyson-supersonic-travel-hd19-ceramic-pink",
+   "name": "Фен Dyson Supersonic Travel HD19 Ceramic Pink",
+   "price": 29990,
+   "image": "https://gbstore.ru/pictures/product/small/179336_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "fen-dyson-supersonic-nural-straight-pluswavy-hd16-prussian-blue-rich-copper-bez-kejsa",
+   "name": "Фен Dyson Supersonic Nural Straight+Wavy HD16 Prussian Blue Rich Copper без кейса",
+   "price": 32990,
+   "image": "https://gbstore.ru/pictures/product/small/197964_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "vypryamitel-dlya-volos-dyson-airstrait-ht03-a-ceramic-pink-rose-gold",
+   "name": "Выпрямитель для волос Dyson Airstrait HT03-A Ceramic Pink/Rose Gold",
+   "price": 33990,
+   "image": "https://gbstore.ru/pictures/product/small/203911_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "vypryamitel-dlya-volos-dyson-airstrait-ht01-prussian-blue-rich-copper-sinij-mednyj",
+   "name": "Выпрямитель для волос Dyson Airstrait HT01 Prussian Blue/Rich Copper (синий/медный)",
+   "price": 34990,
+   "image": "https://gbstore.ru/pictures/product/small/70686_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "vypryamitel-dlya-volos-dyson-airstrait-ht01-nickel-copper-nikel-med",
+   "name": "Выпрямитель для волос Dyson Airstrait HT01 Nickel/Copper (никель/медь)",
+   "price": 35990,
+   "image": "https://gbstore.ru/pictures/product/small/66344_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "fen-dyson-supersonic-r-straight-pluswavy-hd17-apricot-topaz-s-kejsom",
+   "name": "Фен Dyson Supersonic R Straight+Wavy HD17 Apricot Topaz с кейсом",
+   "price": 35990,
+   "image": "https://gbstore.ru/pictures/product/small/197993_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "vypryamitel-dlya-volos-dyson-airstrait-ht01-ceramic-pink-rose-gold-rozovoe-zoloto",
+   "name": "Выпрямитель для волос Dyson Airstrait HT01 Ceramic Pink/Rose Gold (розовое золото)",
+   "price": 36990,
+   "image": "https://gbstore.ru/pictures/product/small/70693_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "fen-dyson-supersonic-hd15-nickel-cooper-nikel-med",
+   "name": "Фен Dyson Supersonic HD15 Nickel/Cooper (никель/медь)",
+   "price": 37990,
+   "image": "https://gbstore.ru/pictures/product/small/96876_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "fen-dyson-supersonic-r-straight-pluswavy-hd17-ceramic-pink-rose-gold-s-kejsom",
+   "name": "Фен Dyson Supersonic R Straight+Wavy HD17 Ceramic Pink Rose Gold с кейсом",
+   "price": 37990,
+   "image": "https://gbstore.ru/pictures/product/small/197970_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "fen-dyson-supersonic-r-curly-pluscoily-hd17-ceramic-pink-rose-gold-bez-kejsa",
+   "name": "Фен Dyson Supersonic R Curly+Coily HD17 Ceramic Pink Rose Gold без кейса",
+   "price": 38990,
+   "image": "https://gbstore.ru/pictures/product/small/197988_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "stajler-dyson-airwrap-id-long-hs08-straight-pluswavy-prussian-blue-rich-copper",
+   "name": "Стайлер Dyson Airwrap i.d. Long HS08 Straight+Wavy Prussian Blue/Rich Copper",
+   "price": 38990,
+   "image": "https://gbstore.ru/pictures/product/small/131709_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "stajler-dyson-airwrap-id-long-hs08-straight-pluswavy-vinca-blue-topaz-sinij-oranzhevyj",
+   "name": "Стайлер Dyson Airwrap i.d. Long HS08 Straight+Wavy Vinca Blue/Topaz",
+   "price": 38990,
+   "image": "https://gbstore.ru/pictures/product/small/88762_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "fen-stajler-dyson-airwrap-complete-long-hs05-ceramic-pop",
+   "name": "Стайлер Dyson Airwrap Complete Long HS05 Ceramic Pop",
+   "price": 38990,
+   "image": "https://gbstore.ru/pictures/product/small/62220_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "fen-dyson-supersonic-hd08-nickel-cooper-nikel-med",
+   "name": "Фен Dyson Supersonic HD08 Bright Nickel/Rich Copper (никель/медь)",
+   "price": 39990,
+   "image": "https://gbstore.ru/pictures/product/small/42555_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "fen-dyson-supersonic-nural-hd16-ceramic-patina-topaz-biryuzovyj-oranzhevyj",
+   "name": "Фен Dyson Supersonic Nural Straight+Wavy HD16 Ceramic Patina Topaz без кейса",
+   "price": 39990,
+   "image": "https://gbstore.ru/pictures/product/small/79161_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "vypryamitel-dlya-volos-dyson-airstrait-ht01-amber-silk-s-kejsom",
+   "name": "Выпрямитель для волос Dyson Airstrait HT01 Amber Silk с кейсом",
+   "price": 39990,
+   "image": "https://gbstore.ru/pictures/product/small/106919_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "fen-dyson-supersonic-nural-straight-pluswavy-hd16-apricot-topaz-s-kejsom",
+   "name": "Фен Dyson SuperSonic Nural Straight+Wavy HD16 Apricot Topaz с кейсом",
+   "price": 39990,
+   "image": "https://gbstore.ru/pictures/product/small/197953_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "fen-dyson-supersonic-r-curly-pluscoily-hd17-jasper-plum-bez-kejsa",
+   "name": "Фен Dyson Supersonic R Curly+Coily HD17 Jasper Plum без кейса",
+   "price": 39990,
+   "image": "https://gbstore.ru/pictures/product/small/197989_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "fen-dyson-supersonic-r-straight-pluswavy-hd17-red-velvet-s-kejsom",
+   "name": "Фен Dyson Supersonic R Straight+Wavy HD17 Red Velvet с кейсом",
+   "price": 39990,
+   "image": "https://gbstore.ru/pictures/product/small/197984_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "fen-dyson-supersonic-r-straight-pluswavy-hd17-jasper-plum-s-kejsom",
+   "name": "Фен Dyson Supersonic R Straight+Wavy HD17 Jasper Plum с кейсом",
+   "price": 40990,
+   "image": "https://gbstore.ru/pictures/product/small/197977_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "stajler-dyson-airwrap-id-long-hs08-straight-pluswavy-amber-silk",
+   "name": "Стайлер Dyson Airwrap i.d. Long HS08 Straight+Wavy Amber Silk",
+   "price": 40990,
+   "image": "https://gbstore.ru/pictures/product/small/131716_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "stajler-dyson-airwrap-id-long-hs08-straight-pluswavy-red-velvet-gold-krasnyj-zoloto",
+   "name": "Стайлер Dyson Airwrap i.d. Long HS08 Straight+Wavy Red Velvet/Gold",
+   "price": 40990,
+   "image": "https://gbstore.ru/pictures/product/small/88753_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "vypryamitel-dlya-volos-dyson-airstrait-ht01-red-velvet-gold-krasnyj-zoloto",
+   "name": "Выпрямитель для волос Dyson Airstrait HT01 Red Velvet/Gold (красный/золото)",
+   "price": 40990,
+   "image": "https://gbstore.ru/pictures/product/small/85985_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "stajler-dyson-airwrap-id-long-hs08-straight-pluswavy-ceramic-patina-topaz-biryuzovyj-oranzhevyj",
+   "name": "Стайлер Dyson Airwrap i.d. Long HS08 Straight+Wavy Ceramic Patina/Topaz",
+   "price": 41990,
+   "image": "https://gbstore.ru/pictures/product/small/88748_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "stajler-dyson-airwrap-id-long-hs08-curly-pluscoily-ceramic-patina-topaz-biryuzovyj-oranzhevyj",
+   "name": "Стайлер Dyson Airwrap i.d. Long HS08 Curly+Coily Ceramic Patina/Topaz",
+   "price": 42990,
+   "image": "https://gbstore.ru/pictures/product/small/88805_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "vypryamitel-dlya-volos-dyson-airstrait-ht01-strawberry-bronze-s-kejsom",
+   "name": "Выпрямитель для волос Dyson Airstrait HT01 Strawberry Bronze с кейсом",
+   "price": 42990,
+   "image": "https://gbstore.ru/pictures/product/small/106912_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "fen-dyson-supersonic-r-hd18-vinca-blue-topaz-orange-sinij-oranzhevyj",
+   "name": "Фен Dyson Supersonic r HD18 Vinca Blue/Topaz Orange (синий/оранжевый)",
+   "price": 42990,
+   "image": "https://gbstore.ru/pictures/product/small/79182_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "fen-dyson-supersonic-nural-straight-pluswavy-hd16-ceramic-pink-rose-gold-bez-kejsa",
+   "name": "Фен Dyson Supersonic Nural Straight+Wavy HD16 Ceramic Pink Rose Gold без кейса",
+   "price": 42990,
+   "image": "https://gbstore.ru/pictures/product/small/197954_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "fen-dyson-supersonic-r-curly-pluscoily-hd17-jasper-plum-s-kejsom",
+   "name": "Фен Dyson Supersonic R Curly+Coily HD17 Jasper Plum с кейсом",
+   "price": 42990,
+   "image": "https://gbstore.ru/pictures/product/small/197991_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "fen-dyson-supersonic-r-straight-pluswavy-hd17-kanzan-pink-s-kejsom",
+   "name": "Фен Dyson Supersonic R Straight+Wavy HD17 Kanzan Pink с кейсом",
+   "price": 43990,
+   "image": "https://gbstore.ru/pictures/product/small/197981_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "fen-dyson-supersonic-nural-straight-pluswavy-hd16-jasper-plum-s-kejsom",
+   "name": "Фен Dyson SuperSonic Nural Straight+Wavy HD16 Jasper Plum с кейсом",
+   "price": 43990,
+   "image": "https://gbstore.ru/pictures/product/small/197959_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "fen-dyson-supersonic-nural-hd16-vinca-blue-topaz-sinij-oranzhevyj",
+   "name": "Фен Dyson Supersonic Nural Straight+Wavy HD16 Vinca Blue Topaz без кейса",
+   "price": 43990,
+   "image": "https://gbstore.ru/pictures/product/small/79175_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "fen-dyson-supersonic-hd07-gift-edition-sinij-mednyj",
+   "name": "Фен Dyson Supersonic HD07 Gift Edition Blue/Copper (синий/медь)",
+   "price": 44990,
+   "image": "https://gbstore.ru/pictures/product/small/74278_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "fen-dyson-supersonic-hair-dryer-hd08-black-nickel",
+   "name": "Фен Dyson Supersonic Origin HD08 с насадкой Smoothing Nozzle Black/Nickel (черный/никель)",
+   "price": 44990,
+   "image": "https://gbstore.ru/pictures/product/small/88865_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "fen-dyson-supersonic-hd07-blue-blush-goluboj-rozovyj",
+   "name": "Фен Dyson Supersonic HD07 Blue/Blush (голубой/розовый)",
+   "price": 44990,
+   "image": "https://gbstore.ru/pictures/product/small/106844_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "fen-schetka-dyson-airsmooth-hb01-styling-brush-ceramic-pink-rose-gold",
    "name": "Фен-щётка Dyson Airsmooth HB01 Styling Brush Ceramic Pink/Rose Gold",
    "price": 44990,
    "image": "https://gbstore.ru/pictures/product/small/203904_small.jpg",
@@ -173,7 +4304,151 @@
    "group": "dyson"
   },
   {
-   "id": "dyson-1",
+   "id": "fen-dyson-supersonic-nural-straight-pluswavy-hd16-ceramic-pink-rose-gold-s-kejsom",
+   "name": "Фен Dyson Supersonic Nural Straight+Wavy HD16 Ceramic Pink Rose Gold с кейсом",
+   "price": 44990,
+   "image": "https://gbstore.ru/pictures/product/small/197957_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "fen-dyson-supersonic-nural-straight-pluswavy-hd16-prussian-blue-rich-copper-s-kejsom",
+   "name": "Фен Dyson Supersonic Nural Straight+Wavy HD16 Prussian Blue Rich Copper с кейсом",
+   "price": 44990,
+   "image": "https://gbstore.ru/pictures/product/small/197969_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "fen-dyson-supersonic-nural-straight-pluswavy-hd16-amber-silk-s-kejsom",
+   "name": "Фен Dyson SuperSonic Nural Straight+Wavy HD16 Amber Silk с кейсом",
+   "price": 44990,
+   "image": "https://gbstore.ru/pictures/product/small/197945_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "fen-dyson-supersonic-nural-straight-pluswavy-hd16-vinca-blue-topaz-s-kejsom",
+   "name": "Фен Dyson Supersonic Nural Straight+Wavy HD16 Vinca Blue Topaz с кейсом",
+   "price": 45990,
+   "image": "https://gbstore.ru/pictures/product/small/197992_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "vypryamitel-dlya-volos-dyson-airstrait-ht01-gold-onyx-zoloto-chernyj",
+   "name": "Выпрямитель для волос Dyson Airstrait HT01 Gold/Onyx (золото/черный)",
+   "price": 45990,
+   "image": "https://gbstore.ru/pictures/product/small/79138_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "fen-stajler-dyson-airwrap-complete-long-hs05-gold-onyx-zoloto-chernyj",
+   "name": "Стайлер Dyson Airwrap Complete Long HS05 Gold/Onyx (золото/черный)",
+   "price": 46990,
+   "image": "https://gbstore.ru/pictures/product/small/79144_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "stajler-dyson-hairstyler-air-lab-coanda-2x-hs09-apricot-topaz",
+   "name": "Стайлер Dyson Hairstyler Air Lab Coanda 2x HS09 Straight+Wavy (2025) Apricot Topaz",
+   "price": 47990,
+   "image": "https://gbstore.ru/pictures/product/small/138598_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "stajler-dyson-airwrap-id-long-hs08-curly-pluscoily-vinca-blue-topaz-sinij-oranzhevyj",
+   "name": "Стайлер Dyson Airwrap i.d. Long Diffuse HS08 Curly+Coily Vinca Blue/Topaz",
+   "price": 48990,
+   "image": "https://gbstore.ru/pictures/product/small/88822_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "stajler-dyson-hairstyler-air-lab-coanda-2x-hs09-complete-long-jasper-plum-slivovyj",
+   "name": "Стайлер Dyson Hairstyler Air Lab Coanda 2x HS09 Straight+Wavy (2025) Jasper Plum",
+   "price": 48990,
+   "image": "https://gbstore.ru/pictures/product/small/91905_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "stajler-dyson-hairstyler-air-lab-coanda-2x-hs09-complete-long-ceramic-pink-rose-gold-rozovoe-zoloto",
+   "name": "Стайлер Dyson Hairstyler Air Lab Coanda 2x HS09 Straight+Wavy (2025) Ceramic Pink/Rose Gold",
+   "price": 48990,
+   "image": "https://gbstore.ru/pictures/product/small/91912_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "fen-stajler-dyson-airwrap-complete-long-hs05-strawberry-bronze-blush-pink-bronza-rozovyj",
+   "name": "Стайлер Dyson Airwrap Complete Long HS05 Strawberry Bronze/Blush Pink (бронза/розовый)",
+   "price": 49990,
+   "image": "https://gbstore.ru/pictures/product/small/81393_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "fen-dyson-supersonic-nural-hd16-strawberry-bronze-blush-pink-bronzovyj-rozovyj",
+   "name": "Фен Dyson Supersonic Nural Curly+Coily HD16 Strawberry Bronze Blush Pink с кейсом",
+   "price": 49990,
+   "image": "https://gbstore.ru/pictures/product/small/87367_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "fen-stajler-dyson-airwrap-complete-long-diffuse-hs05-prussian-blue-rich-copper-sinij-mednyj",
+   "name": "Стайлер Dyson Airwrap Complete Long Diffuse HS05 Prussian Blue/Rich Copper (синий/медный)",
+   "price": 53990,
+   "image": "https://gbstore.ru/pictures/product/small/81823_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "fen-dyson-supersonic-hd15-ceramic-pink-rose-gold-rozovyj",
+   "name": "Фен Dyson Supersonic HD15 Ceramic Pink/Rose Gold (розовый)",
+   "price": 57990,
+   "image": "https://gbstore.ru/pictures/product/small/93164_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "fen-stajler-dyson-airwrap-complete-long-diffuse-hs05-strawberry-bronze-blush-pink-bronza-rozovyj",
+   "name": "Стайлер Dyson Airwrap Complete Long Diffuse HS05 Strawberry Bronze/Blush Pink (бронза/розовый)",
+   "price": 64990,
+   "image": "https://gbstore.ru/pictures/product/small/81817_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "dyson-corrale-coolshine-ceramic-pink-rose-gold",
+   "name": "Выпрямитель для волос Dyson Corrale CoolShine HT02-A Ceramic Pink/Rose Gold",
+   "price": 64990,
+   "image": "https://gbstore.ru/pictures/product/small/203894_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "dyson-corrale-coolshine-jasper-plum",
    "name": "Выпрямитель для волос Dyson Corrale CoolShine HT02-A Jasper Plum",
    "price": 64990,
    "image": "https://gbstore.ru/pictures/product/small/203901_small.jpg",
@@ -182,13 +4457,274 @@
    "group": "dyson"
   },
   {
-   "id": "dyson-2",
-   "name": "Выпрямитель для волос Dyson Corrale CoolShine HT02-A Ceramic Pink/Rose Gold",
-   "price": 64990,
-   "image": "https://gbstore.ru/pictures/product/small/203894_small.jpg",
+   "id": "pylesos-dyson-v8-absolute-seryj-zheltyj",
+   "name": "Dyson V8 Absolute, желтый",
+   "price": 31990,
+   "image": "https://gbstore.ru/pictures/product/small/24317_small.jpg",
    "stock": "in",
-   "category": "dyson-hair",
+   "category": "dyson-vacuum",
    "group": "dyson"
+  },
+  {
+   "id": "pylesos-dyson-big-ball-parquet-2-seryj",
+   "name": "Dyson Cinetic Big Ball Parquet 2 Iron Purple",
+   "price": 46990,
+   "image": "https://gbstore.ru/pictures/product/small/57297_small.jpg",
+   "stock": "in",
+   "category": "dyson-vacuum",
+   "group": "dyson"
+  },
+  {
+   "id": "pylesos-dyson-cinetic-big-ball-multifloor-2-cy26-eu-seryj",
+   "name": "Dyson Cinetic Big Ball Multi Floor 2 CY26 EU Iron Yellow",
+   "price": 46990,
+   "image": "https://gbstore.ru/pictures/product/small/81827_small.jpg",
+   "stock": "in",
+   "category": "dyson-vacuum",
+   "group": "dyson"
+  },
+  {
+   "id": "pylesos-dyson-v12-detect-slim-absolute-serebristyj",
+   "name": "Dyson V12 Detect Slim Absolute, серебристый",
+   "price": 48990,
+   "image": "https://gbstore.ru/pictures/product/small/24447_small.jpg",
+   "stock": "in",
+   "category": "dyson-vacuum",
+   "group": "dyson"
+  },
+  {
+   "id": "pylesos-dyson-v12s-detect-slim-submarine-seryj",
+   "name": "Dyson V12S Detect Slim Submarine",
+   "price": 52990,
+   "image": "https://gbstore.ru/pictures/product/small/70704_small.jpg",
+   "stock": "in",
+   "category": "dyson-vacuum",
+   "group": "dyson"
+  },
+  {
+   "id": "dyson-pencilvac-fluffycone-sv50-black",
+   "name": "Dyson PencilVac Fluffycone SV50 Black",
+   "price": 52990,
+   "image": "https://gbstore.ru/pictures/product/small/126736_small.jpg",
+   "stock": "in",
+   "category": "dyson-vacuum",
+   "group": "dyson"
+  },
+  {
+   "id": "dyson-pencilvac-fluffy-sv50-black",
+   "name": "Dyson PencilVac Fluffy SV50 Black (492747-01)",
+   "price": 54990,
+   "image": "https://gbstore.ru/pictures/product/small/126729_small.jpg",
+   "stock": "in",
+   "category": "dyson-vacuum",
+   "group": "dyson"
+  },
+  {
+   "id": "dyson-v16-piston-animal-black-copper",
+   "name": "Dyson V16 Piston Animal SV53 Black Copper",
+   "price": 68990,
+   "image": "https://gbstore.ru/pictures/product/small/169051_small.jpg",
+   "stock": "in",
+   "category": "dyson-vacuum",
+   "group": "dyson"
+  },
+  {
+   "id": "dyson-v16-piston-animal-submarine-sv53a-black-copper",
+   "name": "Dyson V16S Piston Animal Submarine SV53A Black Copper",
+   "price": 77990,
+   "image": "https://gbstore.ru/pictures/product/small/106897_small.jpg",
+   "stock": "in",
+   "category": "dyson-vacuum",
+   "group": "dyson"
+  },
+  {
+   "id": "dyson-spot-plusscrub-ai",
+   "name": "Dyson Spot+Scrub Ai",
+   "price": 114990,
+   "image": "https://gbstore.ru/pictures/product/small/143469_small.jpg",
+   "stock": "in",
+   "category": "dyson-vacuum",
+   "group": "dyson"
+  },
+  {
+   "id": "dyson-hushjet-purifier-compact-black-teal",
+   "name": "Dyson HushJet Purifier Compact Black/Teal SP01",
+   "price": 38990,
+   "image": "https://gbstore.ru/pictures/product/small/138602_small.jpg",
+   "stock": "in",
+   "category": "dyson-climate",
+   "group": "dyson"
+  },
+  {
+   "id": "dyson-hushjet-purifier-compact-white-silver",
+   "name": "Dyson HushJet Purifier Compact White/Silver SP01",
+   "price": 38990,
+   "image": "https://gbstore.ru/pictures/product/small/138606_small.jpg",
+   "stock": "in",
+   "category": "dyson-climate",
+   "group": "dyson"
+  },
+  {
+   "id": "dyson-purifier-humidify-pluscool-ph05-white-gold",
+   "name": "Dyson Purifier Humidify+Cool Formaldehyde PH05 White Gold",
+   "price": 73990,
+   "image": "https://gbstore.ru/pictures/product/small/79543_small.jpg",
+   "stock": "in",
+   "category": "dyson-climate",
+   "group": "dyson"
+  },
+  {
+   "id": "dyson-bp04-purifier-big-plusquiet-formaldehyde-prussian-blue-gold",
+   "name": "Dyson BP04 Purifier Big+Quiet Formaldehyde Prussian Blue/Gold",
+   "price": 83990,
+   "image": "https://gbstore.ru/pictures/product/small/138610_small.jpg",
+   "stock": "in",
+   "category": "dyson-climate",
+   "group": "dyson"
+  },
+  {
+   "id": "dyson-bp06-hepa-big-and-quiet-formaldehyde-white-silver",
+   "name": "Dyson BP06 HEPA Big and Quiet Formaldehyde White/Silver",
+   "price": 83990,
+   "image": "https://gbstore.ru/pictures/product/small/138617_small.jpg",
+   "stock": "in",
+   "category": "dyson-climate",
+   "group": "dyson"
+  },
+  {
+   "id": "besprovodnoe-zaryadnoe-ustrojstvo-apple-magsafe-charger",
+   "name": "Беспроводное зарядное устройство Apple Magsafe Charger",
+   "price": 4990,
+   "image": "https://gbstore.ru/pictures/product/small/24108_small.jpg",
+   "stock": "in",
+   "category": "apple-accessories",
+   "group": "accessories"
+  },
+  {
+   "id": "adapter-pitaniya-apple-96w-usb-c-power-adapter-mx0j2",
+   "name": "Адаптер питания Apple 96W USB-C Power Adapter (MX0J2)",
+   "price": 8490,
+   "image": "https://gbstore.ru/pictures/product/small/193882_small.jpg",
+   "stock": "in",
+   "category": "apple-accessories",
+   "group": "accessories"
+  },
+  {
+   "id": "stilus-apple-pencil-usb-c-muwa3",
+   "name": "Стилус Apple Pencil (USB-C) MUWA3",
+   "price": 8990,
+   "image": "https://gbstore.ru/pictures/product/small/61164_small.jpg",
+   "stock": "in",
+   "category": "apple-accessories",
+   "group": "accessories"
+  },
+  {
+   "id": "stilus-apple-pencil-2nd-generation",
+   "name": "Стилус Apple Pencil (2nd Generation)",
+   "price": 8990,
+   "image": "https://gbstore.ru/pictures/product/small/922_small.jpg",
+   "stock": "in",
+   "category": "apple-accessories",
+   "group": "accessories"
+  },
+  {
+   "id": "besprovodnaya-mysh-apple-magic-mouse-usb-c-white",
+   "name": "Беспроводная мышь Apple Magic Mouse (USB-C) White",
+   "price": 8990,
+   "image": "https://gbstore.ru/pictures/product/small/166983_small.jpg",
+   "stock": "in",
+   "category": "apple-accessories",
+   "group": "accessories"
+  },
+  {
+   "id": "besprovodnaya-mysh-apple-magic-mouse-usb-c-black",
+   "name": "Беспроводная мышь Apple Magic Mouse (USB-C) Black",
+   "price": 9490,
+   "image": "https://gbstore.ru/pictures/product/small/166988_small.jpg",
+   "stock": "in",
+   "category": "apple-accessories",
+   "group": "accessories"
+  },
+  {
+   "id": "adapter-pitaniya-apple-140w-usb-c-power-adapter-mlyu3",
+   "name": "Адаптер питания Apple 140W USB-C Power Adapter (MLYU3)",
+   "price": 9490,
+   "image": "https://gbstore.ru/pictures/product/small/193877_small.jpg",
+   "stock": "in",
+   "category": "apple-accessories",
+   "group": "accessories"
+  },
+  {
+   "id": "vneshnij-akkumulyator-magsafe-apple-battery-dlya-iphone-air",
+   "name": "Внешний аккумулятор MagSafe Apple Battery для iPhone Air",
+   "price": 10990,
+   "image": "https://gbstore.ru/pictures/product/small/99065_small.jpg",
+   "stock": "in",
+   "category": "apple-accessories",
+   "group": "accessories"
+  },
+  {
+   "id": "stilus-apple-pencil-pro",
+   "name": "Стилус Apple Pencil Pro",
+   "price": 11290,
+   "image": "https://gbstore.ru/pictures/product/small/71276_small.jpg",
+   "stock": "in",
+   "category": "apple-accessories",
+   "group": "accessories"
+  },
+  {
+   "id": "besprovodnaya-klaviatura-magic-keyboard-usb%e2%80%93c-mxcl3",
+   "name": "Беспроводная клавиатура Apple Magic Keyboard (USB–C) MXCL3",
+   "price": 11990,
+   "image": "https://gbstore.ru/pictures/product/small/174218_small.jpg",
+   "stock": "in",
+   "category": "apple-accessories",
+   "group": "accessories"
+  },
+  {
+   "id": "trekpad-apple-magic-trackpad-3-gen-multi-touch-chernyj",
+   "name": "Трекпад Apple Magic Trackpad 3-gen Multi-Touch, черный",
+   "price": 13990,
+   "image": "https://gbstore.ru/pictures/product/small/34624_small.jpg",
+   "stock": "in",
+   "category": "apple-accessories",
+   "group": "accessories"
+  },
+  {
+   "id": "trekpad-apple-magic-trackpad-3-gen-multi-touch-belyj",
+   "name": "Трекпад Apple Magic Trackpad 3-gen Multi-Touch, белый",
+   "price": 14990,
+   "image": "https://gbstore.ru/pictures/product/small/34629_small.jpg",
+   "stock": "in",
+   "category": "apple-accessories",
+   "group": "accessories"
+  },
+  {
+   "id": "besprovodnaya-klaviatura-apple-magic-keyboard-with-numeric-keypad-us-mq052-mxcj3",
+   "name": "Беспроводная клавиатура Apple Magic Keyboard with Numeric Keypad US White MQ052/MXCJ3",
+   "price": 15490,
+   "image": "https://gbstore.ru/pictures/product/small/174223_small.jpg",
+   "stock": "in",
+   "category": "apple-accessories",
+   "group": "accessories"
+  },
+  {
+   "id": "besprovodnaya-klaviatura-apple-magic-keyboard-with-touch-id-and-numeric-keypad-us-usb-c-white-mxk73",
+   "name": "Беспроводная клавиатура Apple Magic Keyboard with Touch ID and Numeric Keypad US (USB-C) White MXK73",
+   "price": 21990,
+   "image": "https://gbstore.ru/pictures/product/small/174223_small.jpg",
+   "stock": "in",
+   "category": "apple-accessories",
+   "group": "accessories"
+  },
+  {
+   "id": "besprovodnaya-klaviatura-apple-magic-keyboard-with-touch-id-and-numeric-keypad-mk2c3rs-a",
+   "name": "Беспроводная клавиатура Apple Magic Keyboard with Touch ID and Numeric Keypad MK2C3RS/A",
+   "price": 22990,
+   "image": "https://gbstore.ru/pictures/product/small/176652_small.jpg",
+   "stock": "in",
+   "category": "apple-accessories",
+   "group": "accessories"
   }
  ]
 }
