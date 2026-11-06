@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>AppleBay — техника Apple по актуальным ценам</title>
+<meta name="description" content="Онлайн-магазин AppleBay: iPhone, Mac, iPad, Apple Watch, AirPods и Dyson. Цены обновляются автоматически.">
+<link rel="icon" href="logo.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Onest:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#ffffff; --mist:#f2f5f8; --line:#dfe4ea; --chrome:#c8d0d9;
+  --ink:#1b2128; --steel:#6b7683; --ice:#6e9cc4; --deep:#24527f; --deep-ink:#ffffff;
+  --ok:#2f7d4f; --warn:#a46a12;
+  --logo-bg:transparent;
+  color-scheme:light;
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px);
+  padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --paper:#12161b; --mist:#1a2027; --line:#2a323c; --chrome:#3a4450;
+    --ink:#e9edf2; --steel:#9aa5b2; --ice:#8db8dd; --deep:#8db8dd; --deep-ink:#0d1a26;
+    --ok:#6cc596; --warn:#e2b25a; --logo-bg:#ffffff; color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#12161b; --mist:#1a2027; --line:#2a323c; --chrome:#3a4450;
+  --ink:#e9edf2; --steel:#9aa5b2; --ice:#8db8dd; --deep:#8db8dd; --deep-ink:#0d1a26;
+  --ok:#6cc596; --warn:#e2b25a; --logo-bg:#ffffff; color-scheme:dark;
+}
+*,*::before,*::after{box-sizing:inherit}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+body{margin:0;background:var(--paper);color:var(--ink);font:400 16px/1.5 "Onest",system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;-webkit-font-smoothing:antialiased}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:30;background:var(--paper)}
+a{color:inherit}
+img{max-width:100%}
+button,input,select{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--ice);outline-offset:2px;border-radius:6px}
+.wrap{max-width:1200px;margin:0 auto;padding:0 20px}
+
+/* top bar */
+.topbar{background:var(--mist);font-size:14px;color:var(--steel)}
+.topbar .wrap{display:flex;gap:20px;align-items:center;min-height:38px;flex-wrap:wrap}
+.topbar a{text-decoration:none}
+.topbar a:hover{color:var(--ink)}
+.topbar .spacer{flex:1}
+.topbar .tel{color:var(--ink);font-weight:600}
+
+/* header */
+header.site{position:sticky;top:env(safe-area-inset-top,0px);z-index:20;background:var(--paper);border-bottom:1px solid var(--line)}
+.head{display:flex;align-items:center;gap:20px;padding-top:12px;padding-bottom:12px}
+.brand{display:flex;align-items:center;gap:10px;text-decoration:none}
+.brand img{width:46px;height:46px;border-radius:12px;background:var(--logo-bg);mix-blend-mode:multiply;object-fit:cover}
+:root[data-theme="dark"] .brand img{mix-blend-mode:normal}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .brand img{mix-blend-mode:normal}}
+.brand b{font-size:22px;font-weight:800;letter-spacing:-.02em}
+.search{flex:1;position:relative;max-width:520px}
+.search input{width:100%;height:44px;border:1px solid var(--line);border-radius:22px;padding:0 18px 0 42px;background:var(--mist)}
+.search input:focus{outline:none;border-color:var(--ice);background:var(--paper)}
+.search svg{position:absolute;left:15px;top:13px;width:18px;height:18px;color:var(--steel)}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;height:44px;padding:0 20px;border-radius:22px;border:0;background:var(--deep);color:var(--deep-ink);font-weight:600;text-decoration:none;cursor:pointer;white-space:nowrap}
+.btn:hover{filter:brightness(1.1)}
+.btn.ghost{background:transparent;color:var(--ink);border:1px solid var(--chrome)}
+.menu-toggle{display:none}
+
+/* nav */
+nav.cats{border-top:1px solid var(--line)}
+nav.cats ul{list-style:none;margin:0;padding:0;display:flex;gap:4px;overflow-x:auto;scrollbar-width:none}
+nav.cats ul::-webkit-scrollbar{display:none}
+nav.cats > .wrap > ul > li{position:relative}
+nav.cats a.top{display:block;padding:12px 14px;text-decoration:none;font-weight:500;white-space:nowrap;border-bottom:2px solid transparent}
+nav.cats a.top:hover,nav.cats a.top.on{border-bottom-color:var(--ice)}
+.drop{display:none;position:absolute;left:0;top:100%;min-width:220px;background:var(--paper);border:1px solid var(--line);border-radius:12px;padding:8px;box-shadow:0 12px 30px rgba(27,33,40,.12)}
+.drop a{display:block;padding:8px 12px;border-radius:8px;text-decoration:none;white-space:nowrap}
+.drop a:hover{background:var(--mist)}
+@media (hover:hover) and (min-width:861px){nav.cats li:hover .drop{display:block}nav.cats ul{overflow:visible}}
+
+/* hero */
+.hero{display:grid;grid-template-columns:1fr 1.1fr;gap:40px;align-items:center;padding:48px 0 40px}
+.hero h1{font-size:clamp(32px,4.4vw,52px);line-height:1.05;letter-spacing:-.03em;margin:0 0 16px;font-weight:800}
+.hero p{color:var(--steel);font-size:18px;margin:0 0 24px;max-width:34ch}
+.stamp{display:inline-flex;align-items:center;gap:8px;font-size:14px;color:var(--steel);margin-bottom:22px}
+.stamp i{width:8px;height:8px;border-radius:50%;background:var(--ok);box-shadow:0 0 0 4px color-mix(in srgb,var(--ok) 20%,transparent)}
+.board{border-radius:28px;padding:2px;background:linear-gradient(160deg,var(--chrome),var(--paper) 40%,var(--ice))}
+.board-in{background:var(--paper);border-radius:26px;padding:10px 8px}
+.board h2{font-size:15px;font-weight:600;color:var(--steel);margin:8px 16px 6px}
+.row{display:flex;align-items:baseline;gap:12px;padding:12px 16px;border-radius:14px;text-decoration:none}
+.row:hover{background:var(--mist)}
+.row .m{font-weight:600;font-size:18px}
+.row .dots{flex:1;border-bottom:1px dotted var(--chrome);transform:translateY(-4px)}
+.row .p{font-variant-numeric:tabular-nums;font-weight:700;font-size:20px;white-space:nowrap}
+.row .p small{font-weight:500;color:var(--steel);font-size:14px;margin-right:4px}
+
+/* perks */
+.perks{display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:var(--line);border:1px solid var(--line);border-radius:18px;overflow:hidden;margin:8px 0 48px}
+.perk{background:var(--paper);padding:20px}
+.perk b{display:block;margin-bottom:4px}
+.perk span{color:var(--steel);font-size:14px}
+
+/* sections & grid */
+.sec-head{display:flex;align-items:baseline;justify-content:space-between;gap:16px;margin:0 0 18px}
+.sec-head h2{margin:0;font-size:28px;letter-spacing:-.02em}
+.sec-head a{color:var(--deep);font-weight:600;text-decoration:none;white-space:nowrap}
+.sec{margin-bottom:52px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:16px}
+.card{display:flex;flex-direction:column;border:1px solid var(--line);border-radius:18px;padding:16px;background:var(--paper)}
+.card .pic{aspect-ratio:1;display:grid;place-items:center;margin-bottom:12px;border-radius:12px;background:#fff;overflow:hidden}
+.card .pic img{width:88%;height:88%;object-fit:contain}
+.ph{width:100%;height:100%;display:grid;place-items:center;background:var(--mist);color:var(--steel);font-weight:700;font-size:28px}
+.card h3{font-size:15px;font-weight:500;line-height:1.35;margin:0 0 10px;flex:1}
+.stock{font-size:13px;color:var(--ok);margin-bottom:6px}
+.stock.order{color:var(--warn)}
+.card .price{font-size:22px;font-weight:700;font-variant-numeric:tabular-nums;margin-bottom:12px}
+.card .btn{height:40px;width:100%}
+
+/* catalog page */
+.crumbs{font-size:14px;color:var(--steel);margin:24px 0 8px}
+.crumbs a{text-decoration:none}
+.crumbs a:hover{color:var(--ink)}
+h1.page{font-size:clamp(28px,3.4vw,40px);letter-spacing:-.025em;margin:0 0 18px}
+.tools{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-bottom:22px}
+.chip{height:36px;padding:0 14px;border-radius:18px;border:1px solid var(--line);background:var(--paper);cursor:pointer;text-decoration:none;display:inline-flex;align-items:center;font-size:14px}
+.chip.on{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.tools .grow{flex:1}
+.tools select{height:36px;border-radius:18px;border:1px solid var(--line);padding:0 12px;background:var(--paper)}
+.count{color:var(--steel);font-size:14px}
+.empty{padding:48px 24px;text-align:center;border:1px dashed var(--chrome);border-radius:18px;color:var(--steel)}
+.empty b{display:block;color:var(--ink);font-size:18px;margin-bottom:6px}
+
+/* text pages */
+.text{max-width:68ch;margin-bottom:56px}
+.text p{font-size:17px}
+.contacts{display:grid;gap:12px;margin:24px 0}
+.contacts a,.contacts div{display:flex;gap:14px;align-items:center;padding:16px 18px;border:1px solid var(--line);border-radius:16px;text-decoration:none}
+.contacts span{color:var(--steel);min-width:110px}
+
+/* footer */
+footer{background:var(--mist);margin-top:24px;padding:40px 0 calc(28px + env(safe-area-inset-bottom,0px));font-size:15px}
+.foot{display:grid;grid-template-columns:1.4fr 1fr 1fr;gap:32px}
+footer h4{margin:0 0 10px;font-size:15px}
+footer a{display:block;text-decoration:none;color:var(--steel);padding:3px 0}
+footer a:hover{color:var(--ink)}
+footer p{color:var(--steel);margin:8px 0 0;max-width:40ch}
+.copy{color:var(--steel);font-size:13px;margin-top:28px}
+
+/* modal */
+dialog{border:0;border-radius:24px;padding:0;max-width:440px;width:calc(100% - 32px);background:var(--paper);color:var(--ink)}
+dialog::backdrop{background:rgba(10,14,18,.45)}
+.dlg{padding:24px}
+.dlg h3{margin:0 0 6px;font-size:20px;line-height:1.3}
+.dlg .price{font-size:28px;font-weight:800;margin:6px 0 4px}
+.dlg p{color:var(--steel);margin:0 0 18px;font-size:14px}
+.dlg .btn{width:100%;margin-bottom:10px}
+.x{position:absolute;right:14px;top:12px;width:36px;height:36px;border-radius:18px;border:0;background:var(--mist);cursor:pointer;font-size:20px}
+.toast{position:fixed;left:50%;bottom:calc(24px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:var(--ink);color:var(--paper);padding:12px 18px;border-radius:14px;font-size:14px;opacity:0;pointer-events:none;transition:opacity .2s}
+.toast.show{opacity:1}
+.demo{background:#fff4d6;color:#5a4300;text-align:center;font-size:14px;padding:8px 16px}
+
+@media (max-width:860px){
+  .hero{grid-template-columns:1fr;padding-top:28px;gap:28px}
+  .perks{grid-template-columns:1fr 1fr}
+  .foot{grid-template-columns:1fr}
+  .head{flex-wrap:wrap}
+  .search{order:3;flex-basis:100%;max-width:none}
+  .head .btn.order-btn{display:none}
+  .topbar .hide-sm{display:none}
+  .grid{grid-template-columns:repeat(2,1fr);gap:10px}
+  .card{padding:10px;border-radius:14px}
+  .card .price{font-size:18px}
+}
+@media (max-width:420px){.perks{grid-template-columns:1fr}}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+<div id="demo"></div>
+<div class="topbar"><div class="wrap">
+  <a href="#delivery">Доставка</a>
+  <a href="#warranty">Гарантия</a>
+  <a href="#contacts">Контакты</a>
+  <a href="#" id="tg-top" target="_blank" rel="noopener">Telegram</a>
+  <span class="spacer"></span>
+  <span class="hide-sm" id="hours"></span>
+  <a class="tel" id="tel-top" href="#"></a>
+</div></div>
+
+<header class="site">
+  <div class="wrap head">
+    <a class="brand" href="#"><img src="logo.jpg" alt=""><b>AppleBay</b></a>
+    <label class="search">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input id="q" type="search" placeholder="Поиск, например «17 Pro 256»" aria-label="Поиск по каталогу">
+    </label>
+    <a class="btn order-btn" id="tg-head" href="#" target="_blank" rel="noopener">Написать в Telegram</a>
+  </div>
+  <nav class="cats" aria-label="Каталог"><div class="wrap"><ul id="nav"></ul></div></nav>
+</header>
+
+<main class="wrap" id="app"><p style="padding:60px 0;color:var(--steel)">Загружаем каталог…</p></main>
+
+<footer><div class="wrap">
+  <div class="foot">
+    <div><a class="brand" href="#" style="color:var(--ink)"><img src="logo.jpg" alt="" style="width:36px;height:36px"><b style="font-size:18px">AppleBay</b></a><p id="about"></p></div>
+    <div><h4>Покупателям</h4><a href="#delivery">Доставка</a><a href="#warranty">Гарантия</a><a href="#contacts">Контакты</a></div>
+    <div><h4>Связаться</h4><a id="tel-foot" href="#"></a><a id="tg-foot" href="#" target="_blank" rel="noopener">Telegram</a><a id="wa-foot" href="#" target="_blank" rel="noopener">WhatsApp</a><a id="mail-foot" href="#"></a></div>
+  </div>
+  <div class="copy" id="copy"></div>
+</div></footer>
+
+<dialog id="dlg"><div class="dlg" style="position:relative">
+  <button class="x" onclick="dlg.close()" aria-label="Закрыть">×</button>
+  <h3 id="d-name"></h3>
+  <div class="price" id="d-price"></div>
+  <p>Напишите нам — менеджер подтвердит наличие и оформит заказ. Текст заявки скопируется автоматически.</p>
+  <a class="btn" id="d-tg" target="_blank" rel="noopener">Заказать в Telegram</a>
+  <a class="btn ghost" id="d-wa" target="_blank" rel="noopener">Заказать в WhatsApp</a>
+  <a class="btn ghost" id="d-tel">Позвонить</a>
+</div></dialog>
+<div class="toast" id="toast"></div>
+
+<script>
+const S = { cfg:null, products:[], updated:null, query:"" };
+const $ = (s, el=document) => el.querySelector(s);
+const esc = s => String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const rub = n => n.toLocaleString("ru-RU").replace(/,/g," ") + " ₽";
+
+async function load(){
+  if (window.APPLEBAY_DATA){ // встроенные данные для предпросмотра
+    S.cfg = window.APPLEBAY_DATA.config; const d = window.APPLEBAY_DATA.products;
+    S.products = d.products; S.updated = d.updated_at;
+    $("#demo").innerHTML = '<div class="demo">Предпросмотр с демо-данными: на вашем сайте цены будут подтягиваться автоматически по всем категориям.</div>';
+  } else {
+    const [c, d] = await Promise.all([
+      fetch("config.json", {cache:"no-store"}).then(r=>r.json()),
+      fetch("data/products.json?v=" + Date.now(), {cache:"no-store"}).then(r=>r.json())
+    ]);
+    S.cfg = c; S.products = d.products || []; S.updated = d.updated_at;
+  }
+  S.groups = S.cfg.groups;
+  S.cats = {}; S.groups.forEach(g => g.categories.forEach(c => S.cats[c.id] = {...c, group:g}));
+  fillChrome(); render();
+}
+
+function links(){
+  const s = S.cfg.shop;
+  return {
+    tel: "tel:" + s.phone_link,
+    tg: "https://t.me/" + s.telegram,
+    wa: t => "https://wa.me/" + s.whatsapp + (t ? "?text=" + encodeURIComponent(t) : ""),
+    mail: "mailto:" + s.email
+  };
+}
+
+function fillChrome(){
+  const s = S.cfg.shop, L = links();
+  $("#tel-top").textContent = s.phone; $("#tel-top").href = L.tel;
+  $("#hours").textContent = s.hours;
+  ["#tg-top","#tg-head","#tg-foot"].forEach(id => $(id).href = L.tg);
+  $("#tel-foot").textContent = s.phone; $("#tel-foot").href = L.tel;
+  $("#wa-foot").href = L.wa(); $("#mail-foot").textContent = s.email; $("#mail-foot").href = L.mail;
+  $("#about").textContent = s.about_text;
+  $("#copy").textContent = "© " + new Date().getFullYear() + " " + s.name + ". Цены носят информационный характер, точную стоимость подтвердит менеджер.";
+  $("#nav").innerHTML = S.groups.filter(g => countIn(g.id)).map(g => `
+    <li><a class="top" data-g="${g.id}" href="#${g.id}">${esc(g.title)}</a>
+    ${g.categories.length > 1 ? `<div class="drop">${g.categories.filter(c=>countIn(c.id)).map(c => `<a href="#${c.id}">${esc(c.title)}</a>`).join("")}</div>` : ""}</li>`).join("");
+}
+
+function countIn(id){ return S.products.filter(p => p.group === id || p.category === id).length; }
+function minPrice(list){ return list.length ? Math.min(...list.map(p=>p.price)) : null; }
+
+function updatedText(){
+  if (!S.updated) return "";
+  const d = new Date(S.updated), now = new Date();
+  const mins = Math.round((now - d) / 60000);
+  const t = d.toLocaleTimeString("ru-RU",{hour:"2-digit",minute:"2-digit"});
+  if (mins < 60) return `Цены обновлены ${mins <= 1 ? "только что" : mins + " мин назад"}`;
+  if (d.toDateString() === now.toDateString()) return "Цены обновлены сегодня в " + t;
+  return "Цены обновлены " + d.toLocaleDateString("ru-RU",{day:"numeric",month:"long"}) + " в " + t;
+}
+
+function card(p){
+  const initials = esc(p.name.replace(/^(Apple|Фен-щётка|Выпрямитель для волос)\s+/,"").replace(/['"]/g,"").slice(0,2));
+  return `<article class="card">
+    <div class="pic">${p.image ? `<img loading="lazy" referrerpolicy="no-referrer" src="${esc(p.image)}" alt="" onerror="this.outerHTML='<div class=ph>${initials}</div>'">` : `<div class="ph">${initials}</div>`}</div>
+    <h3>${esc(p.name)}</h3>
+    <div class="stock ${p.stock === "order" ? "order" : ""}">${p.stock === "order" ? "Под заказ" : "В наличии"}</div>
+    <div class="price">${rub(p.price)}</div>
+    <button class="btn" data-order="${esc(p.id)}">Заказать</button>
+  </article>`;
+}
+
+function grid(list){
+  return list.length ? `<div class="grid">${list.map(card).join("")}</div>`
+    : `<div class="empty"><b>Здесь пока пусто</b>Товары появятся после следующего обновления цен. Нужна модель прямо сейчас — напишите нам в Telegram.</div>`;
+}
+
+function home(){
+  const models = [];
+  S.groups.forEach(g => g.categories.forEach(c => {
+    const list = S.products.filter(p => p.category === c.id);
+    if (list.length) models.push({c, min:minPrice(list)});
+  }));
+  const board = models.slice(0, 7).map(m => `<a class="row" href="#${m.c.id}"><span class="m">${esc(m.c.title)}</span><span class="dots"></span><span class="p"><small>от</small>${rub(m.min)}</span></a>`).join("");
+  const perks = [
+    ["Только оригинал","Новая техника в заводской упаковке"],
+    ["Гарантия 1 год","Проверка устройства при получении"],
+    ["Быстрая доставка","По городу — в день заказа"],
+    ["Цены без звонков","Каталог обновляется несколько раз в день"]
+  ].map(([b,s]) => `<div class="perk"><b>${b}</b><span>${s}</span></div>`).join("");
+  const sections = (S.cfg.home_categories || []).map(id => {
+    const c = S.cats[id]; if (!c) return "";
+    const list = S.products.filter(p => p.category === id).sort((a,b)=>a.price-b.price);
+    if (!list.length) return "";
+    return `<section class="sec"><div class="sec-head"><h2>${esc(c.title)}</h2><a href="#${id}">Все ${list.length}</a></div>${grid(list.slice(0,8))}</section>`;
+  }).join("");
+  return `<section class="hero">
+      <div>
+        <div class="stamp"><i></i>${updatedText()}</div>
+        <h1>Техника Apple по честной цене — сразу на сайте</h1>
+        <p>${esc(S.cfg.shop.slogan)}. Выберите модель и напишите нам — заказ оформим за пару минут.</p>
+        <a class="btn" href="#${S.groups[0].id}">Смотреть каталог</a>
+      </div>
+      <div class="board"><div class="board-in"><h2>Цены сегодня</h2>${board || '<p style="padding:12px 16px;color:var(--steel)">Цены появятся после первого обновления.</p>'}</div></div>
+    </section>
+    <div class="perks">${perks}</div>
+    ${sections}`;
+}
+
+const SORTS = {cheap:(a,b)=>a.price-b.price, exp:(a,b)=>b.price-a.price, name:(a,b)=>a.name.localeCompare(b.name,"ru")};
+let view = {sort:"cheap", mem:""};
+function memOf(name){ const m = name.match(/\b(\d+\s?(?:GB|TB|ГБ|ТБ))\b/i); return m ? m[1].replace(/\s/,"").toUpperCase() : ""; }
+function memVal(m){ const n = parseInt(m); return /TB|ТБ/.test(m) ? n*1024 : n; }
+
+function catalog(id){
+  const group = S.groups.find(g => g.id === id);
+  const cat = group ? null : S.cats[id];
+  const g = group || cat.group;
+  let list = S.products.filter(p => group ? p.group === id : p.category === id);
+  const mems = [...new Set(list.map(p => memOf(p.name)).filter(Boolean))].sort((a,b)=>memVal(a)-memVal(b));
+  if (view.mem) list = list.filter(p => memOf(p.name) === view.mem);
+  list.sort(SORTS[view.sort]);
+  const title = cat ? cat.title : g.title;
+  const subs = g.categories.filter(c => countIn(c.id));
+  return `<div class="crumbs"><a href="#">Главная</a> / ${cat && g.categories.length > 1 ? `<a href="#${g.id}">${esc(g.title)}</a> / ` : ""}${esc(title)}</div>
+    <h1 class="page">${esc(title)}</h1>
+    ${subs.length > 1 ? `<div class="tools"><a class="chip ${group ? "on":""}" href="#${g.id}">Все</a>${subs.map(c => `<a class="chip ${cat && cat.id===c.id ? "on":""}" href="#${c.id}">${esc(c.title)}</a>`).join("")}</div>` : ""}
+    <div class="tools">
+      ${mems.length > 1 ? `<button class="chip ${!view.mem?"on":""}" data-mem="">Любая память</button>${mems.map(m => `<button class="chip ${view.mem===m?"on":""}" data-mem="${m}">${m}</button>`).join("")}` : ""}
+      <span class="grow"></span><span class="count">${list.length} шт.</span>
+      <select id="sort" aria-label="Сортировка">
+        <option value="cheap" ${view.sort==="cheap"?"selected":""}>Сначала дешевле</option>
+        <option value="exp" ${view.sort==="exp"?"selected":""}>Сначала дороже</option>
+        <option value="name" ${view.sort==="name"?"selected":""}>По названию</option>
+      </select>
+    </div>
+    <div class="sec">${grid(list)}</div>`;
+}
+
+function search(q){
+  const words = q.toLowerCase().split(/\s+/).filter(Boolean);
+  const list = S.products.filter(p => words.every(w => p.name.toLowerCase().includes(w))).sort(SORTS.cheap);
+  return `<div class="crumbs"><a href="#">Главная</a> / Поиск</div><h1 class="page">Поиск: ${esc(q)}</h1>
+    <div class="sec">${list.length ? grid(list) : `<div class="empty"><b>Ничего не нашли</b>Попробуйте написать короче, например «17 Pro» или «AirPods». Или спросите нас в Telegram — подберём.</div>`}</div>`;
+}
+
+function textPage(kind){
+  const s = S.cfg.shop, L = links();
+  if (kind === "contacts") return `<div class="crumbs"><a href="#">Главная</a> / Контакты</div><h1 class="page">Контакты</h1>
+    <div class="text"><p>Мы работаем онлайн, без офиса. ${esc(s.hours)}.</p>
+    <div class="contacts">
+      <a href="${L.tel}"><span>Телефон</span><b>${esc(s.phone)}</b></a>
+      <a href="${L.tg}" target="_blank" rel="noopener"><span>Telegram</span><b>@${esc(s.telegram)}</b></a>
+      <a href="${L.wa()}" target="_blank" rel="noopener"><span>WhatsApp</span><b>${esc(s.phone)}</b></a>
+      <a href="${L.mail}"><span>Почта</span><b>${esc(s.email)}</b></a>
+    </div></div>`;
+  const t = kind === "delivery" ? ["Доставка", s.delivery_text] : ["Гарантия", s.warranty_text];
+  return `<div class="crumbs"><a href="#">Главная</a> / ${t[0]}</div><h1 class="page">${t[0]}</h1><div class="text"><p>${esc(t[1])}</p></div>`;
+}
+
+function render(){
+  const id = decodeURIComponent(location.hash.slice(1));
+  let html;
+  if (S.query) html = search(S.query);
+  else if (["contacts","delivery","warranty"].includes(id)) html = textPage(id);
+  else if (id && (S.groups.some(g=>g.id===id) || S.cats[id])) html = catalog(id);
+  else html = home();
+  $("#app").innerHTML = html;
+  const g = S.groups.find(g => g.id === id) || (S.cats[id] && S.cats[id].group);
+  document.querySelectorAll("nav.cats a.top").forEach(a => a.classList.toggle("on", !!(!S.query && g && a.dataset.g === g.id)));
+}
+
+addEventListener("hashchange", () => { S.query = ""; $("#q").value = ""; view.mem = ""; render(); scrollTo(0,0); });
+let qt; $("#q").addEventListener("input", e => { clearTimeout(qt); qt = setTimeout(() => { S.query = e.target.value.trim(); render(); }, 200); });
+
+document.addEventListener("change", e => { if (e.target.id === "sort"){ view.sort = e.target.value; render(); } });
+document.addEventListener("click", e => {
+  const m = e.target.closest("[data-mem]"); if (m){ view.mem = m.dataset.mem; render(); return; }
+  const o = e.target.closest("[data-order]"); if (o) openOrder(o.dataset.order);
+});
+
+const dlg = $("#dlg");
+function openOrder(id){
+  const p = S.products.find(x => x.id === id); if (!p) return;
+  const L = links();
+  const text = `Здравствуйте! Хочу заказать: ${p.name} за ${rub(p.price)}`;
+  $("#d-name").textContent = p.name; $("#d-price").textContent = rub(p.price);
+  $("#d-tg").href = L.tg; $("#d-wa").href = L.wa(text); $("#d-tel").href = L.tel;
+  $("#d-tg").onclick = () => { navigator.clipboard && navigator.clipboard.writeText(text).then(() => toast("Текст заявки скопирован — вставьте его в чат")).catch(()=>{}); };
+  dlg.showModal();
+}
+dlg.addEventListener("click", e => { if (e.target === dlg) dlg.close(); });
+function toast(t){ const el = $("#toast"); el.textContent = t; el.classList.add("show"); setTimeout(() => el.classList.remove("show"), 3200); }
+
+load().catch(() => { $("#app").innerHTML = '<div class="empty" style="margin:40px 0"><b>Каталог не загрузился</b>Обновите страницу. Если ошибка повторяется, проверьте, что файлы config.json и data/products.json лежат рядом с index.html.</div>'; });
+</script>
+</body>
+</html>

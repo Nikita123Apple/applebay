@@ -1,0 +1,194 @@
+{
+ "updated_at": "2026-11-06T11:01:37+00:00",
+ "products": [
+  {
+   "id": "iphone-17-pro-256gb-orange-esim",
+   "name": "Apple iPhone 17 Pro 256GB Cosmic Orange (оранжевый) eSIM",
+   "price": 95990,
+   "image": "https://gbstore.ru/pictures/product/small/98435_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "iphone-17-pro-256gb-blue-esim",
+   "name": "Apple iPhone 17 Pro 256GB Deep Blue (синий) eSIM",
+   "price": 97990,
+   "image": "https://gbstore.ru/pictures/product/small/98438_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "iphone-17-pro-256gb-silver-esim",
+   "name": "Apple iPhone 17 Pro 256GB Silver (серебристый) eSIM",
+   "price": 97990,
+   "image": "https://gbstore.ru/pictures/product/small/98432_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "iphone-17-pro-256gb-orange-a3523",
+   "name": "Apple iPhone 17 Pro 256GB Cosmic Orange (оранжевый) A3523",
+   "price": 103990,
+   "image": "https://gbstore.ru/pictures/product/small/98435_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "iphone-17-pro-256gb-blue-a3523",
+   "name": "Apple iPhone 17 Pro 256GB Deep Blue (синий) A3523",
+   "price": 105990,
+   "image": "https://gbstore.ru/pictures/product/small/98438_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "iphone-17-pro-256gb-silver-a3523",
+   "name": "Apple iPhone 17 Pro 256GB Silver (серебристый) A3523",
+   "price": 109990,
+   "image": "https://gbstore.ru/pictures/product/small/98432_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "iphone-17-pro-512gb-orange-esim",
+   "name": "Apple iPhone 17 Pro 512GB Cosmic Orange (оранжевый) eSIM",
+   "price": 110990,
+   "image": "https://gbstore.ru/pictures/product/small/98435_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "iphone-17-pro-512gb-blue-esim",
+   "name": "Apple iPhone 17 Pro 512GB Deep Blue (синий) eSIM",
+   "price": 114990,
+   "image": "https://gbstore.ru/pictures/product/small/98438_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "iphone-17-pro-512gb-silver-esim",
+   "name": "Apple iPhone 17 Pro 512GB Silver (серебристый) eSIM",
+   "price": 115990,
+   "image": "https://gbstore.ru/pictures/product/small/98432_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "iphone-17-pro-512gb-orange-a3523",
+   "name": "Apple iPhone 17 Pro 512GB Cosmic Orange (оранжевый) A3523",
+   "price": 119990,
+   "image": "https://gbstore.ru/pictures/product/small/98435_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "iphone-17-pro-1tb-orange-esim",
+   "name": "Apple iPhone 17 Pro 1TB Cosmic Orange (оранжевый) eSIM",
+   "price": 122990,
+   "image": "https://gbstore.ru/pictures/product/small/98435_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "iphone-17-pro-1tb-blue-esim",
+   "name": "Apple iPhone 17 Pro 1TB Deep Blue (синий) eSIM",
+   "price": 127990,
+   "image": "https://gbstore.ru/pictures/product/small/98438_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "iphone-17-pro-512gb-blue-a3523",
+   "name": "Apple iPhone 17 Pro 512GB Deep Blue (синий) A3523",
+   "price": 127990,
+   "image": "https://gbstore.ru/pictures/product/small/98438_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "iphone-17-pro-512gb-silver-a3523",
+   "name": "Apple iPhone 17 Pro 512GB Silver (серебристый) A3523",
+   "price": 129990,
+   "image": "https://gbstore.ru/pictures/product/small/98432_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "iphone-17-pro-1tb-silver-esim",
+   "name": "Apple iPhone 17 Pro 1TB Silver (серебристый) eSIM",
+   "price": 134990,
+   "image": "https://gbstore.ru/pictures/product/small/98432_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "iphone-17-pro-1tb-orange-a3523",
+   "name": "Apple iPhone 17 Pro 1TB Cosmic Orange (оранжевый) A3523",
+   "price": 139990,
+   "image": "https://gbstore.ru/pictures/product/small/98435_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "iphone-17-pro-1tb-blue-a3523",
+   "name": "Apple iPhone 17 Pro 1TB Deep Blue (синий) A3523",
+   "price": 147990,
+   "image": "https://gbstore.ru/pictures/product/small/98438_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "iphone-17-pro-1tb-silver-a3523",
+   "name": "Apple iPhone 17 Pro 1TB Silver (серебристый) A3523",
+   "price": 151990,
+   "image": "https://gbstore.ru/pictures/product/small/98432_small.jpg",
+   "stock": "in",
+   "category": "iphone-17-pro",
+   "group": "iphone"
+  },
+  {
+   "id": "dyson-0",
+   "name": "Фен-щётка Dyson Airsmooth HB01 Styling Brush Ceramic Pink/Rose Gold",
+   "price": 44990,
+   "image": "https://gbstore.ru/pictures/product/small/203904_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "dyson-1",
+   "name": "Выпрямитель для волос Dyson Corrale CoolShine HT02-A Jasper Plum",
+   "price": 64990,
+   "image": "https://gbstore.ru/pictures/product/small/203901_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  },
+  {
+   "id": "dyson-2",
+   "name": "Выпрямитель для волос Dyson Corrale CoolShine HT02-A Ceramic Pink/Rose Gold",
+   "price": 64990,
+   "image": "https://gbstore.ru/pictures/product/small/203894_small.jpg",
+   "stock": "in",
+   "category": "dyson-hair",
+   "group": "dyson"
+  }
+ ]
+}
