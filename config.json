@@ -76,5 +76,5 @@
     "apple-airpods",
     "apple-watch"
   ],
-  "exclude_categories": []
+  "exclude_categories": ["telefony-nokia", "planshety-inoi", ]
 }
