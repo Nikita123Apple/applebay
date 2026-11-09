@@ -160,7 +160,19 @@ def extract_image(card):
     if not img:
         return ""
     src = img.get("data-src") or img.get("data-original") or img.get("src") or ""
-    return "" if not src or src.startswith("data:") else urljoin(SOURCE_BASE, src)
+    if not src or src.startswith("data:"):
+        return ""
+    url = urljoin(SOURCE_BASE, src)
+    return url if is_real_photo(url) else ""
+
+
+def is_real_photo(url):
+    """Настоящие фото товаров лежат в /pictures/product/. Всё остальное —
+    заглушки «нет фото» с логотипом источника, их не берём."""
+    path = urlsplit(url).path.lower()
+    if "/pictures/product/" not in path:
+        return False
+    return not any(w in path for w in ("nophoto", "no-photo", "no_photo", "noimage", "no-image", "logo"))
 
 
 def extract_stock(card):
@@ -234,6 +246,8 @@ def main():
     pricing = config.get("pricing", {})
     hide_out = pricing.get("hide_out_of_stock", True)
     exclude = set(config.get("exclude_categories", []))
+    # слова и фразы: товар скрывается, если его название содержит любую из них
+    exclude_words = [w.lower().strip() for w in config.get("exclude_products", []) if w.strip()]
 
     previous_total = 0
     if OUTPUT_PATH.exists():
@@ -258,6 +272,8 @@ def main():
             kept = 0
             for p in items:
                 if hide_out and p["stock"] == "out":
+                    continue
+                if any(w in p["name"].lower() for w in exclude_words):
                     continue
                 entry = products.get(p["id"])
                 if entry is None:
