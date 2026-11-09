@@ -112,7 +112,7 @@ nav.cats > .wrap > ul > li:nth-last-child(-n+4) .drop{left:auto;right:0}
 .card{display:flex;flex-direction:column;border:1px solid var(--line);border-radius:18px;padding:16px;background:var(--paper)}
 .card .pic{aspect-ratio:1;display:grid;place-items:center;margin-bottom:12px;border-radius:12px;background:#fff;overflow:hidden}
 .card .pic img{width:88%;height:88%;object-fit:contain}
-.ph{width:100%;height:100%;display:grid;place-items:center;background:var(--mist);color:var(--steel);font-weight:700;font-size:28px}
+.card .pic img.nophoto{width:55%;height:55%;opacity:.35;filter:grayscale(1)}
 .card h3{font-size:15px;font-weight:500;line-height:1.35;margin:0 0 10px;flex:1}
 .stock{font-size:13px;color:var(--ok);margin-bottom:6px}
 .stock.order{color:var(--warn)}
@@ -286,10 +286,12 @@ function updatedText(){
   return "Цены обновлены " + d.toLocaleDateString("ru-RU",{day:"numeric",month:"long"}) + " в " + t;
 }
 
+// настоящие фото товаров лежат в /pictures/product/, остальное — заглушки с чужим логотипом
+const realPhoto = u => !!u && /\/pictures\/product\//i.test(u) && !/no-?_?photo|no-?image|logo/i.test(u);
+const NOPHOTO = `<img class="nophoto" src="logo.jpg" alt="">`;
 function card(p){
-  const initials = esc(p.name.replace(/^(Apple|Фен-щётка|Выпрямитель для волос)\s+/,"").replace(/['"]/g,"").slice(0,2));
   return `<article class="card">
-    <div class="pic">${p.image ? `<img loading="lazy" referrerpolicy="no-referrer" src="${esc(p.image)}" alt="" onerror="this.outerHTML='<div class=ph>${initials}</div>'">` : `<div class="ph">${initials}</div>`}</div>
+    <div class="pic">${realPhoto(p.image) ? `<img loading="lazy" referrerpolicy="no-referrer" src="${esc(p.image)}" alt="" onerror="this.className='nophoto';this.src='logo.jpg'">` : NOPHOTO}</div>
     <h3>${esc(p.name)}</h3>
     <div class="stock ${p.stock === "order" ? "order" : ""}">${p.stock === "order" ? "Под заказ" : "В наличии"}</div>
     <div class="price">${rub(p.price)}</div>
